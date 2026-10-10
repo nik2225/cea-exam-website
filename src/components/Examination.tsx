@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { useNavigate } from 'react-router-dom';
-import { Timer, ChevronLeft, ChevronRight, Bookmark, Trash2, CheckCircle2 } from 'lucide-react';
+import { Timer, ChevronLeft, ChevronRight, Bookmark, Trash2, CheckCircle2, Menu, X } from 'lucide-react';
 import { getQuestionsBySubject, saveTestResult } from '../utils/storage';
 import type { Question, TestSettings, AnswerRecord, QuestionStatus, TestResult } from '../types';
 
@@ -36,8 +36,18 @@ const Examination: React.FC = () => {
   const [submitting, setSubmitting] = useState(false);
   const [showSubmitModal, setShowSubmitModal] = useState(false);
   const [timeWarning, setTimeWarning] = useState<string | null>(null);
+  const [isPaletteOpen, setIsPaletteOpen] = useState(false);
   
   const timerRef = useRef<number | null>(null);
+
+  useEffect(() => {
+    if (isPaletteOpen) {
+      document.body.style.overflow = 'hidden';
+    } else {
+      document.body.style.overflow = '';
+    }
+    return () => { document.body.style.overflow = ''; };
+  }, [isPaletteOpen]);
 
   useEffect(() => {
     const initializeTest = async () => {
@@ -174,6 +184,7 @@ const Examination: React.FC = () => {
       const newState = updateQuestionStatus(newIdx, testState);
       setTestState(newState);
       setCurrentIndex(newIdx);
+      setIsPaletteOpen(false);
     }
   };
 
@@ -339,14 +350,24 @@ const Examination: React.FC = () => {
       {/* Header */}
       <header className="bg-slate-900 text-white px-4 py-3 flex justify-between items-center shrink-0">
         <div>
-          <h1 className="font-bold text-lg">{settings.subject}</h1>
-          <p className="text-slate-400 text-sm">{settings.mode}</p>
+          <h1 className="font-bold text-lg leading-tight line-clamp-1">{settings.subject}</h1>
+          <p className="text-slate-400 text-sm hidden sm:block">{settings.mode}</p>
         </div>
-        <div className={`flex items-center gap-2 px-4 py-2 rounded-lg font-mono text-xl font-bold ${
-          timeSecs < 60 ? 'bg-red-500 animate-pulse' : timeSecs < 300 ? 'bg-amber-500' : 'bg-slate-800'
-        }`}>
-          <Timer className="w-5 h-5" />
-          {formatTime(timeSecs)}
+        <div className="flex items-center gap-3">
+          <div className={`flex items-center gap-2 px-3 sm:px-4 py-2 rounded-lg font-mono text-lg sm:text-xl font-bold ${
+            timeSecs < 60 ? 'bg-red-500 animate-pulse' : timeSecs < 300 ? 'bg-amber-500' : 'bg-slate-800'
+          }`}>
+            <Timer className="w-5 h-5" />
+            {formatTime(timeSecs)}
+          </div>
+          
+          <button 
+            onClick={() => setIsPaletteOpen(true)}
+            className="md:hidden p-2 bg-blue-600 hover:bg-blue-700 rounded-lg text-white flex items-center justify-center transition"
+            aria-label="Open Question Palette"
+          >
+            <Menu className="w-5 h-5" />
+          </button>
         </div>
       </header>
 
@@ -354,8 +375,8 @@ const Examination: React.FC = () => {
       <div className="flex flex-1 overflow-hidden">
         
         {/* Left: Question Area */}
-        <div className="flex-1 flex flex-col p-4 overflow-y-auto">
-          <div className="bg-white rounded-xl shadow-sm border border-slate-200 flex-1 flex flex-col">
+        <div className="flex-1 flex flex-col p-4 overflow-y-auto min-h-0">
+          <div className="bg-white rounded-xl shadow-sm border border-slate-200 flex-1 flex flex-col min-h-0">
             
             {/* Q Header */}
             <div className="px-6 py-4 border-b border-slate-100 flex justify-between items-center bg-slate-50 rounded-t-xl">
@@ -364,7 +385,7 @@ const Examination: React.FC = () => {
             </div>
             
             {/* Q Body */}
-            <div className="p-6 flex-1 overflow-y-auto">
+            <div className="p-4 sm:p-6 flex-1 min-h-0 overflow-y-auto">
               <div className="text-xl font-medium text-slate-800 mb-8 whitespace-pre-wrap">
                 {currentQ.questionText}
               </div>
@@ -410,18 +431,21 @@ const Examination: React.FC = () => {
             <div className="p-4 border-t border-slate-200 bg-slate-50 flex flex-wrap gap-3 rounded-b-xl">
               <button 
                 onClick={handleMarkReview}
-                className="px-4 py-2 border border-purple-300 text-purple-700 bg-purple-50 rounded-lg hover:bg-purple-100 font-medium flex items-center gap-2 transition"
+                className="px-3 sm:px-4 py-2 border border-purple-300 text-purple-700 bg-purple-50 rounded-lg hover:bg-purple-100 font-medium flex items-center gap-2 transition"
               >
-                <Bookmark className="w-4 h-4" /> 
-                {currentAns.status.includes('marked') ? 'Unmark Review' : 'Mark for Review'}
+                <Bookmark className="w-4 h-4 shrink-0" /> 
+                <span className="hidden sm:inline">{currentAns.status.includes('marked') ? 'Unmark Review' : 'Mark for Review'}</span>
+                <span className="sm:hidden">{currentAns.status.includes('marked') ? 'Unmark' : 'Review'}</span>
               </button>
               
               <button 
                 onClick={handleClear}
                 disabled={currentAns.selectedOptionIndex === null}
-                className="px-4 py-2 border border-slate-300 text-slate-600 bg-white rounded-lg hover:bg-slate-100 font-medium flex items-center gap-2 transition disabled:opacity-50"
+                className="px-3 sm:px-4 py-2 border border-slate-300 text-slate-600 bg-white rounded-lg hover:bg-slate-100 font-medium flex items-center gap-2 transition disabled:opacity-50"
               >
-                <Trash2 className="w-4 h-4" /> Clear Response
+                <Trash2 className="w-4 h-4 shrink-0" /> 
+                <span className="hidden sm:inline">Clear Response</span>
+                <span className="sm:hidden">Clear</span>
               </button>
               
               <div className="flex-1"></div>
@@ -453,10 +477,33 @@ const Examination: React.FC = () => {
           </div>
         </div>
         
+        {/* Mobile Backdrop */}
+        {isPaletteOpen && (
+          <div 
+            className="fixed inset-0 bg-slate-900/50 z-40 md:hidden"
+            onClick={() => setIsPaletteOpen(false)}
+            aria-hidden="true"
+          />
+        )}
+        
         {/* Right: Palette */}
-        <div className="w-80 bg-white border-l border-slate-200 flex flex-col shrink-0">
+        <div className={`
+          fixed inset-y-0 right-0 z-50 transform transition-transform duration-300 ease-in-out
+          md:relative md:translate-x-0
+          w-[min(85vw,340px)] md:w-80 bg-white border-l border-slate-200 flex flex-col shrink-0
+          ${isPaletteOpen ? 'translate-x-0 shadow-2xl' : 'translate-x-full'}
+        `}>
           <div className="p-4 border-b border-slate-200">
-            <h3 className="font-bold text-slate-800">Question Palette</h3>
+            <div className="flex justify-between items-center">
+              <h3 className="font-bold text-slate-800">Question Palette</h3>
+              <button 
+                onClick={() => setIsPaletteOpen(false)}
+                className="md:hidden p-1.5 text-slate-400 hover:text-slate-600 rounded-lg hover:bg-slate-100 transition"
+                aria-label="Close Palette"
+              >
+                <X className="w-5 h-5" />
+              </button>
+            </div>
             
             <div className="grid grid-cols-2 gap-2 mt-4 text-xs font-medium text-slate-600">
               <div className="flex items-center gap-2"><div className="w-4 h-4 bg-emerald-500 rounded text-white flex justify-center items-center font-bold"></div> Answered: {counts.answered}</div>
@@ -466,7 +513,7 @@ const Examination: React.FC = () => {
             </div>
           </div>
           
-          <div className="p-4 flex-1 overflow-y-auto">
+          <div className="p-4 flex-1 min-h-0 overflow-y-auto">
             <div className="grid grid-cols-5 gap-2">
               {testState.questions.map((q, idx) => {
                 const stat = testState.answers[q.id].status;
