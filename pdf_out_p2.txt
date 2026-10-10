@@ -1,0 +1,55 @@
+
+
+========================================
+File: Sample Questions CEA - Construction Const  material Stores Account.PDF
+========================================
+--- TABLE ---
+['13', 'A low height wall', 'constructed alo', 'ng the ed', 'ge of the', 'roof is called', '3', 'gable', 'plinth', 'parapet s', 'tring cours']
+['', '', '', '', '', '', '', '', '', '', '']
+['14', 'A mortar joint in', 'masonry which', 'is norma', 'l to the f', 'ace of wall is known as', '3', 'Bed joint', 'Wall joint', 'Cross joint B', 'onded join']
+['', '', '', '', '', '', '', '', '', '', '']
+['', '', '', '', '', '', 's', 'oftening brick', 'moulding', 'tempering', 'providing']
+
+
+========================================
+File: Sample Questions CEA - Drawing.PDF
+========================================
+--- TABLE ---
+['11', '', '', '', '4 Hid', 'den Line C', 'enter Line', 'Thick Li', 'ne', 'Section']
+['', '', '', '', '', '', '', '', '', '']
+['', 'This Sybo', 'l represe', 'nts….', '', '', '', '', '', '']
+['', '', '', '', '', '', '', '', '', '']
+['12', 'What is t', 'he size o', 'f A0 Drawing Sheet in mm?', '3 42', '0 x 594', '297 x 420', '841 x 1', '189', '210 x']
+
+
+========================================
+File: Sample Questions CEA - GCE (1).PDF
+========================================
+--- TABLE ---
+['13', '', '', '', '', '', 'w', 'ater content', 'specific gravity', 'content and', 'voids ra', 'tio an']
+['', 'A pycnometer', 'is used', 'to determin', 'e', '', '3\na', 'nd voids ratio', 'and dry density', 'specific', 'dry d', 'ensity']
+['', '', '', '', '', '', '', '', '', 'gravity', '', '']
+['', '', '', '', '', '', '', '', '', '', '', '']
+['14', '', '', '', '', '', '', '', '', 'in an open', 'in a c', 'losed']
+
+
+========================================
+File: Sample Questions CEA - Maths & APM.PDF
+========================================
+--- TABLE ---
+['16', 'If the lines give', 'n by 3x+', 'ky = 2 a', 'nd 2x +', '6y = 1 are p', 'arallel, then the value o', 'f k is', '1', '9', '6', '4', '3']
+['', '', '', '', '', '', '', '', '', '', '', '', '']
+['', '', '', '', '', '', '', '', '', 'effort is 3 o', 'utput force', '', 'the work']
+['17', 'If the mechani', 'cal advan', 'tage of', 'a simpl', 'e machine', 'is 3, then the', '', '2', 'times the', 'e\nis 3 times', 'fficiency is o\n3%', 'utput is 1/\ntimes the']
+['', '', '', '', '', '', '', '', '', 'output force', 'the effort', '', 'input']
+
+
+========================================
+File: Sample Questions CEA - Surveying.PDF
+========================================
+--- TABLE ---
+['22', 'How many', 'tally marks are there in 20 m chain', '4', '1', '2', '4', '3']
+['23', 'How many', 'Two pointed tally marks are there in 20 m chain', '1', '1', '2', '4', '3']
+['', '', '', '', '', '', '', '']
+['24', '', '', '3 Ra', 'nging Rod', 'Peg', 'Chain No', 'ne of Th']
+['', '', '', '', '', '', '', '']

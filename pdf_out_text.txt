@@ -1,0 +1,116 @@
+
+
+========================================
+File: Sample Questions CEA - Construction Const  material Stores Account.PDF
+========================================
+--- TEXT ---
+13 A low height wall constructed along the edge of the roof is called 3 gable plinth parapet string course
+14 A mortar joint in masonry which is normal to the face of wall is known as 3 Bed joint Wall joint Cross joint Bonded joint
+softening brick moulding tempering providing
+15 A pug mill is used for 3
+earth brick earth brick earth brick earth
+A series of steps without any platform, break or landing in their direction, is
+16 3 riser tread flight nosing
+called
+17 A stair should not have pitch more than 3 25 30 40 10
+18 A wooden block hinged on post outside a door, is known 1 Cleat Stop Horn None of these
+4.75 mm to 2.00 mm to 0.425 mm to 0.075 mm to
+19 According to IS classification, the range of silt size particles is 4
+2.00 mm 0.425 mm 0.075 mm 0.002 mm
+Remains May increase
+20 After storage for long perid, the strength of cement ----- 1 Decreases Increases
+same or decrease
+21 An arch constructed with finely dressed stones, is known 1 Ashlar arch Rubble arch Gauged arch Axed arch
+22 A
+
+========================================
+File: Sample Questions CEA - Drawing.PDF
+========================================
+--- TEXT ---
+11 4 Hidden Line Center Line Thick Line Section Line
+This Sybol represents….
+12 What is the size of A0 Drawing Sheet in mm? 3 420 x 594 297 x 420 841 x 1189 210 x 297
+13 What is the size of A4 Drawing Sheet in mm? 4 420 x 594 297 x 420 841 x 1189 210 x 297
+14 1 Right hand Curve Left had Curve Overtaking Allowed U- Turn
+Indentify the road Sign
+15 2 No Stoppage No Entry No Horn Straight Road
+Indentify the road Sign
+16 3 Rock Embankment Hearting Phreatic Line Toe Drain
+The line shown is called as….
+17 4 Rock Embankment Hearting Phreatic Line Toe Drain
+Indentify the compent
+A
+18 1 Right of Way Raodway Carriage Way Margines
+The part A is called as….
+
+========================================
+File: Sample Questions CEA - GCE (1).PDF
+========================================
+--- TEXT ---
+water
+water content specific gravity content and voids ratio and
+13 A pycnometer is used to determine 3
+and voids ratio and dry density specific dry density
+gravity
+in an open in a closed
+14 A rain gauge should preferably be fixed 3 near building under tree
+space space
+is some
+times called
+produces a
+records the integrating
+15 A recording type rain gauge 4 mass curve of all of these
+cumulative rain rain gauge or
+rain fall
+continuous
+rain gauge
+16 A river training work is generally required when the river is 1 meandering aggrading degrading all of these
+under
+17 A section with more reinforcement than balanced section is called 2 balanced over reinforced none of these
+reinforced
+percussion diamond
+18 A solid core of rock is formed in side the cylinder in case of 3 auger boring wash boring
+drilling drilling
+19 A type of cast-in-situ pile which has an enlarged base and a corrugated stem, is 2 Simplex pile Frankie pile Vibro-pile Raymond pile
+Pressure
+Pressure
+difference
+Pressure of Dischar
+
+========================================
+File: Sample Questions CEA - Maths & APM.PDF
+========================================
+--- TEXT ---
+16 If the lines given by 3x+ ky = 2 and 2x + 6y = 1 are parallel, then the value of k is 1 9 6 4 3
+the work
+effort is 3 output force
+efficiency is output is 1/3
+17 If the mechanical advantage of a simple machine is 3, then the 2 times the is 3 times
+3% times the
+output force the effort
+input
+If the radius of cylinder is halved and height is doubled, then what will be increase
+18 2 the same double triple
+the curved surface area? by 1
+19 If x = 3t2 - 2t, find dx/dt when t = 3 sec 3 10 12 16 0
+20 If sum of two number is 4 and difference is 2 , find the numbers ---- 2 2,1 3,1 4,6 1,2
+21 If y=5x + 1 is line equation then value of slope is equal to---- 2 3 5 1/5 1/2
+22 In 15 minutes a car whose speed is 40 km/h travels a distance of 1 10 km 20 km 40 km 25 km
+on the both at the ends
+23 In a cantilever beam reinforcement is placed ……… beam section 4 @ bottom of on the top of
+faces only
+In a homogeneous body, the whole weight of the body is assumed to be centre of gravity centriod of the centre
+
+========================================
+File: Sample Questions CEA - Surveying.PDF
+========================================
+--- TEXT ---
+Sr. No. Question Correct Option Option 1 Option 2 Option 3 Option 4
+22 How many tally marks are there in 20 m chain 4 1 2 4 3
+23 How many Two pointed tally marks are there in 20 m chain 1 1 2 4 3
+24 3 Ranging Rod Peg Chain None of These
+Identify the survey instrument
+25 1 Indirtect Ranging Direct Ranging Hill Ranging Inclined Ranging
+Identify the Ranginf Process….
+26 2 99.255 100.255 98.255 101.255
+Find the RL of Point A

@@ -1,0 +1,3175 @@
+[
+  {
+    "id": "GCE_1_1",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 1,
+    "questionText": "----   is commonly used in sliding bearings",
+    "options": [
+      "Crude Oil",
+      "Poly Tetra  Fluoro  Ethylene (PTFE)",
+      "Petrol",
+      "All of these"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 1,
+    "sourcePagePath": "/pdf_pages/GCE_full_p1.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_2_1",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 2,
+    "questionText": "--------  means removal of soluble salts from the root zone",
+    "options": [
+      "Clearing",
+      "Leaching",
+      "Cleaning",
+      "moulding"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 1,
+    "sourcePagePath": "/pdf_pages/GCE_full_p1.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_3_1",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 3,
+    "questionText": "\"Dead Slow\"   is a",
+    "options": [
+      "regulatory sign",
+      "warning sign",
+      "informatory  sign",
+      "none of these"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 1,
+    "sourcePagePath": "/pdf_pages/GCE_full_p1.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_4_1",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 4,
+    "questionText": "1 hectare",
+    "options": [
+      "2.01 acre",
+      "3.22 acre",
+      "2.71 acre",
+      "2.47 acre"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 1,
+    "sourcePagePath": "/pdf_pages/GCE_full_p1.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_5_1",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 5,
+    "questionText": "1 mm rainfall over a hector =    -------   cubic meter",
+    "options": [
+      "200",
+      "100",
+      "10",
+      "25"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 1,
+    "sourcePagePath": "/pdf_pages/GCE_full_p1.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_6_1",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 6,
+    "questionText": "1 ton of Portland cement equal to ---",
+    "options": [
+      "10 bags",
+      "20 bags",
+      "30 bags",
+      "50 bags"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 1,
+    "sourcePagePath": "/pdf_pages/GCE_full_p1.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_7_1",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 7,
+    "questionText": "A complete signal-time cycle constitutes",
+    "options": [
+      "red timing",
+      "yellow timing",
+      "green timing",
+      "all of these"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 1,
+    "sourcePagePath": "/pdf_pages/GCE_full_p1.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_8_1",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 8,
+    "questionText": "A facing of masonry or stones to protect an embankment from erosion.",
+    "options": [
+      "abutment",
+      "revetment",
+      "deck",
+      "pier"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 1,
+    "sourcePagePath": "/pdf_pages/GCE_full_p1.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_9_1",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 9,
+    "questionText": "A fluid which obeys  the Newton's law of viscosity is termed as",
+    "options": [
+      "Real fluid",
+      "Ideal fluid",
+      "Newtonian  fluid",
+      "Non- Newtonian  fluid"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 1,
+    "sourcePagePath": "/pdf_pages/GCE_full_p1.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_10_1",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 10,
+    "questionText": "A member constructed of steel / concrete driven into the ground to carry axial loads",
+    "options": [
+      "bearing pile",
+      "slab",
+      "pier",
+      "none of these"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 1,
+    "sourcePagePath": "/pdf_pages/GCE_full_p1.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_11_1",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 11,
+    "questionText": "A piezometer opening in pipe measures",
+    "options": [
+      "Velocity head",
+      "static pressure",
+      "total pressure",
+      "negative static  pressure"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 1,
+    "sourcePagePath": "/pdf_pages/GCE_full_p1.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_12_1",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 12,
+    "questionText": "A pilot tube is used to measure",
+    "options": [
+      "pressure",
+      "differerence in  pressure",
+      "velocity of  flow",
+      "none of these"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 1,
+    "sourcePagePath": "/pdf_pages/GCE_full_p1.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_13_2",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 13,
+    "questionText": "A pycnometer is used to determine",
+    "options": [
+      "water content  and voids ratio",
+      "specific gravity  and dry density",
+      "water  content and  specific  gravity",
+      "voids ratio and  dry density"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 2,
+    "sourcePagePath": "/pdf_pages/GCE_full_p2.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_14_2",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 14,
+    "questionText": "A rain gauge should preferably be fixed",
+    "options": [
+      "near building",
+      "under tree",
+      "in an open  space is some",
+      "in a closed  space"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 2,
+    "sourcePagePath": "/pdf_pages/GCE_full_p2.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_15_2",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 15,
+    "questionText": "A recording type rain gauge",
+    "options": [
+      "produces a  mass curve of  rain fall",
+      "records the  cumulative rain",
+      "times called  integrating  rain gauge or  continuous",
+      "all of these"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 2,
+    "sourcePagePath": "/pdf_pages/GCE_full_p2.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_16_2",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 16,
+    "questionText": "A river training work is generally required when the river is",
+    "options": [
+      "meandering",
+      "aggrading",
+      "rain gauge degrading",
+      "all of these"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 2,
+    "sourcePagePath": "/pdf_pages/GCE_full_p2.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_17_2",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 17,
+    "questionText": "A section with more reinforcement than balanced section is called",
+    "options": [
+      "balanced",
+      "over reinforced",
+      "under  reinforced",
+      "none of these"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 2,
+    "sourcePagePath": "/pdf_pages/GCE_full_p2.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_18_2",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 18,
+    "questionText": "A solid core of rock is formed in side the cylinder in case of",
+    "options": [
+      "auger boring",
+      "percussion  drilling",
+      "diamond  drilling",
+      "wash boring"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 2,
+    "sourcePagePath": "/pdf_pages/GCE_full_p2.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_19_2",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 19,
+    "questionText": "A type of cast-in-situ pile which has an enlarged base and a corrugated stem, is",
+    "options": [
+      "Simplex pile",
+      "Frankie pile",
+      "Vibro-pile",
+      "Raymond pile"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 2,
+    "sourcePagePath": "/pdf_pages/GCE_full_p2.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_20_2",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 20,
+    "questionText": "A Venturimeter is used to measure",
+    "options": [
+      "Pressure of  liquid",
+      "Discharge of  liquid",
+      "Pressure  difference  between two  points in a  channel",
+      "Pressure  difference  between two  points in a pipe"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 2,
+    "sourcePagePath": "/pdf_pages/GCE_full_p2.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_21_2",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 21,
+    "questionText": "A wooden block hinged on post outside a door is known",
+    "options": [
+      "cleat",
+      "stop",
+      "horn",
+      "none of these"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 2,
+    "sourcePagePath": "/pdf_pages/GCE_full_p2.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_22_2",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 22,
+    "questionText": "Addition of pozzolana to ordinary Portland cement increases",
+    "options": [
+      "bleeding",
+      "shrinkage",
+      "permeability",
+      "heat of  hydration"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 2,
+    "sourcePagePath": "/pdf_pages/GCE_full_p2.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_23_2",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 23,
+    "questionText": "An arch may fail due to",
+    "options": [
+      "Uneven  settlement of  abutments",
+      "Sliding of  voussoirs",
+      "Crushing of  the material",
+      "All of these"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 2,
+    "sourcePagePath": "/pdf_pages/GCE_full_p2.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_24_3",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 24,
+    "questionText": "Area covering all floods collecting  is called as ---",
+    "options": [
+      "River Basin",
+      "Valley",
+      "Hills",
+      "All of these"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 3,
+    "sourcePagePath": "/pdf_pages/GCE_full_p3.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_25_3",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 25,
+    "questionText": "ARG means",
+    "options": [
+      "Automatic  Random Gauge",
+      "Automatic  Rain Guard",
+      "Automatic  Rain Gauge",
+      "Average Rain  Gauge"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 3,
+    "sourcePagePath": "/pdf_pages/GCE_full_p3.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_26_3",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 26,
+    "questionText": "As per IRC specifications the camber for cement concrete surface roads is",
+    "options": [
+      "1 in 60",
+      "1 in 80",
+      "1 in 100",
+      "1 in 120"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 3,
+    "sourcePagePath": "/pdf_pages/GCE_full_p3.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_27_3",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 27,
+    "questionText": "Basalts in which practically no crystallization has taken place and which consist  mostly of basalt glass are called",
+    "options": [
+      "tachylytes",
+      "laterite",
+      "ignite",
+      "sand stone"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 3,
+    "sourcePagePath": "/pdf_pages/GCE_full_p3.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_28_3",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 28,
+    "questionText": "Best type of piles for soft soil having little resistance to the flow of concrete, is",
+    "options": [
+      "Simplex pile",
+      "Vibro pile",
+      "Raymond pile",
+      "Frankie pile"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 3,
+    "sourcePagePath": "/pdf_pages/GCE_full_p3.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_29_3",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 29,
+    "questionText": "Bituminous paint is used to coat",
+    "options": [
+      "external  concrete  surfaces",
+      "iron work  under water",
+      "woodwork",
+      "compound  walls"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 3,
+    "sourcePagePath": "/pdf_pages/GCE_full_p3.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_30_3",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 30,
+    "questionText": "Borrow pits should preferably be located in",
+    "options": [
+      "field on the left  side of canal",
+      "field on the  right side of  canal",
+      "field on both  sides of canal",
+      "central half  width of the  section of the  canal"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 3,
+    "sourcePagePath": "/pdf_pages/GCE_full_p3.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_31_3",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 31,
+    "questionText": "Bricks are burnt to ……..",
+    "options": [
+      "attain hardness  and strength",
+      "colour and  shape",
+      "get the  correct shape",
+      "none of these"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 3,
+    "sourcePagePath": "/pdf_pages/GCE_full_p3.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_32_3",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 32,
+    "questionText": "CBR means",
+    "options": [
+      "Calibrated  Bearing Ratio",
+      "Clear Bearing  Ratio",
+      "California  Bearing Ratio",
+      "Compact  Bearing Ratio"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 3,
+    "sourcePagePath": "/pdf_pages/GCE_full_p3.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_33_3",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 33,
+    "questionText": "Cement required for one cum M20 concrete is",
+    "options": [
+      "2.0 bags",
+      "7.6 bags",
+      "2 bags",
+      "9 bags"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 3,
+    "sourcePagePath": "/pdf_pages/GCE_full_p3.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_34_3",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 34,
+    "questionText": "Cement required for UCR masonry in CM 1:3 is",
+    "options": [
+      "2.6 bags / cum",
+      "4.1 bags / cum",
+      "3.0 bags /  cum",
+      "4.9 bags / cum"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 3,
+    "sourcePagePath": "/pdf_pages/GCE_full_p3.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_35_3",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 35,
+    "questionText": "Classification of bridges according to loading are",
+    "options": [
+      "class 'AA'  bridges",
+      "class 'A'  bridges",
+      "class 'B'  bridges",
+      "all of these"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 3,
+    "sourcePagePath": "/pdf_pages/GCE_full_p3.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_36_3",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 36,
+    "questionText": "Coefficient of friction is less when the pavement surface is",
+    "options": [
+      "rough",
+      "dry",
+      "smooth and  dry",
+      "smooth and  wet"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 3,
+    "sourcePagePath": "/pdf_pages/GCE_full_p3.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_37_3",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 37,
+    "questionText": "Contour interval is",
+    "options": [
+      "the horizontal  distance  between two  consecutive  contours",
+      "the vertical  distance  between two  points on  same contour",
+      "the horizontal  distance  between two  points on  same contour",
+      "none of these"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 3,
+    "sourcePagePath": "/pdf_pages/GCE_full_p3.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_38_4",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 38,
+    "questionText": "Contracts in Govt. are entered between contractor and ………………",
+    "options": [
+      "Executive  Engineer",
+      "Superintending   Engineer",
+      "Chief  Engineer Deputy",
+      "none of these"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 4,
+    "sourcePagePath": "/pdf_pages/GCE_full_p4.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_39_4",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 39,
+    "questionText": "Cross check for steel reinforcement of RCC slab is required to be done by",
+    "options": [
+      "Executive  Engineer of the  concerned  division",
+      "Deputy  Engineer of  concerned sub  division",
+      "Engineer of  any sub  division not  concerned",
+      "all of these"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 4,
+    "sourcePagePath": "/pdf_pages/GCE_full_p4.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_40_4",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 40,
+    "questionText": "Cross cut saw is used for",
+    "options": [
+      "cutting soft  stones",
+      "cutting hard  stones",
+      "cutting large  blocks of  stones",
+      "dressing  stones"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 4,
+    "sourcePagePath": "/pdf_pages/GCE_full_p4.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_41_4",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 41,
+    "questionText": "Curing of concrete is done to have",
+    "options": [
+      "better  appearance",
+      "become strong  & durable",
+      "optimize use  of cement  content",
+      "none of these"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 4,
+    "sourcePagePath": "/pdf_pages/GCE_full_p4.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_42_4",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 42,
+    "questionText": "Dado is usually provided in",
+    "options": [
+      "dinning halls",
+      "bath rooms plastered",
+      "living rooms plastered",
+      "verandah"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 4,
+    "sourcePagePath": "/pdf_pages/GCE_full_p4.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_43_4",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 43,
+    "questionText": "Distemper is used on",
+    "options": [
+      "brick walls",
+      "surfaces  exposed to  weather",
+      "surfaces not  exposed to  weather",
+      "all of these"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 4,
+    "sourcePagePath": "/pdf_pages/GCE_full_p4.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_44_4",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 44,
+    "questionText": "Due to temperature effect -----  are developed in concrete work",
+    "options": [
+      "cracks",
+      "energy  easements",
+      "both of these",
+      "none of these"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 4,
+    "sourcePagePath": "/pdf_pages/GCE_full_p4.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_45_4",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 45,
+    "questionText": "Dumpy level is most suitable when",
+    "options": [
+      "the instrument  is to be shifted  frequently",
+      "fly levelling is  being done  over long  distance",
+      "many  readings ae  to be taken  from a single  setting of the  instruments",
+      "all of these"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 4,
+    "sourcePagePath": "/pdf_pages/GCE_full_p4.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_46_4",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 46,
+    "questionText": "Early attainment of strength in rapid hardening cement is mainly due to",
+    "options": [
+      "gypsum",
+      "fine grinding",
+      "tricalcium  silicate",
+      "tricalcium  aluminate"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 4,
+    "sourcePagePath": "/pdf_pages/GCE_full_p4.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_47_4",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 47,
+    "questionText": "Enoscope is used to find",
+    "options": [
+      "average speed",
+      "spot speed",
+      "space-mean  speed",
+      "time-mean  speed"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 4,
+    "sourcePagePath": "/pdf_pages/GCE_full_p4.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_48_5",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 48,
+    "questionText": "Factors affecting alignment of roads are",
+    "options": [
+      "need of traffic",
+      "purpose and  class of road",
+      "curve",
+      "all of these"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 5,
+    "sourcePagePath": "/pdf_pages/GCE_full_p5.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_49_5",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 49,
+    "questionText": "Failure of the stability of slopes, generally occurs along",
+    "options": [
+      "slip plane",
+      "horizontal  surface",
+      "a curved  surface",
+      "all the surfaces"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 5,
+    "sourcePagePath": "/pdf_pages/GCE_full_p5.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_50_5",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 50,
+    "questionText": "Fluid is a substance which offers no resistance to change of",
+    "options": [
+      "pressure",
+      "flow",
+      "shape",
+      "volume"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 5,
+    "sourcePagePath": "/pdf_pages/GCE_full_p5.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_51_5",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 51,
+    "questionText": "For a number of columns constructed in a row, the type of foundation provided is",
+    "options": [
+      "footing",
+      "raft",
+      "strap",
+      "strip"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 5,
+    "sourcePagePath": "/pdf_pages/GCE_full_p5.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_52_5",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 52,
+    "questionText": "For colgrout masonry the water cement ratio is about",
+    "options": [
+      "0.35",
+      "0.50",
+      "0.84",
+      "0.2"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 5,
+    "sourcePagePath": "/pdf_pages/GCE_full_p5.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_53_5",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 53,
+    "questionText": "For determination of average annual precipitation in a catchment basin, the best  method is",
+    "options": [
+      "arithmetical  method",
+      "Thiessen's  mean method",
+      "Isohyetal  method",
+      "none of these"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 5,
+    "sourcePagePath": "/pdf_pages/GCE_full_p5.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_54_5",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 54,
+    "questionText": "FRPs means",
+    "options": [
+      "fixed-reinforced  plastics",
+      "fiber- reinforced  plastics",
+      "final- reinforced  plastics",
+      "fiber-ready  plastics"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 5,
+    "sourcePagePath": "/pdf_pages/GCE_full_p5.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_55_5",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 55,
+    "questionText": "Give full form of CWC",
+    "options": [
+      "Centurian  Water  Commission",
+      "Central Water  Committee",
+      "Central Wake  up  Commission",
+      "Central Water  Commission"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 5,
+    "sourcePagePath": "/pdf_pages/GCE_full_p5.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_56_5",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 56,
+    "questionText": "Gneiss is chemically classified as",
+    "options": [
+      "calcareous rock",
+      "argillaceous  rock",
+      "silicious rock",
+      "none of these"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 5,
+    "sourcePagePath": "/pdf_pages/GCE_full_p5.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_57_5",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 57,
+    "questionText": "Grade of high strength defamed bar generally used is",
+    "options": [
+      "Fe 1000",
+      "Fe 415",
+      "Fe 1400",
+      "Fe1200"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 5,
+    "sourcePagePath": "/pdf_pages/GCE_full_p5.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_58_5",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 58,
+    "questionText": "Grader is used mainly for",
+    "options": [
+      "trimming and  finishing",
+      "shaping and  trimming",
+      "finishing and  shaping",
+      "finishing,  shaping and"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 5,
+    "sourcePagePath": "/pdf_pages/GCE_full_p5.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_59_5",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 59,
+    "questionText": "Grage of high strength defomed bar generally used is",
+    "options": [
+      "Fe 1000",
+      "Fe 415",
+      "Fe 1400",
+      "trimming Fe1200"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 5,
+    "sourcePagePath": "/pdf_pages/GCE_full_p5.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_60_5",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 60,
+    "questionText": "HFL full form is",
+    "options": [
+      "Highest Flood  Level",
+      "His Flood Level",
+      "Highest  Flooding  Length",
+      "Highest Flood  Latitude"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 5,
+    "sourcePagePath": "/pdf_pages/GCE_full_p5.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_61_5",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 61,
+    "questionText": "HPC is short form of",
+    "options": [
+      "Heavy Pipe  Culvert",
+      "High Pipe  Culvert",
+      "Hume Pipe  Culvert",
+      "Hume Pipe  Cooling"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 5,
+    "sourcePagePath": "/pdf_pages/GCE_full_p5.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_62_5",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 62,
+    "questionText": "Hydrograph is graphical representation of",
+    "options": [
+      "Runoff and  time",
+      "seepage and  time",
+      "rainfall and  time",
+      "discharge and  time"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 5,
+    "sourcePagePath": "/pdf_pages/GCE_full_p5.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_63_6",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 63,
+    "questionText": "Hydrology helps in",
+    "options": [
+      "predicting  maximum flows",
+      "deciding the  minimum  reservoir  capacity",
+      "forecasting  the  availability of  quantity of  water at",
+      "all of these"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 6,
+    "sourcePagePath": "/pdf_pages/GCE_full_p6.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_64_6",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 64,
+    "questionText": "Hydrostatic pressure on a dam depend upons it",
+    "options": [
+      "length",
+      "depth",
+      "reservoir site shape",
+      "both depth &  shape"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 6,
+    "sourcePagePath": "/pdf_pages/GCE_full_p6.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_65_6",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 65,
+    "questionText": "IMD is short form of",
+    "options": [
+      "Indian Medical  Department",
+      "Indian  Meteorological  Department",
+      "Indian  Material Draft",
+      "Indian Metro  Department"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 6,
+    "sourcePagePath": "/pdf_pages/GCE_full_p6.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_66_6",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 66,
+    "questionText": "In case of multistoreyed buildings, the forms to be removed first are",
+    "options": [
+      "sides of beams  and girders",
+      "column forms",
+      "bottom of  beams and  girders",
+      "all of these at  the same time"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 6,
+    "sourcePagePath": "/pdf_pages/GCE_full_p6.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_67_6",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 67,
+    "questionText": "In Deccan trap ------   basalt is seen",
+    "options": [
+      "sedimentary",
+      "amygdaloidal",
+      "metamorphic",
+      "none of these"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 6,
+    "sourcePagePath": "/pdf_pages/GCE_full_p6.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_68_6",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 68,
+    "questionText": "In steady flow of a fiuid, the total acceleration of any fluid particle.",
+    "options": [
+      "can be zero",
+      "is never zero",
+      "is always zero",
+      "is independent  of co-ordinates"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 6,
+    "sourcePagePath": "/pdf_pages/GCE_full_p6.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_69_6",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 69,
+    "questionText": "Intersection method of detailed plotting is most suitable for",
+    "options": [
+      "forests",
+      "urban areas",
+      "hilly areas",
+      "plains"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 6,
+    "sourcePagePath": "/pdf_pages/GCE_full_p6.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_70_6",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 70,
+    "questionText": "Irrigation canals are generally aligned along",
+    "options": [
+      "contour line",
+      "valley line",
+      "straight line",
+      "ridge line"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 6,
+    "sourcePagePath": "/pdf_pages/GCE_full_p6.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_71_6",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 71,
+    "questionText": "Jumper is a tool used for",
+    "options": [
+      "testing of stones",
+      "quarrying of  stones",
+      "dressing of  stones",
+      "none of these"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 6,
+    "sourcePagePath": "/pdf_pages/GCE_full_p6.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_72_6",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 72,
+    "questionText": "Los Angeles testing machine is used to conduct",
+    "options": [
+      "abrasion test",
+      "impact test",
+      "attrition test",
+      "crushing  strength test"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 6,
+    "sourcePagePath": "/pdf_pages/GCE_full_p6.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_73_6",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 73,
+    "questionText": "Low percentage of tricalcium silicate and high percentage of dicalcium silicate in  cement result in",
+    "options": [
+      "rapid hardering",
+      "high early  strength",
+      "high heat  generation",
+      "none of these"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 6,
+    "sourcePagePath": "/pdf_pages/GCE_full_p6.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_74_6",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 74,
+    "questionText": "Mannings formula is used for calculating",
+    "options": [
+      "volume of  earthwork in  canal",
+      "velocity of flow  in open  channel",
+      "velocity  gradient in  open channel",
+      "none of these"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 6,
+    "sourcePagePath": "/pdf_pages/GCE_full_p6.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_75_7",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 75,
+    "questionText": "Manning's formula is used for calculating",
+    "options": [
+      "volume of  earthwork in  canal",
+      "velocity of flow  in open  channel",
+      "velocity  gradient in  open channel",
+      "none of these"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 7,
+    "sourcePagePath": "/pdf_pages/GCE_full_p7.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_76_7",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 76,
+    "questionText": "MCM  is short form of",
+    "options": [
+      "Meter Cubic  Meter",
+      "Million Cubic  Meter",
+      "Metric Cubic  Meter",
+      "Million Cubic  Mass"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 7,
+    "sourcePagePath": "/pdf_pages/GCE_full_p7.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_77_7",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 77,
+    "questionText": "Member which is placed horizontally to support common rafter of a sloping roof is",
+    "options": [
+      "cleat",
+      "purlin",
+      "batten",
+      "strut"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 7,
+    "sourcePagePath": "/pdf_pages/GCE_full_p7.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_78_7",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 78,
+    "questionText": "Minimum compressive strength of OPC cement 43 grade at 28 days is",
+    "options": [
+      "430 kg / cm",
+      "2 330 kg / cm",
+      "2 230 kg / cm",
+      "2 43 kg / cm 2"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 7,
+    "sourcePagePath": "/pdf_pages/GCE_full_p7.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_79_7",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 79,
+    "questionText": "Minimum shoulder width as per the recommendation of IRC for major district  roads, two lane is",
+    "options": [
+      "1 m",
+      "1.5 m",
+      "2 m",
+      "2.5 m"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 7,
+    "sourcePagePath": "/pdf_pages/GCE_full_p7.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_80_7",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 80,
+    "questionText": "Minimum thickness of wall where single Flemish bond can be used is",
+    "options": [
+      "one brick thick",
+      "one and a half  bricks thick",
+      "two bricks  thick",
+      "half brick thick"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 7,
+    "sourcePagePath": "/pdf_pages/GCE_full_p7.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_81_7",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 81,
+    "questionText": "Most commonly used pump for lifting water in water supply mains is",
+    "options": [
+      "axial flow pump",
+      "reciprocating  pump",
+      "rotary type  pump",
+      "centrifugal  pumps"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 7,
+    "sourcePagePath": "/pdf_pages/GCE_full_p7.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_82_7",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 82,
+    "questionText": "Most suitable material for highway embankments is",
+    "options": [
+      "organic soil",
+      "sand",
+      "silts",
+      "clays"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 7,
+    "sourcePagePath": "/pdf_pages/GCE_full_p7.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_83_7",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 83,
+    "questionText": "Movable barrier of shutter component is",
+    "options": [
+      "style",
+      "panel",
+      "rail",
+      "all of these"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 7,
+    "sourcePagePath": "/pdf_pages/GCE_full_p7.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_84_7",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 84,
+    "questionText": "OMC is short form of",
+    "options": [
+      "Other Moisture  Content",
+      "Obey Moisture  Content",
+      "Optimum  Moisture Clarity ",
+      "Optimum  Moisture Content"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 7,
+    "sourcePagePath": "/pdf_pages/GCE_full_p7.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_85_7",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 85,
+    "questionText": "Ornamental moulded course placed on the top of a wall, is",
+    "options": [
+      "Cornice",
+      "Coping",
+      "Clarity  Frieze",
+      "Content  Lintel"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 7,
+    "sourcePagePath": "/pdf_pages/GCE_full_p7.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_86_7",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 86,
+    "questionText": "Penetration test on bitumen is used for determining its",
+    "options": [
+      "grade",
+      "viscosity",
+      "ductility",
+      "temperature  susceptibility"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 7,
+    "sourcePagePath": "/pdf_pages/GCE_full_p7.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_87_7",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 87,
+    "questionText": "Pitot tube is used for measurement of",
+    "options": [
+      "Pressure",
+      "Flow",
+      "Velocity",
+      "Discharge"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 7,
+    "sourcePagePath": "/pdf_pages/GCE_full_p7.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_88_7",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 88,
+    "questionText": "PPM means",
+    "options": [
+      "Part Per Million",
+      "Part Per Meter",
+      "Per Part of  Million",
+      "Part Per Mass"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 7,
+    "sourcePagePath": "/pdf_pages/GCE_full_p7.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_89_7",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 89,
+    "questionText": "Pug mill is used for",
+    "options": [
+      "preparation of  clay",
+      "moulding of  clay",
+      "drying of  bricks",
+      "burning of  bricks"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 7,
+    "sourcePagePath": "/pdf_pages/GCE_full_p7.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_90_7",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 90,
+    "questionText": "Queen closer may be placed",
+    "options": [
+      "in header  course",
+      "in stretcher  course",
+      "in header  course next  to first brick",
+      "in stretcher  course next to  first  brick"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 7,
+    "sourcePagePath": "/pdf_pages/GCE_full_p7.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_91_8",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 91,
+    "questionText": "Raft foundations are used for",
+    "options": [
+      "Providing  increased area  of foundation  over poor  bearing  capacity of soil",
+      "Spanning over  small soft or  loose pockets",
+      "Counter  acting the  hydrostatic  effect",
+      "All of these"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 8,
+    "sourcePagePath": "/pdf_pages/GCE_full_p8.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_92_8",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 92,
+    "questionText": "Refrogression of the bed level of a river down stream a weir, occurs due to",
+    "options": [
+      "heavy impact  of water",
+      "increase of  the bed level",
+      "less  percentage  of silt",
+      "soft soil strata"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 8,
+    "sourcePagePath": "/pdf_pages/GCE_full_p8.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_93_8",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 93,
+    "questionText": "Reynold number is the ratio of initial force and",
+    "options": [
+      "viscosity",
+      "elasticity",
+      "gravity",
+      "surface  tension"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 8,
+    "sourcePagePath": "/pdf_pages/GCE_full_p8.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_94_8",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 94,
+    "questionText": "Ribbed for steel is not hooked because",
+    "options": [
+      "its strength is  reduced while  bending",
+      "bond strength  is not required  for RCC",
+      "bond  strength is  developed  due to ribs",
+      "none of these"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 8,
+    "sourcePagePath": "/pdf_pages/GCE_full_p8.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_95_8",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 95,
+    "questionText": "River gauging data is useful for ----",
+    "options": [
+      "Flood  Management",
+      "Population  Calculation",
+      "Forestation",
+      "Rural  Development"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 8,
+    "sourcePagePath": "/pdf_pages/GCE_full_p8.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_96_8",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 96,
+    "questionText": "Roads are classified based upon the different areas of the country as",
+    "options": [
+      "national  highway",
+      "state highway",
+      "district road",
+      "all of these"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 8,
+    "sourcePagePath": "/pdf_pages/GCE_full_p8.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_97_8",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 97,
+    "questionText": "Safe bearing capacity of black cotton soil is",
+    "options": [
+      "10 to 25 T/m",
+      "2 15 to 30 T/m2",
+      "5 to 15 T/m2",
+      "30 to 40 T/m2"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 8,
+    "sourcePagePath": "/pdf_pages/GCE_full_p8.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_98_8",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 98,
+    "questionText": "Scrapers are classified as",
+    "options": [
+      "single engine",
+      "twin engine",
+      "multy engine",
+      "all of these"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 8,
+    "sourcePagePath": "/pdf_pages/GCE_full_p8.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_99_8",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 99,
+    "questionText": "Self cleansing velocity is",
+    "options": [
+      "velocity at dry  weather flow",
+      "velocity of  water at  flushing",
+      "velocity of  which no  accumulation  remains in  the drains",
+      "velocity of  water in a  pressure filter"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 8,
+    "sourcePagePath": "/pdf_pages/GCE_full_p8.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_100_8",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 100,
+    "questionText": "Sieve analysis of sand is done to find out",
+    "options": [
+      "bulking of sand",
+      "fineness  modulus of  sand",
+      "particle size  of sand",
+      "none of these"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 8,
+    "sourcePagePath": "/pdf_pages/GCE_full_p8.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_101_9",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 101,
+    "questionText": "Slump test of concrete is a measure of its",
+    "options": [
+      "impact value",
+      "consistency",
+      "tensile  strength",
+      "compressive  strength"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/GCE_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_102_9",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 102,
+    "questionText": "Soils are -------- phase materials",
+    "options": [
+      "One",
+      "Three",
+      "Two",
+      "Ten"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/GCE_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_103_9",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 103,
+    "questionText": "Some common sedimentary rocks are",
+    "options": [
+      "chalk",
+      "coal",
+      "clay stone",
+      "all of these"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/GCE_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_104_9",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 104,
+    "questionText": "Steel in RCC beam takes",
+    "options": [
+      "dead load",
+      "live load",
+      "tension",
+      "compression"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/GCE_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_105_9",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 105,
+    "questionText": "Steel strands used for post tensioning.",
+    "options": [
+      "tendon",
+      "deck",
+      "pier",
+      "all of these"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/GCE_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_106_9",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 106,
+    "questionText": "Stopping sight distance is always",
+    "options": [
+      "less than  overtaking sight  distance",
+      "equal to  overtaking  sight distance",
+      "more than  overtaking  sight distance",
+      "none of these"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/GCE_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_107_9",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 107,
+    "questionText": "Stream lines and path lines always coincide in case of",
+    "options": [
+      "steady flow",
+      "laminar flow",
+      "uniform flow",
+      "turbulent flow"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/GCE_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_108_9",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 108,
+    "questionText": "Structure constructed over the road for canal water flow is called as",
+    "options": [
+      "Bridge",
+      "Siphon",
+      "Aqueduct",
+      "None of these"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/GCE_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_109_9",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 109,
+    "questionText": "System of submission of B-1 tender is",
+    "options": [
+      "one envelope",
+      "two envelope",
+      "three  envelope",
+      "four envelope"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/GCE_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_110_9",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 110,
+    "questionText": "The aggregates required for one km. length of W.B.M. road per meter width and for  10 mm thickness is",
+    "options": [
+      "8 m 3",
+      "10 m 3",
+      "12 m 3",
+      "15 m 3"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/GCE_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_111_9",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 111,
+    "questionText": "The arrangement of supporting an existing structure by providing supports  underneath, is known as",
+    "options": [
+      "Shoring",
+      "Underpinning",
+      "Jacking",
+      "Piling"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/GCE_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_112_9",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 112,
+    "questionText": "The asbestos cement pipes are generally laid",
+    "options": [
+      "horizontally",
+      "vertically",
+      "at an angle  of 30",
+      "at an angle of  60"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/GCE_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_113_9",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 113,
+    "questionText": "The atmospheric pressure at sea level is",
+    "options": [
+      "103 kN/m2",
+      "10.3 m of water",
+      "760 mm of  mercury",
+      "All of these"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/GCE_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_114_9",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 114,
+    "questionText": "The bearing capacity of black cotton soil is measured as",
+    "options": [
+      "in kg",
+      "in ton",
+      "2 in T/m",
+      "all of these"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/GCE_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_115_9",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 115,
+    "questionText": "The brick laid with its breath parallel to the face of a wall is known as",
+    "options": [
+      "header",
+      "stretcher",
+      "closer",
+      "none of these"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/GCE_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_116_9",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 116,
+    "questionText": "The coefficient of friction between the concrete and soil is",
+    "options": [
+      "0.20 to 0.25",
+      "0.25 to 0.30",
+      "0.30 to 0.35",
+      "0.35 to 0.50"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/GCE_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_117_9",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 117,
+    "questionText": "The concrete slump recommended for beams and slabs is",
+    "options": [
+      "25 to 50 mm",
+      "25 to 75 mm",
+      "30 to 125 mm",
+      "50 to 100 mm"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/GCE_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_118_9",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 118,
+    "questionText": "The crushing strength of burnt brick  II   class shall be minimum of",
+    "options": [
+      "200 kg / cm",
+      "2 35 kg / cm",
+      "2 400 kg / cm",
+      "2 2 350 kg/cm"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/GCE_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_119_9",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 119,
+    "questionText": "The current meter is used to measure the",
+    "options": [
+      "Velocity",
+      "depth",
+      "discharge",
+      "pressure"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/GCE_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_120_9",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 120,
+    "questionText": "The design life of bridge is considered to be",
+    "options": [
+      "3 years",
+      "100 years",
+      "150 years",
+      "200 years"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/GCE_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_121_9",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 121,
+    "questionText": "The difference in level between the top of a bank and supply level in a canal is  called",
+    "options": [
+      "berm",
+      "free board",
+      "height of bank",
+      "none of these"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/GCE_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_122_10",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 122,
+    "questionText": "The distemper is used on",
+    "options": [
+      "brick walls",
+      "plaster  surfaces  exposed to",
+      "plaster  surfaces not  exposed to",
+      "all of these"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/GCE_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_123_10",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 123,
+    "questionText": "The end supports of a bridge superstructure are known as",
+    "options": [
+      "pier",
+      "whether wing walls",
+      "whether abutments",
+      "approaches"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/GCE_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_124_10",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 124,
+    "questionText": "The examples of earth moving machines are",
+    "options": [
+      "scrapers",
+      "grader",
+      "dozer",
+      "all of these"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/GCE_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_125_10",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 125,
+    "questionText": "The examples of earth moving machines are",
+    "options": [
+      "scrapers",
+      "Concrete Mixer",
+      "Road Roller",
+      "all of these"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/GCE_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_126_10",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 126,
+    "questionText": "The exterior angle between outer faces of a wall, is known as",
+    "options": [
+      "Turn",
+      "Junction",
+      "Quoin",
+      "All of these"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/GCE_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_127_10",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 127,
+    "questionText": "The foundations are placed below ground level, to increase",
+    "options": [
+      "Strength",
+      "Workability",
+      "Stability of  structure",
+      "All of these"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/GCE_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_128_10",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 128,
+    "questionText": "The full form of ODD",
+    "options": [
+      "Optimum Dry  Density",
+      "Optical Dry  Density",
+      "Optional Dry  Density",
+      "Optimum dew  density"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/GCE_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_129_10",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 129,
+    "questionText": "The full form the SWF is",
+    "options": [
+      "slant wave  flume",
+      "standing wave  flume",
+      "stone wind  flume",
+      "starting wave  flume"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/GCE_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_130_10",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 130,
+    "questionText": "The highest point on road surface is called",
+    "options": [
+      "crown",
+      "camber",
+      "gradient",
+      "berm"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/GCE_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_131_10",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 131,
+    "questionText": "The hydraulic grade line is",
+    "options": [
+      "never above the  energy grade",
+      "always sloping  downward in  the direction of  flow",
+      "never below  the energy  grade",
+      "all of these"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/GCE_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_132_10",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 132,
+    "questionText": "The increase in the upstream water elevation resulting from an obstruction to flow",
+    "options": [
+      "tail water",
+      "sub water",
+      "Backwater",
+      "riser"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/GCE_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_133_10",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 133,
+    "questionText": "The instrument used for measuring the area on map is known as",
+    "options": [
+      "speedometer",
+      "ammeter",
+      "planimeter",
+      "none of these"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/GCE_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_134_10",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 134,
+    "questionText": "The intermediate support of a bridge superstructure are known as",
+    "options": [
+      "abutments",
+      "piers",
+      "wing walls",
+      "approaches"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/GCE_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_135_10",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 135,
+    "questionText": "The least count of a 4 m leveling staff is",
+    "options": [
+      "5 mm",
+      "10 mm",
+      "15 mm",
+      "1 mm"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/GCE_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_136_10",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 136,
+    "questionText": "The length of road visible ahead to the driver at any distance called as",
+    "options": [
+      "front distance",
+      "back distance",
+      "sight distance",
+      "none of these"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/GCE_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_137_10",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 137,
+    "questionText": "The liquid and plastic limits predominantly exist in",
+    "options": [
+      "gravel soils",
+      "silty soils",
+      "clay soils",
+      "sandy soils"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/GCE_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_138_10",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 138,
+    "questionText": "The maximum design gradient for vertical profile of a road is",
+    "options": [
+      "ruling gradient",
+      "limiting  gradient",
+      "minimum  gradient",
+      "none of these"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/GCE_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_139_10",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 139,
+    "questionText": "The member which is placed horizontally to support common rafter of a sloping  roof is",
+    "options": [
+      "purlin",
+      "cleat",
+      "batten",
+      "strut"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/GCE_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_140_11",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 140,
+    "questionText": "The minimum design speed for hairpin bends in hill roads is taken as",
+    "options": [
+      "20 kmph",
+      "30 kmph",
+      "40 kmph",
+      "50 kmph"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/GCE_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_141_11",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 141,
+    "questionText": "The minimum recommended diameter of sewer is",
+    "options": [
+      "5 cm",
+      "10 cm",
+      "15 cm",
+      "20 cm"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/GCE_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_142_11",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 142,
+    "questionText": "The most powerful explosive used in blasting is",
+    "options": [
+      "blasting power",
+      "dynamite",
+      "gun cotton",
+      "cordite"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/GCE_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_143_11",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 143,
+    "questionText": "The piece of a brick cut with its one corner equivalent to the half the length and  half the width of a full brick is known as",
+    "options": [
+      "queen closer",
+      "bevelled closer",
+      "king closer",
+      "half king closer"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/GCE_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_144_11",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 144,
+    "questionText": "The pore pressure developed due to soil mass due to moisture is measured with",
+    "options": [
+      "earth pressure  cells",
+      "piezometers",
+      "uplift  pressure cells",
+      "none of these"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/GCE_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_145_11",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 145,
+    "questionText": "The process of making the back ground rough before plastering is",
+    "options": [
+      "dubbing",
+      "hacking",
+      "blistering",
+      "peeling"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/GCE_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_146_11",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 146,
+    "questionText": "The purpose of COT in the earthen dam is to",
+    "options": [
+      "Irrprove the  stability of dam",
+      "increase  density of  hearting",
+      "decrease the  seepage  from reservoir",
+      "all of these"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/GCE_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_147_11",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 147,
+    "questionText": "The removal of excess air after placing concrete helps in increasing the strength  of concrete by",
+    "options": [
+      "15 to 20%",
+      "20 to 30%",
+      "30 to 50%",
+      "50 to 70%"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/GCE_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_148_11",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 148,
+    "questionText": "The ruling design speed on a National Highway in plain terrain as per IRC  recommendations is",
+    "options": [
+      "60 kmph",
+      "80 kmph",
+      "100 kmph",
+      "120 kmph"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/GCE_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_149_11",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 149,
+    "questionText": "The shinkage in a concrte slab,",
+    "options": [
+      "causes sheat  cracks",
+      "causes  tension cracks",
+      "causes  compression  cracks",
+      "does not  cause any  cracking"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/GCE_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_150_11",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 150,
+    "questionText": "The size of sample cube for concrete is",
+    "options": [
+      "10 cm x 10 cm  x 10 cm",
+      "12 cm x 12 cm  x 12 cm",
+      "20 cm x 20  cm x 20 cm",
+      "15 cm x 15  cm x 15 cm"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/GCE_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_151_11",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 151,
+    "questionText": "The slenderness ratio for masonry walls should not be more than",
+    "options": [
+      "10",
+      "20",
+      "30",
+      "40"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/GCE_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_152_11",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 152,
+    "questionText": "The slump test of concrete is used to measure its",
+    "options": [
+      "impact value",
+      "homogeneity",
+      "tensile  strength",
+      "workability"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/GCE_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_153_11",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 153,
+    "questionText": "The surface runoff is the quantity of water",
+    "options": [
+      "absorbed by soil",
+      "intercepted by  buildings and  vegetative  cover",
+      "required to fill  surface  depressions",
+      "that reaches  the stream  channels"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/GCE_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_154_11",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 154,
+    "questionText": "The thickness of a sharped crested weir is kept less than",
+    "options": [
+      "one third of the  height of water  on the sill",
+      "one half of the  height of water  on the sill",
+      "one forth of  the height of  water on the  sill",
+      "two third of  the height of  water on the  sill"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/GCE_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_155_11",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 155,
+    "questionText": "The type of footing, which is used to transmit heavy loads through steel column is",
+    "options": [
+      "raft foundation",
+      "grillage  foundation",
+      "well  foundation",
+      "isolated footing"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/GCE_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_156_11",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 156,
+    "questionText": "The type of pile which is driven at an inclination to resist inclined force is known as",
+    "options": [
+      "friction pile",
+      "sheet pile",
+      "batter pile",
+      "anchor pile"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/GCE_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_157_12",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 157,
+    "questionText": "The type of valve which allows water to flow in one direction but prevents its flow  in the reverse direction is",
+    "options": [
+      "reflux valve",
+      "sluice valve",
+      "air relief valve",
+      "pressure relief  valve"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 12,
+    "sourcePagePath": "/pdf_pages/GCE_full_p12.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_158_12",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 158,
+    "questionText": "The unit weight of per cubic meter of mild steel is",
+    "options": [
+      "7725 kg / m",
+      "3 7250 kg / m",
+      "3 7850 kg / m",
+      "3 8000 kg / m 3"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 12,
+    "sourcePagePath": "/pdf_pages/GCE_full_p12.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_159_12",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 159,
+    "questionText": "The unit weight per cubic meter of water",
+    "options": [
+      "1000 kg / m",
+      "3 800 kg / m",
+      "3 1500 kg / m",
+      "3 3 900 kg / m"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 12,
+    "sourcePagePath": "/pdf_pages/GCE_full_p12.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_160_12",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 160,
+    "questionText": "The vertical cutting of river bed is called",
+    "options": [
+      "afflux",
+      "scour",
+      "water way",
+      "none of these"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 12,
+    "sourcePagePath": "/pdf_pages/GCE_full_p12.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_161_12",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 161,
+    "questionText": "The vertical distance between the wall plate and top of the ridge is called ……of  roof",
+    "options": [
+      "rise",
+      "pitch",
+      "template",
+      "gable"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 12,
+    "sourcePagePath": "/pdf_pages/GCE_full_p12.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_162_12",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 162,
+    "questionText": "Water cement ratio of water to cemnt",
+    "options": [
+      "by weight",
+      "by volume",
+      "none of these",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 12,
+    "sourcePagePath": "/pdf_pages/GCE_full_p12.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_163_12",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 163,
+    "questionText": "Water supply system includes",
+    "options": [
+      "digging a well  for water",
+      "construction of  dams",
+      "construction  of canals",
+      "entire  arrangement  from source to  distribution"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 12,
+    "sourcePagePath": "/pdf_pages/GCE_full_p12.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_164_12",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 164,
+    "questionText": "When a canal and a drainage approach each other at the same level, the  structure so provided is",
+    "options": [
+      "an equeduct",
+      "a syphon",
+      "a level  crossing",
+      "inlet and outlet"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 12,
+    "sourcePagePath": "/pdf_pages/GCE_full_p12.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_165_12",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 165,
+    "questionText": "When a canal is carried over a natural drainage, the structure provided, is known  as",
+    "options": [
+      "syphon",
+      "aqueduct",
+      "super  passage",
+      "syphon  aqueduct"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 12,
+    "sourcePagePath": "/pdf_pages/GCE_full_p12.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_166_12",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 166,
+    "questionText": "Which of the following is a non-recording rainguage",
+    "options": [
+      "tipping bucket  type rainguage",
+      "Simons  rainguage",
+      "Steven's  weighting  type  rainguage",
+      "floating type  rainguage"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 12,
+    "sourcePagePath": "/pdf_pages/GCE_full_p12.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "GCE_167_12",
+    "subject": "General Civil Engineering",
+    "originalQuestionNumber": 167,
+    "questionText": "Without issue of notificaion under section 4 (1) of L.A. Act., lands can be taken in  possession by private negotiation is",
+    "options": [
+      "thue",
+      "FALSE",
+      "-",
+      "--"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - GCE (1).PDF",
+    "sourcePage": 12,
+    "sourcePagePath": "/pdf_pages/GCE_full_p12.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  }
+]

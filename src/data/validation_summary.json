@@ -1,0 +1,42 @@
+{
+  "Construction, Construction Materials, Stores Account": {
+    "extracted": 300,
+    "four_options": 299,
+    "verified_answer": 299,
+    "diagrams": 0,
+    "manual_review": 4,
+    "verified": 296
+  },
+  "Drawing": {
+    "extracted": 209,
+    "four_options": 209,
+    "verified_answer": 209,
+    "diagrams": 51,
+    "manual_review": 52,
+    "verified": 157
+  },
+  "General Civil Engineering": {
+    "extracted": 167,
+    "four_options": 165,
+    "verified_answer": 167,
+    "diagrams": 0,
+    "manual_review": 3,
+    "verified": 164
+  },
+  "Mathematics & Applied Mechanics": {
+    "extracted": 200,
+    "four_options": 200,
+    "verified_answer": 199,
+    "diagrams": 1,
+    "manual_review": 2,
+    "verified": 198
+  },
+  "Surveying": {
+    "extracted": 200,
+    "four_options": 199,
+    "verified_answer": 199,
+    "diagrams": 15,
+    "manual_review": 18,
+    "verified": 182
+  }
+}

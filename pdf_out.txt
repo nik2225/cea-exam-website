@@ -1,0 +1,100 @@
+
+
+========================================
+File: Sample Questions CEA - Construction Const  material Stores Account.PDF
+========================================
+--- TEXT ---
+                                                                                    
+                                                                                    
+                                                                                    
+                         Maharashtra Engineering Training Academy, Nashik           
+                                   Professional Exam Division                       
+                                   Practice Question for CEA                        
+                             Construction, Construction Materials, Stores Account   
+     सदर सराव प्रश्न हे परीक्षार्थींच्या सोईसाठी व सरावासाठी देण्यात येत आहेत. परीक्षार्थीच्या वारंवार मागणीनुसार सदर प्रश्नांची उत्तरे उपलब्ध करून देण्यात येतआहेत. तरी या सराव प्रश्न व उत्तरे
+     यांची खात्री परीक्षार्थींनी आपल्या स्तरावर तपासून पाहणे. या ववषयीच्या कुठल्याही तक्रारीची दखल या कायाालयामार्ात घेण्यात येणार नाही याची नोदं घ्यावी.
+                                                          
+--- TABLES FOUND ---
+['', '', '', '', 'Mahar', 'ashtra', 'Engineering Train', 'ing Academ', 'y, Nashik', '', '', '']
+['', '', '', '', '', '', 'Professional Exam', 'Division', '', '', '', '']
+['', '', '', '', '', '', 'Practice Question f', 'or CEA', '', '', '', '']
+
+
+========================================
+File: Sample Questions CEA - Drawing.PDF
+========================================
+--- TEXT ---
+                                                                                    
+                                                                                    
+                                                                                    
+                           Maharashtra Engineering Training Academy, Nashik         
+                                  Professional Exam Division                        
+                                  Practice Question for CEA                         
+                                      Drawing                                       
+     सदर सराव प्रश्न हे परीक्षार्थींच्या सोईसाठी व सरावासाठी देण्यात येत आहेत. परीक्षार्थींनी सदर प्रश्नाांचा अभ्यास करून उत्तरे स्वत: शोधणे अपेक्षक्षत आहे. तरी या सराव प्रश्नाांबाबतच्या कुठल्याही तक्रारीची दखल या कायाालयामार्ात घेण्यात येणार नाही
+     याची नोदां घ्यावी.                                                             
+      Sr. No.        Question       Correct Option Option 1 Option 2 Opt
+--- TABLES FOUND ---
+['', '', '', '', 'Maharashtra', 'Engineering', 'Training', 'Aca', 'demy, Nashik', '', '', '', '', '']
+['', '', '', '', '', 'Professiona', 'l Exam Div', 'ision', '', '', '', '', '', '']
+['', '', '', '', '', 'Practice Qu', 'estion for', 'CEA', '', '', '', '', '', '']
+
+
+========================================
+File: Sample Questions CEA - GCE (1).PDF
+========================================
+--- TEXT ---
+                                                                                    
+                                                                                    
+                                                                                    
+                         Maharashtra Engineering Training Academy, Nashik           
+                                   Professional Exam Division                       
+                                   Practice Question for CEA                        
+                                    General Civil Engineering                       
+     सदर सराव प्रश्न हे परीक्षार्थींच्या सोईसाठी व सरावासाठी देण्यात येत आहेत. परीक्षार्थीच्या वारंवार मागणीनुसार सदर प्रश्नांची उत्तरे उपलब्ध करून देण्यात येतआहेत. तरी या सराव प्रश्न व उत्तरे
+     यांची खात्री परीक्षार्थींनी आपल्या स्तरावर तपासून पाहणे. या ववषयीच्या कुठल्याही तक्रारीची दखल या कायाालयामार्ात घेण्यात येणार नाही याची नोदं घ्यावी.
+                                                          
+--- TABLES FOUND ---
+['', '', '', '', 'P', 'rofessional Exam', 'Division', '', '', '', '']
+['', '', '', '', '', 'Practice Question f', 'or CEA', '', '', '', '']
+['', '', '', '', '', '', '', '', '', '', '']
+
+
+========================================
+File: Sample Questions CEA - Maths & APM.PDF
+========================================
+--- TEXT ---
+                                                                                    
+                                                                                    
+                                                                                    
+                         Maharashtra Engineering Training Academy, Nashik           
+                                   Professional Exam Division                       
+                                   Practice Question for CEA                        
+                                 Mathematics & Applied Mechanics                    
+     सदर सराव प्रश्न हे परीक्षार्थींच्या सोईसाठी व सरावासाठी देण्यात येत आहेत. परीक्षार्थीच्या वारंवार मागणीनुसार सदर प्रश्नांची उत्तरे उपलब्ध करून देण्यात येतआहेत. तरी या सराव प्रश्न व उत्तरे
+     यांची खात्री परीक्षार्थींनी आपल्या स्तरावर तपासून पाहणे. या ववषयीच्या कुठल्याही तक्रारीची दखल या कायाालयामार्ात घेण्यात येणार नाही याची नोदं घ्यावी.
+                                                          
+--- TABLES FOUND ---
+['', '', '', 'M', 'aharashtra', 'Engineering Train', 'ing Academy', ', Nashik', '', '', '']
+['', '', '', '', '', 'Professional Exam', 'Division', '', '', '', '']
+['', '', '', '', '', 'Practice Question f', 'or CEA', '', '', '', '']
+
+
+========================================
+File: Sample Questions CEA - Surveying.PDF
+========================================
+--- TEXT ---
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                             Maharashtra Engineering Training Academy, Nashik       
+                                     Professional Exam Division                     
+                                     Practice Question for CEA                      
+                                       Surveying - Civil                            
+     सदर सराव प्रश्न हे परीक्षार्थींच्या सोईसाठी व सरावासाठी देण्यात येत आहेत. परीक्षार्थीच्या वारंवार मागणीनुसार सदर प्रश्नांची उत्तरे उपलब्ध करून देण्यात येतआहेत. तरी या सराव प्रश्न व उत्तरे यांची खात्री परीक्षार्थींनी आपल्या स्तरावर तपासून पाहणे. या
+     ववषयीच्या कुठल्याही तक्रारीची दखल या कायाालयामार्ात घेण्यात ये
+--- TABLES FOUND ---
+['', '', '', '', '', '', '', '', 'Professional Exam', 'Divisi', 'on', '', '', '', '', '', '', '']
+['', '', '', '', '', '', '', '', 'Practice Question', 'for CE', 'A', '', '', '', '', '', '', '']
+['', '', '', '', '', '', '', '', 'Surveying - C', 'ivil', '', '', '', '', '', '', '', '']

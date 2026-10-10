@@ -1,0 +1,42 @@
+{
+  "Drawing": {
+    "subject": "Drawing",
+    "extracted": 0,
+    "four_options": 0,
+    "verified_answer": 0,
+    "diagrams": 0,
+    "manual_review": 0,
+    "duplicates": 0,
+    "missing_numbers": []
+  },
+  "General Civil Engineering": {
+    "subject": "General Civil Engineering",
+    "extracted": 0,
+    "four_options": 0,
+    "verified_answer": 0,
+    "diagrams": 0,
+    "manual_review": 0,
+    "duplicates": 0,
+    "missing_numbers": []
+  },
+  "Mathematics & Applied Mechanics": {
+    "subject": "Mathematics & Applied Mechanics",
+    "extracted": 2,
+    "four_options": 0,
+    "verified_answer": 0,
+    "diagrams": 0,
+    "manual_review": 2,
+    "duplicates": 0,
+    "missing_numbers": []
+  },
+  "Surveying": {
+    "subject": "Surveying",
+    "extracted": 606,
+    "four_options": 0,
+    "verified_answer": 0,
+    "diagrams": 0,
+    "manual_review": 606,
+    "duplicates": 406,
+    "missing_numbers": []
+  }
+}

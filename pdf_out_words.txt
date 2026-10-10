@@ -1,0 +1,14 @@
+Header found at top=117.14598381759993
+Word: 'Sr.' at x0=43.24, x1=49.36
+Word: 'No.' at x0=50.57, x1=58.70
+Word: 'Question' at x0=175.82, x1=196.97
+Word: 'Correct' at x0=317.65, x1=334.67
+Word: 'Option' at x0=335.88, x1=351.89
+Word: 'Option' at x0=376.44, x1=392.45
+Word: '1' at x0=393.64, x1=396.47
+Word: 'Option' at x0=428.14, x1=444.14
+Word: '2' at x0=445.33, x1=448.17
+Word: 'Option' at x0=479.83, x1=495.84
+Word: '3' at x0=497.03, x1=499.86
+Word: 'Option' at x0=531.54, x1=547.55
+Word: '4' at x0=548.74, x1=551.58

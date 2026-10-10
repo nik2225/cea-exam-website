@@ -1,0 +1,3973 @@
+[
+  {
+    "id": "Drawing_1_1",
+    "subject": "Drawing",
+    "originalQuestionNumber": 1,
+    "questionText": "This Symbol represents….",
+    "options": [
+      "First Angle Methos",
+      "Third Angle Method",
+      "None of These",
+      "Second Angel Method"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 1,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p1.png",
+    "diagramPath": "/pdf_pages/Drawing_1_p1.png",
+    "validationStatus": "verified",
+    "hasDiagram": true
+  },
+  {
+    "id": "Drawing_2_1",
+    "subject": "Drawing",
+    "originalQuestionNumber": 2,
+    "questionText": "This Sybol represents….",
+    "options": [
+      "First Angle Methos",
+      "Third Angle Method",
+      "None of These",
+      "Second Angel Method"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 1,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p1.png",
+    "diagramPath": "/pdf_pages/Drawing_2_p1.png",
+    "validationStatus": "verified",
+    "hasDiagram": true
+  },
+  {
+    "id": "Drawing_3_1",
+    "subject": "Drawing",
+    "originalQuestionNumber": 3,
+    "questionText": "This Sybol represents….",
+    "options": [
+      "Stone masonary",
+      "Random Rubble  Masonary",
+      "Brick masonary",
+      "Allof These"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 1,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p1.png",
+    "diagramPath": "/pdf_pages/Drawing_3_p1.png",
+    "validationStatus": "verified",
+    "hasDiagram": true
+  },
+  {
+    "id": "Drawing_4_1",
+    "subject": "Drawing",
+    "originalQuestionNumber": 4,
+    "questionText": "This Sybol represents….",
+    "options": [
+      "Stone masonary",
+      "Random Rubble  Masonary",
+      "Brick masonary",
+      "Allof These"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 1,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p1.png",
+    "diagramPath": "/pdf_pages/Drawing_4_p1.png",
+    "validationStatus": "verified",
+    "hasDiagram": true
+  },
+  {
+    "id": "Drawing_5_1",
+    "subject": "Drawing",
+    "originalQuestionNumber": 5,
+    "questionText": "",
+    "options": [
+      "Stone masonary",
+      "Random Rubble  Masonary",
+      "Brick masonary",
+      "Concrete"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 1,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p1.png",
+    "diagramPath": "/pdf_pages/Drawing_5_p1.png",
+    "validationStatus": "verified",
+    "hasDiagram": true
+  },
+  {
+    "id": "Drawing_6_1",
+    "subject": "Drawing",
+    "originalQuestionNumber": 6,
+    "questionText": "From the plan of a room we get information about its …….",
+    "options": [
+      "Length & Breadth",
+      "Length Only",
+      "Breadth Only",
+      "Material used"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 1,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p1.png",
+    "diagramPath": "/pdf_pages/Drawing_6_p1.png",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_7_1",
+    "subject": "Drawing",
+    "originalQuestionNumber": 7,
+    "questionText": "What id DADO?",
+    "options": [
+      "Bottom Tiles of  Bathrooms",
+      "Tiles pasted on Side  walls of Bathrooms",
+      "Face Tiles on Parapet  Wall",
+      "Allof These"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 1,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p1.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_8_1",
+    "subject": "Drawing",
+    "originalQuestionNumber": 8,
+    "questionText": "Which pencil is used for engineering drawing?",
+    "options": [
+      "HB",
+      "2B",
+      "2H",
+      "6B"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 1,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p1.png",
+    "diagramPath": "/pdf_pages/Drawing_8_p1.png",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_9_1",
+    "subject": "Drawing",
+    "originalQuestionNumber": 9,
+    "questionText": "What are the angles of a equilateral Sets-square?",
+    "options": [
+      "30-90-60",
+      "60-60-60",
+      "30-120-30",
+      "45-90-45"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 1,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p1.png",
+    "diagramPath": "/pdf_pages/Drawing_9_p1.png",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_10_1",
+    "subject": "Drawing",
+    "originalQuestionNumber": 10,
+    "questionText": "This Sybol represents….",
+    "options": [
+      "Hidden Line",
+      "Center Line",
+      "Thick Line",
+      "Section Line"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 1,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p1.png",
+    "diagramPath": "/pdf_pages/Drawing_10_p1.png",
+    "validationStatus": "verified",
+    "hasDiagram": true
+  },
+  {
+    "id": "Drawing_11_2",
+    "subject": "Drawing",
+    "originalQuestionNumber": 11,
+    "questionText": "",
+    "options": [
+      "Hidden Line",
+      "Center Line",
+      "Thick Line",
+      "Section Line"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 2,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p2.png",
+    "diagramPath": "/pdf_pages/Drawing_11_p2.png",
+    "validationStatus": "verified",
+    "hasDiagram": true
+  },
+  {
+    "id": "Drawing_12_2",
+    "subject": "Drawing",
+    "originalQuestionNumber": 12,
+    "questionText": "What is the size of A0 Drawing Sheet in mm?",
+    "options": [
+      "420 x 594",
+      "297 x 420",
+      "841 x 1189",
+      "210 x 297"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 2,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p2.png",
+    "diagramPath": "/pdf_pages/Drawing_12_p2.png",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_13_2",
+    "subject": "Drawing",
+    "originalQuestionNumber": 13,
+    "questionText": "What is the size of A4 Drawing Sheet in mm?",
+    "options": [
+      "420 x 594",
+      "297 x 420",
+      "841 x 1189",
+      "210 x 297"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 2,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p2.png",
+    "diagramPath": "/pdf_pages/Drawing_13_p2.png",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_14_2",
+    "subject": "Drawing",
+    "originalQuestionNumber": 14,
+    "questionText": "Indentify the road Sign",
+    "options": [
+      "Right hand Curve",
+      "Left had Curve",
+      "Overtaking Allowed",
+      "U- Turn"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 2,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p2.png",
+    "diagramPath": "/pdf_pages/Drawing_14_p2.png",
+    "validationStatus": "verified",
+    "hasDiagram": true
+  },
+  {
+    "id": "Drawing_15_2",
+    "subject": "Drawing",
+    "originalQuestionNumber": 15,
+    "questionText": "Indentify the road Sign",
+    "options": [
+      "No Stoppage",
+      "No Entry",
+      "No Horn",
+      "Straight Road"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 2,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p2.png",
+    "diagramPath": "/pdf_pages/Drawing_15_p2.png",
+    "validationStatus": "verified",
+    "hasDiagram": true
+  },
+  {
+    "id": "Drawing_16_2",
+    "subject": "Drawing",
+    "originalQuestionNumber": 16,
+    "questionText": "The line shown is called as….",
+    "options": [
+      "Rock Embankment",
+      "Hearting",
+      "Phreatic Line",
+      "Toe Drain"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 2,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p2.png",
+    "diagramPath": "/pdf_pages/Drawing_16_p2.png",
+    "validationStatus": "verified",
+    "hasDiagram": true
+  },
+  {
+    "id": "Drawing_17_2",
+    "subject": "Drawing",
+    "originalQuestionNumber": 17,
+    "questionText": "Indentify the compent",
+    "options": [
+      "Rock Embankment",
+      "Hearting",
+      "Phreatic Line",
+      "Toe Drain"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 2,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p2.png",
+    "diagramPath": "/pdf_pages/Drawing_17_p2.png",
+    "validationStatus": "verified",
+    "hasDiagram": true
+  },
+  {
+    "id": "Drawing_18_2",
+    "subject": "Drawing",
+    "originalQuestionNumber": 18,
+    "questionText": "A  The part A is called as….",
+    "options": [
+      "Right of Way",
+      "Raodway",
+      "Carriage Way",
+      "Margines"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 2,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p2.png",
+    "diagramPath": "/pdf_pages/Drawing_18_p2.png",
+    "validationStatus": "verified",
+    "hasDiagram": true
+  },
+  {
+    "id": "Drawing_19_3",
+    "subject": "Drawing",
+    "originalQuestionNumber": 19,
+    "questionText": "A  The part A is called as….",
+    "options": [
+      "Right of Way",
+      "Raodway",
+      "Carriage Way",
+      "Margines"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 3,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p3.png",
+    "diagramPath": "/pdf_pages/Drawing_19_p3.png",
+    "validationStatus": "verified",
+    "hasDiagram": true
+  },
+  {
+    "id": "Drawing_20_3",
+    "subject": "Drawing",
+    "originalQuestionNumber": 20,
+    "questionText": "",
+    "options": [
+      "Slab Culvert",
+      "Pipe Culvert",
+      "Toe Drain",
+      "Stone Culvert"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 3,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p3.png",
+    "diagramPath": "/pdf_pages/Drawing_20_p3.png",
+    "validationStatus": "verified",
+    "hasDiagram": true
+  },
+  {
+    "id": "Drawing_21_3",
+    "subject": "Drawing",
+    "originalQuestionNumber": 21,
+    "questionText": "What is the standard size of Brick in cm?",
+    "options": [
+      "19 x 9 x 9",
+      "19 x 4 x 4",
+      "19 x 19 x 19",
+      "All of These"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 3,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p3.png",
+    "diagramPath": "/pdf_pages/Drawing_21_p3.png",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_22_3",
+    "subject": "Drawing",
+    "originalQuestionNumber": 22,
+    "questionText": "Pentagon has …. Sides",
+    "options": [
+      "9",
+      "8",
+      "5",
+      "7"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 3,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p3.png",
+    "diagramPath": "/pdf_pages/Drawing_22_p3.png",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_23_3",
+    "subject": "Drawing",
+    "originalQuestionNumber": 23,
+    "questionText": "The slope shown on road surface is called as …..",
+    "options": [
+      "Sloped Surface",
+      "Gradient",
+      "Camber",
+      "None of These"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 3,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p3.png",
+    "diagramPath": "/pdf_pages/Drawing_23_p3.png",
+    "validationStatus": "verified",
+    "hasDiagram": true
+  },
+  {
+    "id": "Drawing_24_3",
+    "subject": "Drawing",
+    "originalQuestionNumber": 24,
+    "questionText": "Identify the structure",
+    "options": [
+      "Non-overflow Dam",
+      "Spillway",
+      "Fall",
+      "Stilling Basin"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 3,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p3.png",
+    "diagramPath": "/pdf_pages/Drawing_24_p3.png",
+    "validationStatus": "verified",
+    "hasDiagram": true
+  },
+  {
+    "id": "Drawing_25_3",
+    "subject": "Drawing",
+    "originalQuestionNumber": 25,
+    "questionText": "This command is used for ….. In AutoCAD",
+    "options": [
+      "Array",
+      "Multiply",
+      "Copy Paste",
+      "Hatch"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 3,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p3.png",
+    "diagramPath": "/pdf_pages/Drawing_25_p3.png",
+    "validationStatus": "verified",
+    "hasDiagram": true
+  },
+  {
+    "id": "Drawing_26_4",
+    "subject": "Drawing",
+    "originalQuestionNumber": 26,
+    "questionText": "Identify the name of Part A",
+    "options": [
+      "Rock Toe",
+      "Rip-Rap",
+      "Shell",
+      "Core"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 4,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p4.png",
+    "diagramPath": "/pdf_pages/Drawing_26_p4.png",
+    "validationStatus": "verified",
+    "hasDiagram": true
+  },
+  {
+    "id": "Drawing_27_4",
+    "subject": "Drawing",
+    "originalQuestionNumber": 27,
+    "questionText": "Identify the name of Part B",
+    "options": [
+      "Rock Toe",
+      "Rip-Rap",
+      "Shell",
+      "Core"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 4,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p4.png",
+    "diagramPath": "/pdf_pages/Drawing_27_p4.png",
+    "validationStatus": "verified",
+    "hasDiagram": true
+  },
+  {
+    "id": "Drawing_28_4",
+    "subject": "Drawing",
+    "originalQuestionNumber": 28,
+    "questionText": "Identify the name of Part C",
+    "options": [
+      "Rock Toe",
+      "Rip-Rap",
+      "Shell",
+      "Impervious Core"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 4,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p4.png",
+    "diagramPath": "/pdf_pages/Drawing_28_p4.png",
+    "validationStatus": "verified",
+    "hasDiagram": true
+  },
+  {
+    "id": "Drawing_29_4",
+    "subject": "Drawing",
+    "originalQuestionNumber": 29,
+    "questionText": "Identify the name of Part A",
+    "options": [
+      "Rock Toe",
+      "Rip-Rap",
+      "Shell",
+      "Impervious Core"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 4,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p4.png",
+    "diagramPath": "/pdf_pages/Drawing_29_p4.png",
+    "validationStatus": "verified",
+    "hasDiagram": true
+  },
+  {
+    "id": "Drawing_30_4",
+    "subject": "Drawing",
+    "originalQuestionNumber": 30,
+    "questionText": "Identify the name of Part D",
+    "options": [
+      "Rock Toe",
+      "Rip-Rap",
+      "Shell",
+      "Impervious Core"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 4,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p4.png",
+    "diagramPath": "/pdf_pages/Drawing_30_p4.png",
+    "validationStatus": "verified",
+    "hasDiagram": true
+  },
+  {
+    "id": "Drawing_31_5",
+    "subject": "Drawing",
+    "originalQuestionNumber": 31,
+    "questionText": "Water is storage is done on  …… side of dam",
+    "options": [
+      "Upstream side",
+      "Downstream side",
+      "Both Side",
+      "None of These"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 5,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p5.png",
+    "diagramPath": "/pdf_pages/Drawing_31_p5.png",
+    "validationStatus": "verified",
+    "hasDiagram": true
+  },
+  {
+    "id": "Drawing_32_5",
+    "subject": "Drawing",
+    "originalQuestionNumber": 32,
+    "questionText": "Identify the structure",
+    "options": [
+      "Aqueduct",
+      "Under pass",
+      "Super Passage",
+      "None of These"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 5,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p5.png",
+    "diagramPath": "/pdf_pages/Drawing_32_p5.png",
+    "validationStatus": "verified",
+    "hasDiagram": true
+  },
+  {
+    "id": "Drawing_33_5",
+    "subject": "Drawing",
+    "originalQuestionNumber": 33,
+    "questionText": "Identify the structure",
+    "options": [
+      "Aqueduct",
+      "Syphon",
+      "Super Passage",
+      "None of These"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 5,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p5.png",
+    "diagramPath": "/pdf_pages/Drawing_33_p5.png",
+    "validationStatus": "verified",
+    "hasDiagram": true
+  },
+  {
+    "id": "Drawing_34_5",
+    "subject": "Drawing",
+    "originalQuestionNumber": 34,
+    "questionText": "Identify the structure",
+    "options": [
+      "Aqueduct",
+      "Syphon",
+      "Super Passage",
+      "None of These"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 5,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p5.png",
+    "diagramPath": "/pdf_pages/Drawing_34_p5.png",
+    "validationStatus": "verified",
+    "hasDiagram": true
+  },
+  {
+    "id": "Drawing_35_5",
+    "subject": "Drawing",
+    "originalQuestionNumber": 35,
+    "questionText": "Identify the structure",
+    "options": [
+      "Slab Drain",
+      "Arch Culvert",
+      "Super Passage",
+      "Box Culvert"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 5,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p5.png",
+    "diagramPath": "/pdf_pages/Drawing_35_p5.png",
+    "validationStatus": "verified",
+    "hasDiagram": true
+  },
+  {
+    "id": "Drawing_36_6",
+    "subject": "Drawing",
+    "originalQuestionNumber": 36,
+    "questionText": "Identify the structure",
+    "options": [
+      "Wooden Chhajja",
+      "RCC Chhajja",
+      "Concrete Chhajja",
+      "All of These"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 6,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p6.png",
+    "diagramPath": "/pdf_pages/Drawing_36_p6.png",
+    "validationStatus": "verified",
+    "hasDiagram": true
+  },
+  {
+    "id": "Drawing_37_6",
+    "subject": "Drawing",
+    "originalQuestionNumber": 37,
+    "questionText": "The Main reinforcement of Chhajja is ….",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "All of These"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 6,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p6.png",
+    "diagramPath": "/pdf_pages/Drawing_37_p6.png",
+    "validationStatus": "verified",
+    "hasDiagram": true
+  },
+  {
+    "id": "Drawing_38_6",
+    "subject": "Drawing",
+    "originalQuestionNumber": 38,
+    "questionText": "The Distribution reinforcement of Chhajja is ….",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "All of These"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 6,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p6.png",
+    "diagramPath": "/pdf_pages/Drawing_38_p6.png",
+    "validationStatus": "verified",
+    "hasDiagram": true
+  },
+  {
+    "id": "Drawing_39_6",
+    "subject": "Drawing",
+    "originalQuestionNumber": 39,
+    "questionText": "Identify the structure",
+    "options": [
+      "Continuous Slab",
+      "Cantilever Slab",
+      "Simply Supported Slab",
+      "All of These"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 6,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p6.png",
+    "diagramPath": "/pdf_pages/Drawing_39_p6.png",
+    "validationStatus": "verified",
+    "hasDiagram": true
+  },
+  {
+    "id": "Drawing_40_6",
+    "subject": "Drawing",
+    "originalQuestionNumber": 40,
+    "questionText": "Which is the Main reinforcement in this slab?",
+    "options": [
+      "A",
+      "B",
+      "Both A & B",
+      "None of These"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 6,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p6.png",
+    "diagramPath": "/pdf_pages/Drawing_40_p6.png",
+    "validationStatus": "verified",
+    "hasDiagram": true
+  },
+  {
+    "id": "Drawing_41_7",
+    "subject": "Drawing",
+    "originalQuestionNumber": 41,
+    "questionText": "Which is the Distribution reinforcement in this slab?",
+    "options": [
+      "A",
+      "B",
+      "Both A & B",
+      "None of These"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 7,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p7.png",
+    "diagramPath": "/pdf_pages/Drawing_41_p7.png",
+    "validationStatus": "verified",
+    "hasDiagram": true
+  },
+  {
+    "id": "Drawing_42_7",
+    "subject": "Drawing",
+    "originalQuestionNumber": 42,
+    "questionText": "Name the part A in cross section of raod",
+    "options": [
+      "Formation Width",
+      "Carriage Way",
+      "Shoulders",
+      "Side Drain"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 7,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p7.png",
+    "diagramPath": "/pdf_pages/Drawing_42_p7.png",
+    "validationStatus": "verified",
+    "hasDiagram": true
+  },
+  {
+    "id": "Drawing_43_7",
+    "subject": "Drawing",
+    "originalQuestionNumber": 43,
+    "questionText": "Name the part B in cross section of raod",
+    "options": [
+      "Formation Width",
+      "Carriage Way",
+      "Shoulders",
+      "Side Drain"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 7,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p7.png",
+    "diagramPath": "/pdf_pages/Drawing_43_p7.png",
+    "validationStatus": "verified",
+    "hasDiagram": true
+  },
+  {
+    "id": "Drawing_44_7",
+    "subject": "Drawing",
+    "originalQuestionNumber": 44,
+    "questionText": "Name the part C in cross section of raod",
+    "options": [
+      "Formation Width",
+      "Carriage Way",
+      "Shoulders",
+      "Side Drain"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 7,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p7.png",
+    "diagramPath": "/pdf_pages/Drawing_44_p7.png",
+    "validationStatus": "verified",
+    "hasDiagram": true
+  },
+  {
+    "id": "Drawing_45_7",
+    "subject": "Drawing",
+    "originalQuestionNumber": 45,
+    "questionText": "Name the part D in cross section of raod",
+    "options": [
+      "Formation Width",
+      "Carriage Way",
+      "Shoulders",
+      "Side Drain"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 7,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p7.png",
+    "diagramPath": "/pdf_pages/Drawing_45_p7.png",
+    "validationStatus": "verified",
+    "hasDiagram": true
+  },
+  {
+    "id": "Drawing_46_8",
+    "subject": "Drawing",
+    "originalQuestionNumber": 46,
+    "questionText": "Identify the Main reinforcement in footing",
+    "options": [
+      "A",
+      "B",
+      "Both A & B",
+      "None of These"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 8,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p8.png",
+    "diagramPath": "/pdf_pages/Drawing_46_p8.png",
+    "validationStatus": "verified",
+    "hasDiagram": true
+  },
+  {
+    "id": "Drawing_47_8",
+    "subject": "Drawing",
+    "originalQuestionNumber": 47,
+    "questionText": "Identify the Distribution reinforcement in footing",
+    "options": [
+      "A",
+      "B",
+      "Both A & B",
+      "None of These"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 8,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p8.png",
+    "diagramPath": "/pdf_pages/Drawing_47_p8.png",
+    "validationStatus": "verified",
+    "hasDiagram": true
+  },
+  {
+    "id": "Drawing_48_8",
+    "subject": "Drawing",
+    "originalQuestionNumber": 48,
+    "questionText": "Identify the structure",
+    "options": [
+      "Spread Footing",
+      "Shoe Footing",
+      "Strap Footing",
+      "CombineFooting"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 8,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p8.png",
+    "diagramPath": "/pdf_pages/Drawing_48_p8.png",
+    "validationStatus": "verified",
+    "hasDiagram": true
+  },
+  {
+    "id": "Drawing_49_8",
+    "subject": "Drawing",
+    "originalQuestionNumber": 49,
+    "questionText": "Identify the structure",
+    "options": [
+      "Spread Footing",
+      "Shoe Footing",
+      "Strap Footing",
+      "CombineFooting"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 8,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p8.png",
+    "diagramPath": "/pdf_pages/Drawing_49_p8.png",
+    "validationStatus": "verified",
+    "hasDiagram": true
+  },
+  {
+    "id": "Drawing_50_8",
+    "subject": "Drawing",
+    "originalQuestionNumber": 50,
+    "questionText": "Identify the structure",
+    "options": [
+      "Spread Footing",
+      "Shoe Footing",
+      "Strap Footing",
+      "CombineFooting"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 8,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p8.png",
+    "diagramPath": "/pdf_pages/Drawing_50_p8.png",
+    "validationStatus": "verified",
+    "hasDiagram": true
+  },
+  {
+    "id": "Drawing_51_9",
+    "subject": "Drawing",
+    "originalQuestionNumber": 51,
+    "questionText": "What does a civil engineering drawing typically depict?",
+    "options": [
+      "Structural design",
+      "Artistic representations",
+      "Computer programming",
+      "Literature"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_52_9",
+    "subject": "Drawing",
+    "originalQuestionNumber": 52,
+    "questionText": "What does the abbreviation “R.C.C.” stand for in civil engineering drawings?",
+    "options": [
+      "Reinforced Cement  Concrete",
+      "Reinforced Clay  Construction",
+      "Regular Cement  Concrete",
+      "Reinforced Composite  Construction"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_53_9",
+    "subject": "Drawing",
+    "originalQuestionNumber": 53,
+    "questionText": "What does the abbreviation “G.C.” stand for in civil engineering drawings?",
+    "options": [
+      "General Contractor",
+      "Ground Cover",
+      "Gravel Cover",
+      "General Construction"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_54_9",
+    "subject": "Drawing",
+    "originalQuestionNumber": 54,
+    "questionText": "Which drawing type is used to show the vertical dimensions of a building?",
+    "options": [
+      "Floor plan",
+      "Elevation",
+      "Site plan",
+      "Detail drawing"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_55_9",
+    "subject": "Drawing",
+    "originalQuestionNumber": 55,
+    "questionText": "In civil engineering drawings, what does the term “datum” refer to?",
+    "options": [
+      "A reference point for  elevation measurements",
+      "A type of building  material",
+      "A construction  technique",
+      "A symbol for electrical  fixtures"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_56_9",
+    "subject": "Drawing",
+    "originalQuestionNumber": 56,
+    "questionText": "What does the abbreviation “G.F.A.” stand for in building plans?",
+    "options": [
+      "Gross Floor Area",
+      "Ground Floor Access",
+      "General Floor  Arrangement",
+      "Ground Floor Area"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_57_9",
+    "subject": "Drawing",
+    "originalQuestionNumber": 57,
+    "questionText": "In which drawing would you find detailed construction instructions for a specific part of  the building?",
+    "options": [
+      "Site plan",
+      "Floor plan",
+      "Detail drawing",
+      "Elevation drawing"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_58_9",
+    "subject": "Drawing",
+    "originalQuestionNumber": 58,
+    "questionText": "What do hatching patterns in a civil engineering drawing often represent?",
+    "options": [
+      "Material types",
+      "Hidden lines",
+      "Structural supports",
+      "Property boundaries"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_59_9",
+    "subject": "Drawing",
+    "originalQuestionNumber": 59,
+    "questionText": "What is typically shown in a site plan?",
+    "options": [
+      "The layout of the  building and landscaping",
+      "Interior room layout",
+      "Cross-sectional details",
+      "Building elevation"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_60_9",
+    "subject": "Drawing",
+    "originalQuestionNumber": 60,
+    "questionText": "Which symbol is commonly used to represent a door in a floor plan?",
+    "options": [
+      "A rectangle with a  diagonal line",
+      "A circle with a cross",
+      "A square with a line",
+      "A dashed line"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p9.png",
+    "diagramPath": "/pdf_pages/Drawing_60_p9.png",
+    "validationStatus": "verified",
+    "hasDiagram": true
+  },
+  {
+    "id": "Drawing_61_9",
+    "subject": "Drawing",
+    "originalQuestionNumber": 61,
+    "questionText": "In a civil engineering drawing, what is the function of dimension lines?",
+    "options": [
+      "To provide  measurements of",
+      "To show material types",
+      "To illustrate  construction methods",
+      "To indicate hidden  elements"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_62_9",
+    "subject": "Drawing",
+    "originalQuestionNumber": 62,
+    "questionText": "Which drawing would show how a building looks from the front or side?",
+    "options": [
+      "distances and sizes  Floor plan",
+      "Elevation",
+      "Section view",
+      "Site plan"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_63_9",
+    "subject": "Drawing",
+    "originalQuestionNumber": 63,
+    "questionText": "Which line type in a civil engineering drawing represents a boundary or edge?",
+    "options": [
+      "Dashed line",
+      "Solid line",
+      "Dotted line",
+      "Chain line"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_64_9",
+    "subject": "Drawing",
+    "originalQuestionNumber": 64,
+    "questionText": "What does a “key plan” typically show in civil engineering drawings?",
+    "options": [
+      "The location of various  plans within the context  of the entire project",
+      "Detailed construction  methods",
+      "Material specifications",
+      "Electrical wiring layouts"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_65_9",
+    "subject": "Drawing",
+    "originalQuestionNumber": 65,
+    "questionText": "Which type of line represents the outline of an object in a drawing?",
+    "options": [
+      "Hidden line",
+      "Centerline",
+      "Object line",
+      "Dimension line"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_66_9",
+    "subject": "Drawing",
+    "originalQuestionNumber": 66,
+    "questionText": "What does the abbreviation “A.C.” commonly represent in a civil engineering drawing?",
+    "options": [
+      "Air Conditioning",
+      "Alternate Current",
+      "Access Corridor",
+      "Asphalt Concrete"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_67_9",
+    "subject": "Drawing",
+    "originalQuestionNumber": 67,
+    "questionText": "In a civil engineering drawing, what is the purpose of using different line weights?",
+    "options": [
+      "To indicate different  types of elements or  their importance",
+      "To show hidden features",
+      "To illustrate materials",
+      "To represent the scale  of the drawing"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_68_9",
+    "subject": "Drawing",
+    "originalQuestionNumber": 68,
+    "questionText": "What is typically shown in a “foundation plan”?",
+    "options": [
+      "The layout of the  foundation, including  footings and supports",
+      "The architectural layout  of rooms",
+      "The vertical dimensions  of the building",
+      "The exterior façade  details"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_69_9",
+    "subject": "Drawing",
+    "originalQuestionNumber": 69,
+    "questionText": "Which drawing would you refer to for details about the structural framework of a  building?",
+    "options": [
+      "Floor plan",
+      "Elevation",
+      "Structural plan",
+      "Site plan"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_70_9",
+    "subject": "Drawing",
+    "originalQuestionNumber": 70,
+    "questionText": "In civil engineering drawings, what does the term “R.O.” often refer to?",
+    "options": [
+      "Rough Opening",
+      "Reinforced Outer",
+      "Regular Opening",
+      "Room Orientation"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_71_9",
+    "subject": "Drawing",
+    "originalQuestionNumber": 71,
+    "questionText": "What is the purpose of a “plumbing plan” in civil engineering drawings?",
+    "options": [
+      "To show the layout of  plumbing fixtures and  piping",
+      "To illustrate the  foundation details",
+      "To represent the  building’s electrical  wiring",
+      "To display landscaping  elements"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_72_9",
+    "subject": "Drawing",
+    "originalQuestionNumber": 72,
+    "questionText": "Which type of drawing shows the relationship between various elements and the site?",
+    "options": [
+      "Floor plan",
+      "Site plan",
+      "Detail drawing",
+      "Elevation"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_73_9",
+    "subject": "Drawing",
+    "originalQuestionNumber": 73,
+    "questionText": "In civil engineering drawings, what does the term “bearing” refer to?",
+    "options": [
+      "The orientation of a  structure or element",
+      "The type of material  used",
+      "The design load of a  structure",
+      "The depth of excavation"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_74_9",
+    "subject": "Drawing",
+    "originalQuestionNumber": 74,
+    "questionText": "In a floor plan, what does the abbreviation “W.C.” usually stand for?",
+    "options": [
+      "Water Closet",
+      "Work Chamber",
+      "Window Covering",
+      "Wall Column"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_75_10",
+    "subject": "Drawing",
+    "originalQuestionNumber": 75,
+    "questionText": "Which drawing shows a horizontal cut through a building to reveal internal features?",
+    "options": [
+      "Floor plan",
+      "Elevation",
+      "Section view",
+      "Detail drawing"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_76_10",
+    "subject": "Drawing",
+    "originalQuestionNumber": 76,
+    "questionText": "What is represented by “hatching” in civil engineering drawings?",
+    "options": [
+      "Different types of  materials or  construction methods",
+      "Hidden elements",
+      "Electrical connections",
+      "Water lines"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_77_10",
+    "subject": "Drawing",
+    "originalQuestionNumber": 77,
+    "questionText": "Which of the following would typically be shown in a “landscape plan”?",
+    "options": [
+      "Placement of trees,  shrubs, and outdoor  features",
+      "Interior room layouts",
+      "Structural support  details",
+      "Electrical systems"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_78_10",
+    "subject": "Drawing",
+    "originalQuestionNumber": 78,
+    "questionText": "What does the abbreviation “M.O.” often refer to in civil engineering drawings?",
+    "options": [
+      "Masonry Opening",
+      "Mechanical Outline",
+      "Main Outlet",
+      "Minimum Object"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_79_10",
+    "subject": "Drawing",
+    "originalQuestionNumber": 79,
+    "questionText": "In civil engineering drawings, what is a “callout”?",
+    "options": [
+      "A note or label  indicating specific  details or features",
+      "A type of construction  material",
+      "An area that is not  drawn to scale",
+      "A section of the drawing  that is not visible"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_80_10",
+    "subject": "Drawing",
+    "originalQuestionNumber": 80,
+    "questionText": "What does the term “backfill” refer to in a civil engineering drawing?",
+    "options": [
+      "Material used to fill in  excavations around  foundations",
+      "The exterior facade of a  building",
+      "The interior wall finishes",
+      "The structural beams of  a building"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_81_10",
+    "subject": "Drawing",
+    "originalQuestionNumber": 81,
+    "questionText": "Which type of drawing shows the layout of electrical outlets, switches, and wiring?",
+    "options": [
+      "Electrical plan",
+      "Plumbing plan",
+      "Structural plan",
+      "Site plan"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_82_10",
+    "subject": "Drawing",
+    "originalQuestionNumber": 82,
+    "questionText": "What is typically indicated by “dimension lines” in civil engineering drawings?",
+    "options": [
+      "The measurements of  distances and sizes",
+      "The type of materials  used",
+      "The location of  plumbing fixtures",
+      "The vertical height of  the building"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_83_10",
+    "subject": "Drawing",
+    "originalQuestionNumber": 83,
+    "questionText": "What does the abbreviation “C/L” stand for in civil engineering drawings?",
+    "options": [
+      "Center Line",
+      "Construction Line",
+      "Column Length",
+      "Concrete Level"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_84_10",
+    "subject": "Drawing",
+    "originalQuestionNumber": 84,
+    "questionText": "In civil engineering drawings, what does “elevation” refer to?",
+    "options": [
+      "The height of an object  or structure",
+      "The view of a structure  from above",
+      "The cross-sectional view  of a building",
+      "The layout of rooms"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_85_10",
+    "subject": "Drawing",
+    "originalQuestionNumber": 85,
+    "questionText": "What is the purpose of a legend in civil engineering drawings?",
+    "options": [
+      "To provide a key for  symbols and",
+      "To add decorative  elements",
+      "To show the project  budget",
+      "To explain construction  techniques"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_86_10",
+    "subject": "Drawing",
+    "originalQuestionNumber": 86,
+    "questionText": "Which drawing shows the vertical alignment of a building or structure?",
+    "options": [
+      "abbreviations  Floor plan",
+      "Elevation",
+      "Section view",
+      "Site plan"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_87_10",
+    "subject": "Drawing",
+    "originalQuestionNumber": 87,
+    "questionText": "What is typically shown in a “roof plan”?",
+    "options": [
+      "The layout of the roof  structure and features",
+      "The interior layout of  rooms",
+      "The foundation details",
+      "The site landscaping"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_88_10",
+    "subject": "Drawing",
+    "originalQuestionNumber": 88,
+    "questionText": "What does the term “footing” refer to in civil engineering drawings?",
+    "options": [
+      "The part of the  foundation that  supports a structure",
+      "The top of the building",
+      "The exterior cladding  material",
+      "The interior partition  walls"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_89_10",
+    "subject": "Drawing",
+    "originalQuestionNumber": 89,
+    "questionText": "Which symbol is commonly used to represent a window in a floor plan?",
+    "options": [
+      "A rectangle with two  vertical lines",
+      "A circle with a line",
+      "A square with a  diagonal line",
+      "A dashed rectangle"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p10.png",
+    "diagramPath": "/pdf_pages/Drawing_89_p10.png",
+    "validationStatus": "verified",
+    "hasDiagram": true
+  },
+  {
+    "id": "Drawing_90_10",
+    "subject": "Drawing",
+    "originalQuestionNumber": 90,
+    "questionText": "What does the abbreviation “S.O.” typically stand for in civil engineering drawings?",
+    "options": [
+      "Structural Opening",
+      "Site Orientation",
+      "Service Outlet",
+      "Soil Observation"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_91_10",
+    "subject": "Drawing",
+    "originalQuestionNumber": 91,
+    "questionText": "In civil engineering drawings, what does a “detail view” provide?",
+    "options": [
+      "An enlarged view of a  specific part of the",
+      "A view of the entire site",
+      "The layout of rooms  and floors",
+      "The external  appearance of the"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_92_10",
+    "subject": "Drawing",
+    "originalQuestionNumber": 92,
+    "questionText": "What does the abbreviation “H.W.” stand for in civil engineering drawings?",
+    "options": [
+      "drawing  High Water",
+      "Hot Water",
+      "Horizontal Wall",
+      "building  Hydraulic Water"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_93_10",
+    "subject": "Drawing",
+    "originalQuestionNumber": 93,
+    "questionText": "Which drawing shows the layout of a building in relation to its surroundings?",
+    "options": [
+      "Site plan  The height of the top",
+      "Floor plan",
+      "Section view",
+      "Elevation"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_94_10",
+    "subject": "Drawing",
+    "originalQuestionNumber": 94,
+    "questionText": "What does the term “finished floor level” (FFL) refer to?",
+    "options": [
+      "surface of the floor  when construction is",
+      "The base level of the  foundation",
+      "The level of the roof",
+      "The depth of excavation"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_95_10",
+    "subject": "Drawing",
+    "originalQuestionNumber": 95,
+    "questionText": "In a civil engineering drawing, what does the term “overhead” often refer to?",
+    "options": [
+      "completed  Elements or features  above the floor level",
+      "Underground utilities",
+      "Wall sections",
+      "Basement layout"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_96_10",
+    "subject": "Drawing",
+    "originalQuestionNumber": 96,
+    "questionText": "Which scale is commonly used for architectural floor plans?",
+    "options": [
+      "1:10",
+      "1:20",
+      "1:50",
+      "1:100"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_97_11",
+    "subject": "Drawing",
+    "originalQuestionNumber": 97,
+    "questionText": "What is a “cross-section” in civil engineering drawings?",
+    "options": [
+      "A view of a building or  structure cut  horizontally or vertically",
+      "A detailed view of the  exterior facade",
+      "The layout of electrical  systems",
+      "The plan view of the site"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_98_11",
+    "subject": "Drawing",
+    "originalQuestionNumber": 98,
+    "questionText": "What does the abbreviation “P.O.C.” typically refer to in civil engineering drawings?",
+    "options": [
+      "Point of Connection",
+      "Place of Construction",
+      "Pattern of Construction",
+      "Plan of Completion"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_99_11",
+    "subject": "Drawing",
+    "originalQuestionNumber": 99,
+    "questionText": "Which drawing typically includes information on landscaping features?",
+    "options": [
+      "Landscape plan",
+      "Floor plan",
+      "Section view",
+      "Electrical plan"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_100_11",
+    "subject": "Drawing",
+    "originalQuestionNumber": 100,
+    "questionText": "What does “D.P.” stand for in civil engineering drawings?",
+    "options": [
+      "Drainage Pipe",
+      "Design Plan",
+      "Dimension Point",
+      "Drafting Procedure"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_101_11",
+    "subject": "Drawing",
+    "originalQuestionNumber": 101,
+    "questionText": "In a civil engineering drawing, what does a “centerline” denote?",
+    "options": [
+      "The middle axis of a  component or structure",
+      "The edge of a building",
+      "The location of  plumbing fixtures",
+      "The boundary of the site"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_102_11",
+    "subject": "Drawing",
+    "originalQuestionNumber": 102,
+    "questionText": "What is shown in a “hvac plan”?",
+    "options": [
+      "The layout of heating,  ventilation, and air  conditioning systems",
+      "The arrangement of  plumbing fixtures",
+      "The design of structural  supports",
+      "The landscaping  elements"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_103_11",
+    "subject": "Drawing",
+    "originalQuestionNumber": 103,
+    "questionText": "What does “F.F.E.” refer to in civil engineering drawings?",
+    "options": [
+      "Finished Floor Elevation",
+      "Foundation Footing  Edge",
+      "Front Facade Elevation",
+      "Final Floor Equipment"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_104_11",
+    "subject": "Drawing",
+    "originalQuestionNumber": 104,
+    "questionText": "Which drawing is used to show the detailed construction of staircases?",
+    "options": [
+      "Detail drawing",
+      "Floor plan",
+      "Elevation",
+      "Site plan"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_105_11",
+    "subject": "Drawing",
+    "originalQuestionNumber": 105,
+    "questionText": "What does the abbreviation “P.V.C.” stand for in civil engineering drawings?",
+    "options": [
+      "Polyvinyl Chloride",
+      "Precast Concrete",
+      "Post-Vent Construction",
+      "Permeable Concrete"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_106_11",
+    "subject": "Drawing",
+    "originalQuestionNumber": 106,
+    "questionText": "In civil engineering drawings, what is the purpose of “reference markers”?",
+    "options": [
+      "To indicate specific  locations or sections  within the drawing",
+      "To show the type of  materials used",
+      "To outline construction  techniques",
+      "To display the project  timeline"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_107_11",
+    "subject": "Drawing",
+    "originalQuestionNumber": 107,
+    "questionText": "In civil engineering drawings, what does a dashed line typically represent?",
+    "options": [
+      "Hidden or non-visible  elements",
+      "Structural components",
+      "Site boundaries",
+      "Electrical wiring"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_108_11",
+    "subject": "Drawing",
+    "originalQuestionNumber": 108,
+    "questionText": "Which type of drawing provides a view of a building or structure from above?",
+    "options": [
+      "Floor plan",
+      "Section view",
+      "Elevation",
+      "Detail drawing"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_109_11",
+    "subject": "Drawing",
+    "originalQuestionNumber": 109,
+    "questionText": "What does the abbreviation “R.O.W.” stand for in civil engineering drawings?",
+    "options": [
+      "Right of Way",
+      "Road Opening Width",
+      "Reinforced Outer Wall",
+      "Roof Overhang Width"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_110_11",
+    "subject": "Drawing",
+    "originalQuestionNumber": 110,
+    "questionText": "What is represented by “sectional hatching” in civil engineering drawings?",
+    "options": [
+      "Different types of  materials or  construction methods",
+      "Hidden structural  elements",
+      "The layout of plumbing  and electrical systems",
+      "The building’s façade  details"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_111_11",
+    "subject": "Drawing",
+    "originalQuestionNumber": 111,
+    "questionText": "In a civil engineering drawing, what does the term “beam” refer to?",
+    "options": [
+      "A horizontal structural  element that supports  loads",
+      "A vertical support  column",
+      "An exterior wall section",
+      "A type of window"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_112_11",
+    "subject": "Drawing",
+    "originalQuestionNumber": 112,
+    "questionText": "Which drawing type shows the intersection of two or more elements of a building?",
+    "options": [
+      "Section view",
+      "Elevation",
+      "Site plan",
+      "Floor plan"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_113_11",
+    "subject": "Drawing",
+    "originalQuestionNumber": 113,
+    "questionText": "What does “M.H.” stand for in civil engineering drawings?",
+    "options": [
+      "Manhole",
+      "Mechanical Hatch",
+      "Masonry Height",
+      "Minimum Height"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_114_11",
+    "subject": "Drawing",
+    "originalQuestionNumber": 114,
+    "questionText": "Which line type is used to indicate the center of circles or arcs?",
+    "options": [
+      "Centerline",
+      "Object line",
+      "Hidden line",
+      "Dimension line"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_115_11",
+    "subject": "Drawing",
+    "originalQuestionNumber": 115,
+    "questionText": "What does the abbreviation “S.O.P.” stand for in civil engineering drawings?",
+    "options": [
+      "Standard Operating  Procedure",
+      "Structural Opening Plan",
+      "Site Occupancy Plan",
+      "Surveying Operations  Plan"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_116_11",
+    "subject": "Drawing",
+    "originalQuestionNumber": 116,
+    "questionText": "What is the purpose of “grid lines” in civil engineering drawings?",
+    "options": [
+      "To provide a reference  system for locating  elements",
+      "To indicate the  boundary of the site",
+      "To show the material  types used",
+      "To display construction  stages"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_117_11",
+    "subject": "Drawing",
+    "originalQuestionNumber": 117,
+    "questionText": "What does the term “dead load” refer to in civil engineering drawings?",
+    "options": [
+      "The static load of the  structure itself",
+      "The load from wind or  earthquakes",
+      "The load from moving  vehicles",
+      "The load from  temporary structures"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_118_11",
+    "subject": "Drawing",
+    "originalQuestionNumber": 118,
+    "questionText": "What does the term “contour” refer to in site plans?",
+    "options": [
+      "Lines representing  elevations",
+      "The shape of walls",
+      "Placement of furniture",
+      "Utility connections"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_119_11",
+    "subject": "Drawing",
+    "originalQuestionNumber": 119,
+    "questionText": "Which drawing is typically used to illustrate the location of utility lines?",
+    "options": [
+      "Utility plan",
+      "Floor plan",
+      "Section view",
+      "Elevation"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_120_11",
+    "subject": "Drawing",
+    "originalQuestionNumber": 120,
+    "questionText": "What does “L.L.” stand for in civil engineering drawings?",
+    "options": [
+      "Live Load",
+      "Lateral Load",
+      "Lower Level",
+      "Load Line"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_121_11",
+    "subject": "Drawing",
+    "originalQuestionNumber": 121,
+    "questionText": "In civil engineering drawings, what does “E.W.” refer to?",
+    "options": [
+      "Exterior Wall",
+      "Electrical Wiring",
+      "Emergency Water",
+      "Excavation Width"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_122_12",
+    "subject": "Drawing",
+    "originalQuestionNumber": 122,
+    "questionText": "Which drawing shows a cutaway view through a building to show internal features?",
+    "options": [
+      "Section view",
+      "Elevation",
+      "Floor plan",
+      "Detail drawing"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 12,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p12.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_123_12",
+    "subject": "Drawing",
+    "originalQuestionNumber": 123,
+    "questionText": "What does the term “sub-grade” refer to in civil engineering drawings?",
+    "options": [
+      "The layer of soil  beneath the foundation",
+      "The surface of the floor",
+      "The top layer of the roof",
+      "The height of the  building"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 12,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p12.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_124_12",
+    "subject": "Drawing",
+    "originalQuestionNumber": 124,
+    "questionText": "What is represented by “line weight” in civil engineering drawings?",
+    "options": [
+      "The thickness of lines  used to indicate",
+      "The length of lines",
+      "The color of lines",
+      "The type of line pattern"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 12,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p12.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_125_12",
+    "subject": "Drawing",
+    "originalQuestionNumber": 125,
+    "questionText": "What does the abbreviation “P.T.” stand for in civil engineering drawings?",
+    "options": [
+      "different elements  Post Tensioned",
+      "Pipe Tension",
+      "Preliminary Test",
+      "Planar Texture"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 12,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p12.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_126_12",
+    "subject": "Drawing",
+    "originalQuestionNumber": 126,
+    "questionText": "Which type of drawing provides detailed information on stair designs?",
+    "options": [
+      "Detail drawing",
+      "Floor plan",
+      "Site plan",
+      "Elevation"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 12,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p12.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_127_12",
+    "subject": "Drawing",
+    "originalQuestionNumber": 127,
+    "questionText": "In civil engineering drawings, what does “T.O.S.” refer to?",
+    "options": [
+      "Top of Steel",
+      "Type of Surface",
+      "Total Occupied Space",
+      "Thickness of Stone"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 12,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p12.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_128_12",
+    "subject": "Drawing",
+    "originalQuestionNumber": 128,
+    "questionText": "What is the function of “construction notes” in civil engineering drawings?",
+    "options": [
+      "To provide instructions  and details for the  construction process",
+      "To show the project’s  budget",
+      "To illustrate the  building’s aesthetic  design",
+      "To list material suppliers"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 12,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p12.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_129_12",
+    "subject": "Drawing",
+    "originalQuestionNumber": 129,
+    "questionText": "Which drawing typically shows the layout of rooms and their dimensions?",
+    "options": [
+      "Elevation plan",
+      "Floor plan",
+      "Site plan",
+      "Section view"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 12,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p12.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_130_12",
+    "subject": "Drawing",
+    "originalQuestionNumber": 130,
+    "questionText": "What does the term “site plan” generally include?",
+    "options": [
+      "The layout of the site,  including buildings,  landscaping, and utilities",
+      "The internal layout of  rooms",
+      "The structural details of  the foundation",
+      "The elevation of the  building"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 12,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p12.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_131_12",
+    "subject": "Drawing",
+    "originalQuestionNumber": 131,
+    "questionText": "In civil engineering drawings, what does the abbreviation “H.C.” stand for?",
+    "options": [
+      "Handicapped Access",
+      "Hydraulic Cement",
+      "Height Clearance",
+      "Heating Circuit"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 12,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p12.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_132_12",
+    "subject": "Drawing",
+    "originalQuestionNumber": 132,
+    "questionText": "Which drawing would you use to find the locations of fire extinguishers and emergency  exits?",
+    "options": [
+      "Safety plan",
+      "Floor plan",
+      "Electrical plan",
+      "Site plan"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 12,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p12.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_133_12",
+    "subject": "Drawing",
+    "originalQuestionNumber": 133,
+    "questionText": "What does “G.F.B.” stand for in civil engineering drawings?",
+    "options": [
+      "Ground Floor Beam  The process of",
+      "General Floor Base",
+      "Gross Floor Balance",
+      "Ground Floor Base"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 12,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p12.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_134_12",
+    "subject": "Drawing",
+    "originalQuestionNumber": 134,
+    "questionText": "In civil engineering drawings, what does the term “scaling” refer to?",
+    "options": [
+      "converting  measurements to a",
+      "The design of staircases",
+      "The addition of  materials",
+      "The height of walls"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 12,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p12.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_135_12",
+    "subject": "Drawing",
+    "originalQuestionNumber": 135,
+    "questionText": "What does “P.D.” typically refer to in civil engineering drawings?",
+    "options": [
+      "smaller or larger size  Property Drainage",
+      "Project Development",
+      "Preliminary Design",
+      "Plan Detail"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 12,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p12.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_136_12",
+    "subject": "Drawing",
+    "originalQuestionNumber": 136,
+    "questionText": "Which drawing shows the layout of structural elements such as columns and beams?",
+    "options": [
+      "Structural plan",
+      "Floor plan",
+      "Site plan",
+      "Elevation"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 12,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p12.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_137_12",
+    "subject": "Drawing",
+    "originalQuestionNumber": 137,
+    "questionText": "What does the abbreviation “S.P.” stand for in civil engineering drawings?",
+    "options": [
+      "Site Plan  To provide additional",
+      "Structural Pipe",
+      "Structural Panel",
+      "Service Point"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 12,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p12.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_138_12",
+    "subject": "Drawing",
+    "originalQuestionNumber": 138,
+    "questionText": "In civil engineering drawings, what is the purpose of “notations”?",
+    "options": [
+      "information or  explanations about the",
+      "To show hidden  elements",
+      "To indicate construction  stages",
+      "To represent different  materials"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 12,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p12.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_139_12",
+    "subject": "Drawing",
+    "originalQuestionNumber": 139,
+    "questionText": "Which drawing type is used to show the layout and design of drainage systems?",
+    "options": [
+      "drawing  Drainage plan",
+      "Floor plan",
+      "Structural plan",
+      "Site plan"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 12,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p12.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_140_12",
+    "subject": "Drawing",
+    "originalQuestionNumber": 140,
+    "questionText": "In a civil engineering drawing, what does a “section view” provide?",
+    "options": [
+      "A view from above the  structure",
+      "A cross-sectional cut  through the structure",
+      "The layout of utilities",
+      "The exterior façade"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 12,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p12.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_141_12",
+    "subject": "Drawing",
+    "originalQuestionNumber": 141,
+    "questionText": "What does the abbreviation “A.B.” typically refer to in civil engineering drawings?",
+    "options": [
+      "Anchor Bolt",
+      "Average Base",
+      "Architectural Block",
+      "Aggregate Base"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 12,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p12.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_142_12",
+    "subject": "Drawing",
+    "originalQuestionNumber": 142,
+    "questionText": "In civil engineering drawings, what does “B.O.” stand for?",
+    "options": [
+      "Bottom of",
+      "Beam Outline",
+      "Building Opening",
+      "Base of"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 12,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p12.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_143_12",
+    "subject": "Drawing",
+    "originalQuestionNumber": 143,
+    "questionText": "What is typically shown in a “land survey” drawing?",
+    "options": [
+      "The topography and  boundaries of a land  parcel",
+      "The interior layout of a  building",
+      "The elevation of the  building’s façade",
+      "The structural details of  the foundation"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 12,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p12.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_144_12",
+    "subject": "Drawing",
+    "originalQuestionNumber": 144,
+    "questionText": "Which drawing provides information on the alignment and placement of roadways?",
+    "options": [
+      "Road plan",
+      "Site plan",
+      "Floor plan",
+      "Elevation"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 12,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p12.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_145_12",
+    "subject": "Drawing",
+    "originalQuestionNumber": 145,
+    "questionText": "What does the abbreviation “S.W.” stand for in civil engineering drawings?",
+    "options": [
+      "Storm Water",
+      "Structural Wall",
+      "Site Width",
+      "Service Water"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 12,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p12.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_146_13",
+    "subject": "Drawing",
+    "originalQuestionNumber": 146,
+    "questionText": "In civil engineering drawings, what does “T.O.P.” refer to?",
+    "options": [
+      "Top of Plate",
+      "Total Operating Pressure",
+      "Time of Placement",
+      "Type of Panel"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 13,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p13.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_147_13",
+    "subject": "Drawing",
+    "originalQuestionNumber": 147,
+    "questionText": "Which type of drawing is used to detail the placement and layout of plumbing fixtures?",
+    "options": [
+      "Plumbing plan",
+      "Electrical plan",
+      "Structural plan",
+      "Site plan"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 13,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p13.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_148_13",
+    "subject": "Drawing",
+    "originalQuestionNumber": 148,
+    "questionText": "What does the abbreviation “W.P.” refer to in civil engineering drawings?",
+    "options": [
+      "Water Proof",
+      "Wall Panel",
+      "Work Plan",
+      "Width of Pavement"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 13,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p13.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_149_13",
+    "subject": "Drawing",
+    "originalQuestionNumber": 149,
+    "questionText": "What is the purpose of “cut sections” in civil engineering drawings?",
+    "options": [
+      "To show the interior  structure or details of a  building",
+      "To display the external  appearance of the  building",
+      "To illustrate the site  layout",
+      "To indicate the type of  materials used"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 13,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p13.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_150_13",
+    "subject": "Drawing",
+    "originalQuestionNumber": 150,
+    "questionText": "Which type of drawing shows the location and layout of exterior features such as  landscaping and hardscaping?",
+    "options": [
+      "Landscape plan",
+      "Floor plan",
+      "Elevation",
+      "Structural plan"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 13,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p13.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_151_13",
+    "subject": "Drawing",
+    "originalQuestionNumber": 151,
+    "questionText": "What is the default unit of measurement in AutoCAD?",
+    "options": [
+      "Inches",
+      "Millimeters",
+      "Centimeters",
+      "Feet"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 13,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p13.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_152_13",
+    "subject": "Drawing",
+    "originalQuestionNumber": 152,
+    "questionText": "How can you view different layers in AutoCAD?",
+    "options": [
+      "Through the Layer  Properties Manager",
+      "By typing VIEW",
+      "By clicking the 'Layer'  tab in the ribbon",
+      "By using the 'LAYOUT'  command"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 13,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p13.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_153_13",
+    "subject": "Drawing",
+    "originalQuestionNumber": 153,
+    "questionText": "Which command is used to create a 3D solid object?",
+    "options": [
+      "EXTRUDE",
+      "REVOLVE",
+      "LOFT",
+      "All of the above"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 13,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p13.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_154_13",
+    "subject": "Drawing",
+    "originalQuestionNumber": 154,
+    "questionText": "How do you access the 'Options' dialog box in AutoCAD?",
+    "options": [
+      "By typing OPTIONS",
+      "By clicking the  'Application menu'",
+      "By pressing F2",
+      "By using the command  'SETTINGS'"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 13,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p13.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_155_13",
+    "subject": "Drawing",
+    "originalQuestionNumber": 155,
+    "questionText": "Which tool allows you to precisely place objects in AutoCAD?",
+    "options": [
+      "Object Snap (OSNAP",
+      "Dynamic Input",
+      "Grips",
+      "Properties Palette"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 13,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p13.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_156_13",
+    "subject": "Drawing",
+    "originalQuestionNumber": 156,
+    "questionText": "What does the 'ARRAY' command do?",
+    "options": [
+      "Creates multiple copies  of an object in a pattern",
+      "Resizes an object",
+      "Moves an object",
+      "Rotates an object"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 13,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p13.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_157_13",
+    "subject": "Drawing",
+    "originalQuestionNumber": 157,
+    "questionText": "Which command is used to join two or more lines into a polyline?",
+    "options": [
+      "JOIN",
+      "UNION",
+      "COMBINE",
+      "GROUP"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 13,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p13.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_158_13",
+    "subject": "Drawing",
+    "originalQuestionNumber": 158,
+    "questionText": "What does the 'MIRROR' command do in AutoCAD?",
+    "options": [
+      "Flips an object over a  specified axis",
+      "Moves an object",
+      "Scales an object",
+      "Rotates an object"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 13,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p13.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_159_13",
+    "subject": "Drawing",
+    "originalQuestionNumber": 159,
+    "questionText": "Which command is used to measure the distance between two points in AutoCAD?",
+    "options": [
+      "DIST",
+      "MEASURE",
+      "DIM",
+      "LENGTH"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 13,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p13.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_160_13",
+    "subject": "Drawing",
+    "originalQuestionNumber": 160,
+    "questionText": "How can you quickly switch between different views in AutoCAD?",
+    "options": [
+      "By using the ViewCube",
+      "By pressing F5",
+      "By typing SWITCHVIEW",
+      "By clicking the 'Views'  tab in the ribbon"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 13,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p13.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_161_13",
+    "subject": "Drawing",
+    "originalQuestionNumber": 161,
+    "questionText": "Which command is used to remove extra geometry and clean up the drawing?",
+    "options": [
+      "CLEANUP",
+      "PURGE",
+      "REPAIR",
+      "FIX"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 13,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p13.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_162_13",
+    "subject": "Drawing",
+    "originalQuestionNumber": 162,
+    "questionText": "Which command is used to draw a straight line in AutoCAD?",
+    "options": [
+      "RECTANGLE",
+      "LINE",
+      "POLYLINE",
+      "CIRCLE"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 13,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p13.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_163_13",
+    "subject": "Drawing",
+    "originalQuestionNumber": 163,
+    "questionText": "How do you adjust the thickness of a line in AutoCAD?",
+    "options": [
+      "By using the 'LWEIGHT'  command",
+      "By using the 'LINE'  command",
+      "By adjusting the  'Lineweight' property in  the Properties Palette",
+      "By using the 'STRETCH'  command"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 13,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p13.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_164_13",
+    "subject": "Drawing",
+    "originalQuestionNumber": 164,
+    "questionText": "What is the function of the 'HATCH' command?",
+    "options": [
+      "To fill an enclosed area  with a pattern",
+      "To draw a rectangle",
+      "To create a 3D surface",
+      "To draw lines"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 13,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p13.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_165_13",
+    "subject": "Drawing",
+    "originalQuestionNumber": 165,
+    "questionText": "Which command allows you to create a new layer in AutoCAD?",
+    "options": [
+      "NEWLAYER",
+      "ADDLAYER",
+      "LAYER",
+      "LAYERPROPERTIES"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 13,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p13.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_166_13",
+    "subject": "Drawing",
+    "originalQuestionNumber": 166,
+    "questionText": "How do you save your current drawing in AutoCAD?",
+    "options": [
+      "By pressing Ctrl+S",
+      "By typing SAVEAS",
+      "By using the 'Save'  button in the application",
+      "All of the above"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 13,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p13.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_167_13",
+    "subject": "Drawing",
+    "originalQuestionNumber": 167,
+    "questionText": "Which command is used to make a copy of an object at a specific distance?",
+    "options": [
+      "COPY",
+      "OFFSET",
+      "menu  MIRROR",
+      "ARRAY"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 13,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p13.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_168_13",
+    "subject": "Drawing",
+    "originalQuestionNumber": 168,
+    "questionText": "What does the 'ROTATE' command do?",
+    "options": [
+      "Turns an object around  a base point",
+      "Moves an object",
+      "Scales an object",
+      "Changes the layer of an  object"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 13,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p13.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_169_13",
+    "subject": "Drawing",
+    "originalQuestionNumber": 169,
+    "questionText": "How do you display the properties of a selected object?",
+    "options": [
+      "By using the 'Properties'  palette",
+      "By typing PROPERTIES",
+      "By pressing Ctrl+P",
+      "By right-clicking and  selecting 'Properties'"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 13,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p13.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_170_13",
+    "subject": "Drawing",
+    "originalQuestionNumber": 170,
+    "questionText": "Which command is used to create a new drawing?",
+    "options": [
+      "NEW",
+      "CREATE",
+      "DRAW",
+      "OPEN"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 13,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p13.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_171_13",
+    "subject": "Drawing",
+    "originalQuestionNumber": 171,
+    "questionText": "What does the 'XLINE' command create in AutoCAD?",
+    "options": [
+      "An infinite line",
+      "A line with specific  length",
+      "A line between two  points",
+      "A curved line"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 13,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p13.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_172_13",
+    "subject": "Drawing",
+    "originalQuestionNumber": 172,
+    "questionText": "Which command is used to modify the size of a drawing object?",
+    "options": [
+      "SCALE",
+      "RESIZE",
+      "STRETCH",
+      "MODIFY"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 13,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p13.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_173_14",
+    "subject": "Drawing",
+    "originalQuestionNumber": 173,
+    "questionText": "What does the 'TRIM' command do in AutoCAD?",
+    "options": [
+      "Extend objects",
+      "Shorten objects",
+      "Cut objects",
+      "Resize objects"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 14,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p14.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_174_14",
+    "subject": "Drawing",
+    "originalQuestionNumber": 174,
+    "questionText": "What does the 'FILLET' command do in AutoCAD?",
+    "options": [
+      "Rounds the corners of  an object",
+      "Joins two objects",
+      "Splits an object",
+      "Extends an object"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 14,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p14.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_175_14",
+    "subject": "Drawing",
+    "originalQuestionNumber": 175,
+    "questionText": "Which command is used to create a dimension in AutoCAD?",
+    "options": [
+      "DIMLINEAR",
+      "MEASURE",
+      "SCALE",
+      "LENGTH"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 14,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p14.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_176_14",
+    "subject": "Drawing",
+    "originalQuestionNumber": 176,
+    "questionText": "How do you set a specific coordinate system for your drawing?",
+    "options": [
+      "By using the UCS  command",
+      "By typing COORD",
+      "By using the GRID  command",
+      "By adjusting the SNAP  settings"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 14,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p14.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_177_14",
+    "subject": "Drawing",
+    "originalQuestionNumber": 177,
+    "questionText": "How do you activate the 'Pan' tool in AutoCAD?",
+    "options": [
+      "By pressing F1",
+      "By pressing the mouse  wheel",
+      "By typing PAN",
+      "By pressing the space  bar"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 14,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p14.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_178_14",
+    "subject": "Drawing",
+    "originalQuestionNumber": 178,
+    "questionText": "What does the 'OFFSET' command do in AutoCAD?",
+    "options": [
+      "Moves objects",
+      "Duplicates objects at a  specified distance",
+      "Rotates objects",
+      "Mirrors objects"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 14,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p14.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_179_14",
+    "subject": "Drawing",
+    "originalQuestionNumber": 179,
+    "questionText": "Which command is used to create a circle in AutoCAD?",
+    "options": [
+      "CIRCLE",
+      "ARC",
+      "ELLIPSE",
+      "POLYGON"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 14,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p14.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_180_14",
+    "subject": "Drawing",
+    "originalQuestionNumber": 180,
+    "questionText": "What is the purpose of the 'BLOCK' command in AutoCAD?",
+    "options": [
+      "To create a reusable set  of objects",
+      "To delete objects",
+      "To rotate objects",
+      "To mirror objects"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 14,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p14.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_181_14",
+    "subject": "Drawing",
+    "originalQuestionNumber": 181,
+    "questionText": "Which command is used to change the layer properties?",
+    "options": [
+      "LAYER",
+      "COLOR",
+      "LINEWEIGHT",
+      "STYLE"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 14,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p14.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_182_14",
+    "subject": "Drawing",
+    "originalQuestionNumber": 182,
+    "questionText": "What does the 'EXPLODE' command do in AutoCAD?",
+    "options": [
+      "Combine objects",
+      "Break down a block into  its component parts",
+      "Resize objects",
+      "Align objects"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 14,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p14.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_183_14",
+    "subject": "Drawing",
+    "originalQuestionNumber": 183,
+    "questionText": "In a technical drawing, which line type is typically used for visible edges?",
+    "options": [
+      "Hidden line",
+      "Centerline",
+      "Visible line",
+      "Section line"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 14,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p14.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_184_14",
+    "subject": "Drawing",
+    "originalQuestionNumber": 184,
+    "questionText": "In orthographic projection, how many views are typically used to represent a 3D object  completely?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 14,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p14.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_185_14",
+    "subject": "Drawing",
+    "originalQuestionNumber": 185,
+    "questionText": "In technical drawing, what does a 'reference dimension' indicate?",
+    "options": [
+      "A dimension used for  reference purposes only  and not for",
+      "A critical dimension  necessary for assembly",
+      "A dimension that  changes with the  drawing scale",
+      "A dimension used to  calculate material costs"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 14,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p14.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_186_14",
+    "subject": "Drawing",
+    "originalQuestionNumber": 186,
+    "questionText": "In which type of drawing is the object's features drawn at full scale and other features  are drawn in a reduced size?",
+    "options": [
+      "manufacturing  Orthographic drawing",
+      "Isometric drawing",
+      "Assembly drawing",
+      "Detail drawing"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 14,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p14.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_187_14",
+    "subject": "Drawing",
+    "originalQuestionNumber": 187,
+    "questionText": "What does the 'scale factor' in a drawing represent?",
+    "options": [
+      "The proportion of the  drawing size to the  actual size",
+      "The color intensity used  in the drawing",
+      "The thickness of the  drawing lines",
+      "The material used for  the drawing"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 14,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p14.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_188_14",
+    "subject": "Drawing",
+    "originalQuestionNumber": 188,
+    "questionText": "What does the term 'datum' refer to in engineering drawing?",
+    "options": [
+      "A reference point or  surface from which  measurements are made",
+      "A type of line used in  the drawing",
+      "A color code used for  dimensions",
+      "A specific drawing scale"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 14,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p14.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_189_14",
+    "subject": "Drawing",
+    "originalQuestionNumber": 189,
+    "questionText": "What does the term 'scale' refer to in engineering drawings?",
+    "options": [
+      "The proportion of the  drawing to the actual  object",
+      "The thickness of lines",
+      "The type of paper used",
+      "The color of the drawing"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 14,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p14.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_190_14",
+    "subject": "Drawing",
+    "originalQuestionNumber": 190,
+    "questionText": "What does the term 'tolerancing' refer to in engineering drawings?",
+    "options": [
+      "The measurement of  angles",
+      "The permissible limit of  variation in dimensions",
+      "The color code used",
+      "The thickness of lines"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 14,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p14.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_191_14",
+    "subject": "Drawing",
+    "originalQuestionNumber": 191,
+    "questionText": "What is a 'bill of materials' in an engineering drawing?",
+    "options": [
+      "A list of all the  components required  for manufacturing",
+      "A detailed drawing of  the object",
+      "A list of suppliers",
+      "A graphical  representation of  dimensions"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 14,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p14.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_192_14",
+    "subject": "Drawing",
+    "originalQuestionNumber": 192,
+    "questionText": "What is a 'cutting plane line' in section views?",
+    "options": [
+      "A line indicating where  the object has been cut  to show internal features",
+      "A line representing the  object's external edge",
+      "A line used for  dimensioning",
+      "A line showing the  object's center"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 14,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p14.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_193_14",
+    "subject": "Drawing",
+    "originalQuestionNumber": 193,
+    "questionText": "What is a 'hidden line' in engineering drawing?",
+    "options": [
+      "A line that represents  edges not visible in the  current view",
+      "A line used for  decorative purposes",
+      "A line that is highlighted  for emphasis",
+      "A line showing the  center of a circle"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 14,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p14.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_194_15",
+    "subject": "Drawing",
+    "originalQuestionNumber": 194,
+    "questionText": "What is an 'exploded view' in an engineering drawing?",
+    "options": [
+      "A view showing the  object disassembled into  its components",
+      "A view showing a  detailed cross-section",
+      "A view showing the  object in perspective",
+      "A view of the object  from a distance"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 15,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p15.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_195_15",
+    "subject": "Drawing",
+    "originalQuestionNumber": 195,
+    "questionText": "What is the function of 'leader lines' in an engineering drawing?",
+    "options": [
+      "To connect a dimension  or note to a specific  feature of the drawing",
+      "To indicate hidden  features",
+      "To outline the object's  boundary",
+      "To represent centerlines"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 15,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p15.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_196_15",
+    "subject": "Drawing",
+    "originalQuestionNumber": 196,
+    "questionText": "What is the main difference between a 'section view' and a 'detail view'?",
+    "options": [
+      "A section view shows  internal features by  cutting through the  object, while a detail  view shows a magnified",
+      "A section view shows  external features, while  a detail view shows the  overall object.",
+      "A section view is used  for dimensioning, while  a detail view is used for  colors.",
+      "A section view is a  perspective drawing,  while a detail view is an  isometric drawing."
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 15,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p15.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_197_15",
+    "subject": "Drawing",
+    "originalQuestionNumber": 197,
+    "questionText": "What is the primary purpose of an engineering drawing?",
+    "options": [
+      "portion of the drawing.  To provide artistic  representation",
+      "To communicate  technical information",
+      "To serve as a legal  document",
+      "To decorate  architectural plans"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 15,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p15.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_198_15",
+    "subject": "Drawing",
+    "originalQuestionNumber": 198,
+    "questionText": "What is the purpose of a section view in an engineering drawing?",
+    "options": [
+      "To show internal  features of a component",
+      "To display the external  appearance only",
+      "To provide a view from  the top",
+      "To illustrate the color of  the component"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 15,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p15.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_199_15",
+    "subject": "Drawing",
+    "originalQuestionNumber": 199,
+    "questionText": "What is the purpose of a title block on an engineering drawing?",
+    "options": [
+      "To provide information  about the drawing, such  as title, scale, and date",
+      "To display the drawing's  artistic design",
+      "To highlight the  drawing's colors",
+      "To show the dimensions  of the drawing paper"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 15,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p15.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_200_15",
+    "subject": "Drawing",
+    "originalQuestionNumber": 200,
+    "questionText": "What is the purpose of dimensioning in an engineering drawing?",
+    "options": [
+      "To indicate the colors  used",
+      "To provide  measurements and sizes  of components",
+      "To describe the material  properties",
+      "To show the location of  the drawing"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 15,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p15.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_201_15",
+    "subject": "Drawing",
+    "originalQuestionNumber": 201,
+    "questionText": "What is the purpose of using 'hatching' in a section view?",
+    "options": [
+      "To indicate the material  and texture of the  sectioned area",
+      "To represent hidden  lines",
+      "To show the object's  centerline",
+      "To dimension the  sectioned area"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 15,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p15.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_202_15",
+    "subject": "Drawing",
+    "originalQuestionNumber": 202,
+    "questionText": "What is the standard angle for drawing an isometric view in engineering drawing?",
+    "options": [
+      "30 degrees",
+      "45 degrees",
+      "60 degrees",
+      "90 degrees"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 15,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p15.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_203_15",
+    "subject": "Drawing",
+    "originalQuestionNumber": 203,
+    "questionText": "Which drawing view is used to show the width and depth of an object?",
+    "options": [
+      "Top view",
+      "Side view",
+      "Front view",
+      "Section view"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 15,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p15.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_204_15",
+    "subject": "Drawing",
+    "originalQuestionNumber": 204,
+    "questionText": "Which line type is used to represent the centerline of an object?",
+    "options": [
+      "Dashed line",
+      "Solid line",
+      "Chain line",
+      "Dotted line"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 15,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p15.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_205_15",
+    "subject": "Drawing",
+    "originalQuestionNumber": 205,
+    "questionText": "Which line type is used to show dimensions and their locations in engineering drawings?",
+    "options": [
+      "Dimension line",
+      "Hidden line",
+      "Centerline",
+      "Section line"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 15,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p15.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_206_15",
+    "subject": "Drawing",
+    "originalQuestionNumber": 206,
+    "questionText": "Which type of drawing is used to show the relationship between parts in an assembly?",
+    "options": [
+      "Detail drawing",
+      "Assembly drawing",
+      "Section drawing",
+      "Exploded view drawing"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 15,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p15.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_207_15",
+    "subject": "Drawing",
+    "originalQuestionNumber": 207,
+    "questionText": "Which type of line is used to show dimensions in a drawing?",
+    "options": [
+      "Visible line",
+      "Dimension line",
+      "Centerline",
+      "Hidden line"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 15,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p15.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_208_15",
+    "subject": "Drawing",
+    "originalQuestionNumber": 208,
+    "questionText": "Which type of projection is commonly used in engineering drawings for a three- dimensional view?",
+    "options": [
+      "Isometric projection",
+      "Orthographic projection",
+      "Perspective projection",
+      "Oblique projection"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 15,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p15.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Drawing_209_15",
+    "subject": "Drawing",
+    "originalQuestionNumber": 209,
+    "questionText": "Which view is typically used to show the height and width of an object in orthographic  projection?",
+    "options": [
+      "Top view",
+      "Front view",
+      "Side view",
+      "Section view"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Drawing.PDF",
+    "sourcePage": 15,
+    "sourcePagePath": "/pdf_pages/Drawing_full_p15.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  }
+]

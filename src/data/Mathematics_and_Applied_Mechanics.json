@@ -1,0 +1,3802 @@
+[
+  {
+    "id": "Maths&APM_1_1",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 1,
+    "questionText": "Gravitation is inversely related to",
+    "options": [
+      "distance  between  masses",
+      "product of  magnitude of  masses",
+      "direction of  masses",
+      "square of  distance  between  masses"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 1,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p1.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_2_1",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 2,
+    "questionText": "Here f (x) = log  x + 16 x    then what is  value for f(1/4)  ? 2",
+    "options": [
+      "4",
+      "2",
+      "0",
+      "-1"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 1,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p1.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_3_1",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 3,
+    "questionText": "Heron's formula is used for finding ______ of a triangle",
+    "options": [
+      "volume",
+      "area",
+      "perimeter",
+      "none of these"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 1,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p1.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_4_1",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 4,
+    "questionText": "How many sides does the triangle have ?",
+    "options": [
+      "1",
+      "3",
+      "4",
+      "no diagonals"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 1,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p1.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_5_1",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 5,
+    "questionText": "Hook's law hold good for",
+    "options": [
+      "elasticity",
+      "kinetic energy",
+      "electricity",
+      "none of these"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 1,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p1.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_6_1",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 6,
+    "questionText": "2  If 16^2-16- x = 15,  find x",
+    "options": [
+      "16",
+      "15",
+      "24",
+      "30"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 1,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p1.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_7_1",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 7,
+    "questionText": "If 3 4  = 9 x  what is the value of x ?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "0"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 1,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p1.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_8_1",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 8,
+    "questionText": "If an object speeds up from 20m/s to 100m/s in 4s, what is its  acceleration?",
+    "options": [
+      "80 m / sec",
+      "20 m/ sec ^2",
+      "40 m / sec  ^2",
+      "40 m / sec"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 1,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p1.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_9_1",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 9,
+    "questionText": "If ax  = by , then   log b  / log a  is equal to",
+    "options": [
+      "x/y",
+      "y/x",
+      "x^y",
+      "y^x"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 1,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p1.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_10_1",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 10,
+    "questionText": "If body is at rest under action of forces the condition said to be ----",
+    "options": [
+      "static",
+      "moving",
+      "dynamic",
+      "kinematic"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 1,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p1.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_11_1",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 11,
+    "questionText": "If log 2 = 0.3010 and log 3 = 0.4771  as base 10 then value of log 72",
+    "options": [
+      "1.8572",
+      "2.0343",
+      "1.7782",
+      "2.7782"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 1,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p1.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_12_1",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 12,
+    "questionText": "If log 900= 2.9542, what is value of log 3 ?",
+    "options": [
+      "0.4771",
+      "0.9845",
+      "1.4771",
+      "0.9542"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 1,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p1.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_13_1",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 13,
+    "questionText": "If one angle of a linear pair is obtuse then other angle is ………",
+    "options": [
+      "obtuse",
+      "acute",
+      "opposite",
+      "none of these"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 1,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p1.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_14_1",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 14,
+    "questionText": "If sin x =  3/5    then cos x =  ?",
+    "options": [
+      "5/5",
+      "4/5",
+      "5/4",
+      "5/3"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 1,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p1.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_15_1",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 15,
+    "questionText": "If the difference between the circumference and radius of a circle is 37  cm, then the area of the circle is -   sq. cm",
+    "options": [
+      "111",
+      "148",
+      "259",
+      "154"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 1,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p1.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_16_2",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 16,
+    "questionText": "If the lines given by 3x+ ky = 2 and 2x + 6y = 1 are parallel, then the value of k is",
+    "options": [
+      "9",
+      "6",
+      "4",
+      "3"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 2,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p2.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_17_2",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 17,
+    "questionText": "If the mechanical advantage of a simple machine is 3, then the",
+    "options": [
+      "effort is 3  times the  output force",
+      "output force  is 3 times  the effort",
+      "efficiency is  3%",
+      "the work  output is 1/3  times the  input"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 2,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p2.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_18_2",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 18,
+    "questionText": "If the radius of cylinder is halved and height is doubled, then what will be  the curved surface area?",
+    "options": [
+      "increase  by 1",
+      "the same",
+      "double",
+      "triple"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 2,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p2.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_19_2",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 19,
+    "questionText": "2 If x = 3t  - 2t, find  dx/dt  when  t = 3 sec",
+    "options": [
+      "10",
+      "12",
+      "16",
+      "0"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 2,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p2.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_20_2",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 20,
+    "questionText": "If sum of two number is 4 and difference is 2 , find the numbers ----",
+    "options": [
+      "2,1",
+      "3,1",
+      "4,6",
+      "1,2"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 2,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p2.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_21_2",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 21,
+    "questionText": "If y=5x + 1 is line equation then value of slope is equal to----",
+    "options": [
+      "3",
+      "5",
+      "1/5",
+      "1/2"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 2,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p2.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_22_2",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 22,
+    "questionText": "In 15 minutes a car whose speed is 40 km/h travels a distance of",
+    "options": [
+      "10 km",
+      "20 km",
+      "40 km",
+      "25 km"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 2,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p2.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_23_2",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 23,
+    "questionText": "In a cantilever beam reinforcement is placed ……… beam section",
+    "options": [
+      "@ bottom of",
+      "on the both  faces",
+      "at the ends  only",
+      "on the top of"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 2,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p2.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_24_2",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 24,
+    "questionText": "In a homogeneous body, the whole weight of the body is assumed to be  concentrate at point is called ……..",
+    "options": [
+      "centre of gravity  of the body",
+      "centriod of the  body",
+      "centre of the  body",
+      "all of these"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 2,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p2.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_25_2",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 25,
+    "questionText": "In all cases, the lines  rise  from left to right   have ------   slopes",
+    "options": [
+      "negative",
+      "positive",
+      "both of 1 &  2",
+      "none of these"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 2,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p2.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_26_2",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 26,
+    "questionText": "In gravitational force the value of 'g' in MKS system is ………..",
+    "options": [
+      "9.81 m/s2",
+      "981 m/s2",
+      "98.1 m/s2",
+      "none of these"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 2,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p2.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_27_2",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 27,
+    "questionText": "In mechanics if input and output forces are equal them MA is equal to ---",
+    "options": [
+      "0",
+      "1",
+      "-1",
+      "0.5"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 2,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p2.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_28_2",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 28,
+    "questionText": "In mechanics, full form of MA is ……",
+    "options": [
+      "Mechanical  Advantage",
+      "Machine Axle",
+      "Major  Advantage",
+      "Minor  Advantage"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 2,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p2.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_29_2",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 29,
+    "questionText": "In RCC beam bent up bars are provided @ both ends for ……..",
+    "options": [
+      "bending  moment",
+      "shear force",
+      "self weight",
+      "none of these"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 2,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p2.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_30_2",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 30,
+    "questionText": "In the sequence 2,5,8,11 ……… find next number",
+    "options": [
+      "12",
+      "14",
+      "15",
+      "17"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 2,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p2.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_31_2",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 31,
+    "questionText": "In the short formof  UDL, D stands for",
+    "options": [
+      "Deformed",
+      "Distributed",
+      "Disturbed",
+      "Distortion"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 2,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p2.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_32_3",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 32,
+    "questionText": "In which cases the object does not possess an acceleration or retardation  when it moves in",
+    "options": [
+      "upward  direction with  decreasing  speed",
+      "downward  direction with  increasing  speed",
+      "with  constant  speed  along",
+      "with constant  speed along  horizontal  path"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 3,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p3.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_33_3",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 33,
+    "questionText": "Instrument used to measure area of irregular shape is ……….",
+    "options": [
+      "clinometer",
+      "level",
+      "circular path planimeter",
+      "theodolite"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 3,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p3.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_34_3",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 34,
+    "questionText": "Line is made up by ----- number of points",
+    "options": [
+      "two",
+      "one",
+      "three",
+      "infinity"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 3,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p3.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_35_3",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 35,
+    "questionText": "Liquid A and liquid B exert same amount of pressure on each other, but  density of A is twice density of B. height of liquid B is 10 cm, then height  of liquid A would be",
+    "options": [
+      "5 cm",
+      "10 cm",
+      "20 cm",
+      "40 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 3,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p3.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_36_3",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 36,
+    "questionText": "Minimum Point required to form a line",
+    "options": [
+      "Two",
+      "Three",
+      "One",
+      "none of these"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 3,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p3.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_37_3",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 37,
+    "questionText": "One arg work is equivalent to ……………",
+    "options": [
+      "1 dyne-cm",
+      "9.81 dyne- cm",
+      "1 dyne- meter",
+      "1 kg wt- meter"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 3,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p3.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_38_3",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 38,
+    "questionText": "Point where whole weight of body acts vertically is called",
+    "options": [
+      "center of mass",
+      "mid point",
+      "center of  gravity",
+      "none of  above"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 3,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p3.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_39_3",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 39,
+    "questionText": "Poisson's ratio is given by …….",
+    "options": [
+      "lateral strain /  longitudinal  strain",
+      "lateral stress /  longitudinal  strain",
+      "stress / strain",
+      "none of these"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 3,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p3.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_40_3",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 40,
+    "questionText": "Rate of change of angular momentum is equal to",
+    "options": [
+      "force",
+      "torque",
+      "impulse",
+      "linear- momentum"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 3,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p3.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_41_3",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 41,
+    "questionText": "Ratio between force of limiting friction and normal reaction is",
+    "options": [
+      "always  negative",
+      "always zero",
+      "constant",
+      "variable"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 3,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p3.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_42_3",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 42,
+    "questionText": "Semicircle may be called  as",
+    "options": [
+      "Quarter sector",
+      "half sector",
+      "full sector",
+      "none of these"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 3,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p3.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_43_3",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 43,
+    "questionText": "Shear force is measured in ……..",
+    "options": [
+      "Newton meter",
+      "Newton /area",
+      "Newton",
+      "has no unit"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 3,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p3.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_44_3",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 44,
+    "questionText": "Simple pendulum having length l & energy E amplitude A what will be the  energy if length of pendulum is reduced to half",
+    "options": [
+      "E/3",
+      "E/2",
+      "2E",
+      "3E"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 3,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p3.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_45_3",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 45,
+    "questionText": "Simply supported beam having udl as 4 kg and length 4 then reaction at  ends is",
+    "options": [
+      "8 kg",
+      "4 kg",
+      "16 kg",
+      "12 kg"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 3,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p3.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_46_3",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 46,
+    "questionText": "Simpson's rule actually gives exact results when approximating integrals of  polynomials up to -----   degree.",
+    "options": [
+      "first",
+      "second",
+      "third",
+      "none of these"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 3,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p3.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_47_4",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 47,
+    "questionText": "Slope =Rise / Run, then Rise is equal to",
+    "options": [
+      "difference of y  coordinates",
+      "difference of  x coordinates",
+      "sum of y  coordinates",
+      "sum of x  coordinates"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 4,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p4.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_48_4",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 48,
+    "questionText": "Strain deals with",
+    "options": [
+      "change in  shape or size",
+      "relative  change in  shape or size",
+      "change in  length of  object",
+      "all of these"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 4,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p4.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_49_4",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 49,
+    "questionText": "Strut in trusses is under-----",
+    "options": [
+      "tension",
+      "compression",
+      "no force",
+      "none of these"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 4,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p4.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_50_4",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 50,
+    "questionText": "Sum of all angles at a point in a plane is _______",
+    "options": [
+      "180",
+      "360",
+      "80",
+      "0"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 4,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p4.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_51_4",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 51,
+    "questionText": "Sum of two sides of a triangle is always  ------ than the third side.",
+    "options": [
+      "less",
+      "equal",
+      "greater",
+      "none of these"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 4,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p4.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_52_4",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 52,
+    "questionText": "The    (x-4)2   +   ( y-3)2   =   52      representing      circle      in      form     of ax^2 + by^2 + cx+ dy +e =0 then value of e is equal to",
+    "options": [
+      "5",
+      "3",
+      "2",
+      "zero"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 4,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p4.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_53_4",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 53,
+    "questionText": "The  perimeter  of square having side length 5 cm  is equal  to",
+    "options": [
+      "20 cm",
+      "35 cm",
+      "10 cm",
+      "25 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 4,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p4.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_54_4",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 54,
+    "questionText": "2 is used for  The  unit m/s",
+    "options": [
+      "distance",
+      "displacement",
+      "velocity",
+      "acceleration"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 4,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p4.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_55_4",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 55,
+    "questionText": "The velocity is measured in ……..",
+    "options": [
+      "m/sec",
+      "2 m/sec",
+      "3 m/sec",
+      "none of these"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 4,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p4.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_56_4",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 56,
+    "questionText": "The angle 900 is equal to ………….. radians",
+    "options": [
+      "π/3",
+      "π/4",
+      "π/2",
+      "3π/4"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 4,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p4.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_57_4",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 57,
+    "questionText": "The area of a triangle is calculated by using the formula ---",
+    "options": [
+      "base times  height  multiplied by 2",
+      "base times  height  multiplied by  1/2",
+      "base times  height  multiplied  by 1/3",
+      "base  multiplied by    height"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 4,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p4.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_58_4",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 58,
+    "questionText": "The centre of gravity is the ratio of ---------",
+    "options": [
+      "The product  of centroid  and weight to  the total  weight",
+      "The addition  of centroid  and weight  to the total  weight",
+      "The  subtraction  of centroid  and weight  to the total",
+      "The product  of centroid  and weight  to the total  mass"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 4,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p4.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_59_4",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 59,
+    "questionText": "The diagonals of a rhombus are 8 cm and 10 cm. Then the area of the  rhombus is ---",
+    "options": [
+      "64 sq. cm",
+      "100 sq. cm",
+      "weight 80 sq. cm",
+      "40 sq. cm"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 4,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p4.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_60_4",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 60,
+    "questionText": "The distance between origin & point P (3,4) is ………",
+    "options": [
+      "7",
+      "5",
+      "10",
+      "12"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 4,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p4.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_61_5",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 61,
+    "questionText": "The efficiency of a simple machine is---",
+    "options": [
+      "is always less  than 100%",
+      "is equal to  100%",
+      "is always  50%",
+      "is always  more than  100%."
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 5,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p5.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_62_5",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 62,
+    "questionText": "The equation  x2 + 6x + 11 is expressed in the form of (X+A)2 + B what  are the values of    A  &  B",
+    "options": [
+      "3, 2",
+      "3, -2",
+      "(3, 10)",
+      "(-3, -10)"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 5,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p5.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_63_5",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 63,
+    "questionText": "0 The force 30N makes angle 60  with X axis then resolution in X axis is",
+    "options": [
+      "30/√2",
+      "30√2",
+      "15/2",
+      "30/2"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 5,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p5.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_64_5",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 64,
+    "questionText": "The force involved in falling apple from a tree is ---",
+    "options": [
+      "contact force",
+      "gravitational  force",
+      "electrostatic  force",
+      "magnetic  force"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 5,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p5.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_65_5",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 65,
+    "questionText": "The initial velocity of a body is u. It is under uniform deceleration a. Its  velocity v at any time t is given by",
+    "options": [
+      "v = u + at^2",
+      "v = u - ½  at^2",
+      "v = u - at",
+      "v = u."
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 5,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p5.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_66_5",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 66,
+    "questionText": "The length and breadth of a rectangle are (4x + 6) m  &  (3x-4) m  respectively. The perimeter of the rectangle is 116 m, Find its area",
+    "options": [
+      "2 760 m",
+      "2 680 m",
+      "2 670 m",
+      "2 706m"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 5,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p5.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_67_5",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 67,
+    "questionText": "The line  y = mx + c   is parallel to y axis then value of m is …..",
+    "options": [
+      "90",
+      "0",
+      "1",
+      "infinity"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 5,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p5.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_68_5",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 68,
+    "questionText": "The log 10 30 is equal to  1.47712  , what is value of   log300  with base 10  is",
+    "options": [
+      "0.47712",
+      "2..47712",
+      "3.47712",
+      "none of these"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 5,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p5.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_69_5",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 69,
+    "questionText": "The long form of BMD is----",
+    "options": [
+      "Base Moment  Diagram",
+      "Base Money  Diagram",
+      "Bending  Moment  Diagram",
+      "Base  Moment  Distance"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 5,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p5.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_70_5",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 70,
+    "questionText": "The pivot point in lever is called as ----",
+    "options": [
+      "chain",
+      "pulley",
+      "fulcrum",
+      "paddle"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 5,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p5.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_71_5",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 71,
+    "questionText": "The ratio of the force produced by a machine to the force applied to it and  used in the assessing the performance of a machine is called as",
+    "options": [
+      "chemical  advantage",
+      "mechanical  advantage",
+      "physical  advantage",
+      "none of these"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 5,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p5.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_72_5",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 72,
+    "questionText": "The ratio of the volumes of two cubes is 729 : 1331. What is the ratio of  their total surface areas?",
+    "options": [
+      "81 : 121",
+      "09:11",
+      "729 : 1331",
+      "27 : 121"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 5,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p5.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_73_5",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 73,
+    "questionText": "The rectangle having first point as origin & second diagonal  point as ( 3 ,  4 ), then area of rectangle is  -----  unit",
+    "options": [
+      "12 sq",
+      "7 sq",
+      "9  sq",
+      "16  sq"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 5,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p5.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_74_5",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 74,
+    "questionText": "The shape suspended cable  is ………",
+    "options": [
+      "cubical",
+      "parabolic",
+      "hyperbolic",
+      "none of these"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 5,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p5.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_75_5",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 75,
+    "questionText": "The sides of a triangle are 5 cm, 12 cm and 13 cm. then its area is  ----   sq. meter",
+    "options": [
+      "65",
+      "60",
+      "0.003",
+      "0.3"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 5,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p5.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_76_5",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 76,
+    "questionText": "The simple machine that is used to lift heavy objects when they require less force is  called is ……….",
+    "options": [
+      "lever",
+      "pulley",
+      "gear",
+      "none of these"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 5,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p5.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_77_6",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 77,
+    "questionText": "The slope of speed-time graph gives",
+    "options": [
+      "speed",
+      "velocity",
+      "acceleration",
+      "momentum"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 6,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p6.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_78_6",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 78,
+    "questionText": "p",
+    "options": [
+      "1/2",
+      "3/2",
+      "1/4",
+      "3/4"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 6,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p6.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_79_6",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 79,
+    "questionText": "The value of equation (1/2)2x + 1 = 1 for x= -1 is equal to",
+    "options": [
+      "1/2",
+      "- 1/2",
+      "2",
+      "-2"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 6,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p6.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_80_6",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 80,
+    "questionText": "The value of Log₂ 64 is equal to 2 then Log 64 to the base 8 is equal to",
+    "options": [
+      "3",
+      "1",
+      "5",
+      "2"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 6,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p6.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_81_6",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 81,
+    "questionText": "The value of sin75 equal to",
+    "options": [
+      "sin(15)",
+      "cos(15)",
+      "tan(15)",
+      "cot(15)"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 6,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p6.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_82_6",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 82,
+    "questionText": "The value of    'π' (pi)   is given as ……",
+    "options": [
+      "7/22",
+      "22/7",
+      "18/7",
+      "15/7"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 6,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p6.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_83_6",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 83,
+    "questionText": "Three times the square of a natural number is 363, find the number",
+    "options": [
+      "-11",
+      "-12",
+      "+11",
+      "+13"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 6,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p6.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_84_6",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 84,
+    "questionText": "To form a triangle , -----   segments are required",
+    "options": [
+      "one",
+      "two",
+      "three",
+      "zero"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 6,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p6.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_85_6",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 85,
+    "questionText": "Trapezium is ………… type of polygon",
+    "options": [
+      "triangle",
+      "hexagon",
+      "pentagon",
+      "quadrilateral"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 6,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p6.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_86_6",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 86,
+    "questionText": "Two lines  y = 5x - 5 and   y = 2x - 2 meets at point",
+    "options": [
+      "( 1,0 )",
+      "(5,2)",
+      "(-3.5)",
+      "(0,1)"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 6,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p6.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_87_6",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 87,
+    "questionText": "Two lines are perpendicular to each other then angle made is",
+    "options": [
+      "180",
+      "270",
+      "90",
+      "360"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 6,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p6.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_88_6",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 88,
+    "questionText": "Two lines make same angle with x alis having different intercepts, then  these lines are _________",
+    "options": [
+      "concurrent",
+      "parallel",
+      "coincident",
+      "none of these"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 6,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p6.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_89_6",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 89,
+    "questionText": "Two right circular cones of equal curved surface areas have slant heights  in the ratio of 3 : 5. Find the ratio of their radii.",
+    "options": [
+      "4 : 1",
+      "3 : 5:",
+      "5 : 3",
+      "04:05"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 6,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p6.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_90_6",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 90,
+    "questionText": "Value of cos (35+55) is------",
+    "options": [
+      "0",
+      "-1",
+      "1/√2",
+      "1"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 6,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p6.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_91_6",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 91,
+    "questionText": "Value of Cos²β - Sin²β    is equal to ---",
+    "options": [
+      "Cos2β",
+      "Cosβ/2",
+      "Sin2β",
+      "Sinβ/2"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 6,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p6.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_92_6",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 92,
+    "questionText": "What is necessary to get something moving?",
+    "options": [
+      "resistance",
+      "force",
+      "wedge",
+      "screw"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 6,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p6.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_93_6",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 93,
+    "questionText": "What is the volume of a hemisphere of radius r?",
+    "options": [
+      "4 π r^3",
+      "π r^3",
+      "2 π r^3",
+      "2/3 π r^3"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 6,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p6.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_94_6",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 94,
+    "questionText": "When a force acting on a body displaces it in direction of a force then",
+    "options": [
+      "uniform  velocity occurs",
+      "uniform  speed occurs",
+      "work is done",
+      "equilibrium  take place"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 6,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p6.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_95_6",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 95,
+    "questionText": "Which  laminas do not have centroid at its geometrical centre?",
+    "options": [
+      "Circle",
+      "Equilateral  triangle",
+      "Right  angled  triangle",
+      "None of  these"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 6,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p6.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_96_6",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 96,
+    "questionText": "Which is more stable in cube, cylinder & parallelepiped",
+    "options": [
+      "parallelepiped",
+      "cube",
+      "cylinder",
+      "none of these"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 6,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p6.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_97_6",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 97,
+    "questionText": "Which is not a scalar quantity ?",
+    "options": [
+      "mass",
+      "volume",
+      "work",
+      "time"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 6,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p6.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_98_6",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 98,
+    "questionText": "Which of given formula  is correct ?",
+    "options": [
+      "tanA =  sinA/cosecA",
+      "cosec2A +  cos2A = 1",
+      "cos2A +  sin2A = 1",
+      "none of these"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 6,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p6.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_99_6",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 99,
+    "questionText": "Williot -Mohr-diagram is used to determine deflection in",
+    "options": [
+      "beam only",
+      "trusses only",
+      "any type  structure",
+      "rigid frames"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 6,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p6.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_100_7",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 100,
+    "questionText": "Write the fraction 7/25 as in percentage",
+    "options": [
+      "25 %",
+      "28 %",
+      "30 %",
+      "10 %"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 7,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p7.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_101_7",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 101,
+    "questionText": "Minimum Print required to form a line",
+    "options": [
+      "Two",
+      "Three",
+      "One",
+      "none of these"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 7,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p7.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_102_7",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 102,
+    "questionText": "The value of Log₂ 32 is equal to",
+    "options": [
+      "6",
+      "7",
+      "5",
+      "2"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 7,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p7.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_103_7",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 103,
+    "questionText": "The cantiliver with point load @ free end the maximum B.M will be @",
+    "options": [
+      "Free end",
+      "Centre",
+      "the fixed  end",
+      "none of these"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 7,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p7.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_104_7",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 104,
+    "questionText": "In mechanics the full form of MA is",
+    "options": [
+      "Mefal  Advantage",
+      "Mechanical  Addition",
+      "Mechanical  Advantages",
+      "Maha Adhar"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 7,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p7.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_105_7",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 105,
+    "questionText": "SI unit of volume is",
+    "options": [
+      "m",
+      "m³",
+      "m²",
+      "⅟m"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 7,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p7.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_106_7",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 106,
+    "questionText": "SI Unit of Force is",
+    "options": [
+      "Newton",
+      "Hourse  Power",
+      "m²",
+      "none of these"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 7,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p7.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_107_7",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 107,
+    "questionText": "Value of Cos²β + Sin²β is",
+    "options": [
+      "one",
+      "one half",
+      "two",
+      "two third"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 7,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p7.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_108_7",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 108,
+    "questionText": "Sin0 is",
+    "options": [
+      "zero",
+      "one",
+      "one half",
+      "two"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 7,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p7.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_109_7",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 109,
+    "questionText": "The intersection of two line is a…..",
+    "options": [
+      "plane",
+      "point",
+      "prism",
+      "triangle"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 7,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p7.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_110_7",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 110,
+    "questionText": "y=mx+c, m denotes slope with",
+    "options": [
+      "x axis",
+      "y axis",
+      "plane",
+      "none of these"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 7,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p7.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_111_7",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 111,
+    "questionText": "y=mx+c, if C = 0 the line passes throush",
+    "options": [
+      "origin",
+      "plane",
+      "y axis",
+      "none of these"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 7,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p7.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_112_7",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 112,
+    "questionText": "Perimeter of circle is given by",
+    "options": [
+      "2πr²",
+      "πr²",
+      "2πr",
+      "πr³"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 7,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p7.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_113_7",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 113,
+    "questionText": "Surface area of ball is",
+    "options": [
+      "πr²",
+      "4πr²",
+      "⁴⁄₃πr³",
+      "2πr²"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 7,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p7.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_114_7",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 114,
+    "questionText": "Heron's formula is used for finding ______ of a triangle",
+    "options": [
+      "volume",
+      "area",
+      "perimeter",
+      "none of these"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 7,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p7.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_115_7",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 115,
+    "questionText": "The long form of BMD is",
+    "options": [
+      "Bending  mechanical  diagram",
+      "Beam  moment  diagram",
+      "Bending  moment  diagram",
+      "none of these"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 7,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p7.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_116_7",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 116,
+    "questionText": "For simply supported beem with udl the max BM @ center is",
+    "options": [
+      "wl²⁄₈",
+      "wl²⁄₄",
+      "wl²⁄₂",
+      "wl²⁄₃₂"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 7,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p7.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_117_7",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 117,
+    "questionText": "Sum of all angles at a point in a plane is _______",
+    "options": [
+      "₁₈₀°",
+      "₃₆₀°",
+      "₀ 27 °",
+      "9 ₀°"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 7,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p7.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_118_7",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 118,
+    "questionText": "A line divides plane in ______ half planes",
+    "options": [
+      "two",
+      "three",
+      "four",
+      "none of these"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 7,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p7.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_119_7",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 119,
+    "questionText": "The values of Log 1 is ________ a",
+    "options": [
+      "zero",
+      "one",
+      "two",
+      "three"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 7,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p7.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_120_8",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 120,
+    "questionText": "Formula of circle in a plane with origin as center & radious r is given by",
+    "options": [
+      "x2+Y2= r2",
+      "x3+Y3= r3",
+      "x+y=r",
+      "x/₂+y/₂=r"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 8,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p8.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_121_8",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 121,
+    "questionText": "A man standing 30m away from tree & he saw the top of tree then angle  made is __________ type.",
+    "options": [
+      "elevation",
+      "depression",
+      "repose",
+      "friction"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 8,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p8.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_122_8",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 122,
+    "questionText": "Two lines make same angle with x alis having different intercepts, then  these lines are _________",
+    "options": [
+      "cocurent",
+      "parallel",
+      "coincident",
+      "none of these"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 8,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p8.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_123_8",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 123,
+    "questionText": "Volume of sphere is given by V= 4 /3πr3, the value of π is",
+    "options": [
+      "22/7",
+      "7/12",
+      "15/7",
+      "7/15"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 8,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p8.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_124_8",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 124,
+    "questionText": "y=x gives line equation then slope is equal to----",
+    "options": [
+      "two",
+      "one",
+      "two third",
+      "one half"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 8,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p8.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_125_8",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 125,
+    "questionText": "The long form of SFD is----",
+    "options": [
+      "shear frame  Diagram",
+      "shear force  Diagram",
+      "safe force  Diagram",
+      "soft from  draft"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 8,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p8.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_126_8",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 126,
+    "questionText": "",
+    "options": [
+      "AB/BC",
+      "BC/AC",
+      "BC/AB",
+      "AC/AB"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 8,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p8.png",
+    "diagramPath": "/pdf_pages/Maths_&_APM_126_p8.png",
+    "validationStatus": "verified",
+    "hasDiagram": true
+  },
+  {
+    "id": "Maths&APM_127_8",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 127,
+    "questionText": "If tanX = 3/4 then sin X = ?",
+    "options": [
+      "4/3",
+      "3/5",
+      "5/3",
+      "4/5"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 8,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p8.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_128_8",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 128,
+    "questionText": "Unit of area is -----",
+    "options": [
+      "m2",
+      "N",
+      "N/m2",
+      "m/s2"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 8,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p8.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_129_8",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 129,
+    "questionText": "Unit of acceleration is----",
+    "options": [
+      "N",
+      "m/s2",
+      "N/m2",
+      "m2"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 8,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p8.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_130_8",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 130,
+    "questionText": "Modulus of elasticity is given by",
+    "options": [
+      "N/m2",
+      "m/N",
+      "N/m3",
+      "None"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 8,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p8.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_131_8",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 131,
+    "questionText": "Energy possessed by body by virtue of its position is called",
+    "options": [
+      "Potential  energy",
+      "Chemical  energy",
+      "Mechanical  energy",
+      "electrical  energy"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 8,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p8.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_132_8",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 132,
+    "questionText": "0 The force 30N makes angle 45  with X axis then resolution in X axis is",
+    "options": [
+      "30/√2",
+      "30√2",
+      "15/2",
+      "30/2"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 8,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p8.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_133_8",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 133,
+    "questionText": "Let point P is given as P(4,4),then angle OP is ---",
+    "options": [
+      "o 60",
+      "o 30",
+      "o 45",
+      "o 90"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 8,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p8.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_134_8",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 134,
+    "questionText": "sin 2 A = ?",
+    "options": [
+      "2sinA",
+      "2 sin 2 A",
+      "2cos 2 A",
+      "1/2cos 2 A"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 8,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p8.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_135_8",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 135,
+    "questionText": "x Let f (x) = 16 , what is f (1/4)",
+    "options": [
+      "2",
+      "4",
+      "1",
+      "8"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 8,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p8.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_136_8",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 136,
+    "questionText": "I + tan2 A = ?",
+    "options": [
+      "none of these",
+      "cot 2 A",
+      "sec 2 A",
+      "san 2 A"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 8,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p8.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_137_8",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 137,
+    "questionText": "Strut in trussen is under-----",
+    "options": [
+      "tension",
+      "compression",
+      "No force",
+      "none"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 8,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p8.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_138_8",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 138,
+    "questionText": "The long form of MI is--------------",
+    "options": [
+      "Moment of Idea",
+      "Moment of  inertia",
+      "Minimum  Index",
+      "Maximum  Inertia"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 8,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p8.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_139_9",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 139,
+    "questionText": "Line having slope 2 & intercept 5 on Y axis,then line equation is given by-",
+    "options": [
+      "y=5x+2",
+      "y=2x+5",
+      "y=2/5x+1",
+      "y=5/2x"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_140_9",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 140,
+    "questionText": "A metal rod having diameter d & length l them volume of rod is giving by--",
+    "options": [
+      "2 l πd",
+      "π/2d 2 l",
+      "πd 2 /4l",
+      "πdl"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_141_9",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 141,
+    "questionText": "simply suported beam having central load w then reaction at ends is",
+    "options": [
+      "w/2",
+      "2w",
+      "w/4",
+      "3w/4"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_142_9",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 142,
+    "questionText": "4 x 2 =4 , what is the value of X",
+    "options": [
+      "2",
+      "1",
+      "4",
+      "16"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_143_9",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 143,
+    "questionText": "Every segment has----mid point",
+    "options": [
+      "two",
+      "one",
+      "three",
+      "None"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_144_9",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 144,
+    "questionText": "Sum of two sides of a triangle Is ------ than the third side.",
+    "options": [
+      "less",
+      "more",
+      "far",
+      "None"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_145_9",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 145,
+    "questionText": "If the sides of triangle are 3,4,5 what will be the area of triangle",
+    "options": [
+      "20",
+      "6",
+      "15",
+      "10"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_146_9",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 146,
+    "questionText": "Value of sin (30+60) is------",
+    "options": [
+      "1/√3",
+      "√3/2",
+      "1/√2",
+      "1"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_147_9",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 147,
+    "questionText": "In triangle,the correct statement is…..",
+    "options": [
+      "it has two  abtuse angles",
+      "it has two  acute angles",
+      "All angles  more  more  than 60",
+      "All angles  are less than  0 60 0"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_148_9",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 148,
+    "questionText": "Hook,s law hold good upto for",
+    "options": [
+      "elasticity",
+      "kinetic energy",
+      "electricity",
+      "none"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_149_9",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 149,
+    "questionText": "A pilot see down to earth,the angle made is ….. type",
+    "options": [
+      "elevation",
+      "depression",
+      "acute",
+      "abtuse"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_150_9",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 150,
+    "questionText": "Paralelogram with length l & distance between its two line is h then area  is given by",
+    "options": [
+      "lh/2",
+      "lh/3",
+      "lh",
+      "lh/4"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_151_9",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 151,
+    "questionText": "log y m  = a",
+    "options": [
+      "mlog y a",
+      "alog y m",
+      "mlog a y",
+      "ylog m a"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_152_9",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 152,
+    "questionText": "log a (x/y) =",
+    "options": [
+      "log a x-log a",
+      "y log a y-log a",
+      "x ylog a x",
+      "xlog a y"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_153_9",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 153,
+    "questionText": "Volume of cone with base rudius r & heigth h is given by ……………",
+    "options": [
+      "1/4πr 2 h",
+      "1/3πr 2 h",
+      "'4/3πr 3 h",
+      "4/3πr 2 h"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_154_9",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 154,
+    "questionText": "The circle having area A then its perimeter is equal ……………",
+    "options": [
+      "2√(Aπ)",
+      "√(2Aπ)",
+      "√(Aπ)",
+      "√(Aπ/2)"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_155_9",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 155,
+    "questionText": "A sphere having volume V & radius r then its surface area is given by  ………..",
+    "options": [
+      "4πr2",
+      "3 4/3πr",
+      "3 3πr",
+      "3 3/4πr"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_156_9",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 156,
+    "questionText": "The value of sin230 is ………….",
+    "options": [
+      "1/2",
+      "3/2",
+      "1/4",
+      "3/4"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_157_9",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 157,
+    "questionText": "Two line are perpendicular to each other then angle made is …………",
+    "options": [
+      "180o",
+      "90o",
+      "270o",
+      "360o"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_158_9",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 158,
+    "questionText": "A line is given by Y = mx + c then slope of perpendicular line is …………",
+    "options": [
+      "2 m",
+      "m/2",
+      "-1/m",
+      "2/m"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_159_10",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 159,
+    "questionText": "Full form of udl is ………….",
+    "options": [
+      "uniformly  distorted  length",
+      "uniformly  distributed  load",
+      "under  distance  length",
+      "uniformly  distributed  length"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_160_10",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 160,
+    "questionText": "If sin2A + cos2A = 1, what is value of sec2A - tan2A",
+    "options": [
+      "1",
+      "2",
+      "1/2",
+      "1/4"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_161_10",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 161,
+    "questionText": "A line make angle Ø with X axis then its slope is ………….",
+    "options": [
+      "sinØ",
+      "tanØ",
+      "cosØ",
+      "cotØ"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_162_10",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 162,
+    "questionText": "SecA = ?",
+    "options": [
+      "1/sinA",
+      "1/cosA",
+      "1/tanA",
+      "1/cota"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_163_10",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 163,
+    "questionText": "A rope is pulled by a man then rope is under ……….",
+    "options": [
+      "compresssion",
+      "tension",
+      "tortion",
+      "none"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_164_10",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 164,
+    "questionText": "A kite has diagonals d1 & d2 then area is equal to ………..",
+    "options": [
+      "d1d2 / 6",
+      "d1d2/3",
+      "d1d2/2",
+      "d1d2"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_165_10",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 165,
+    "questionText": "A cube has sides of length l then its volume is ………",
+    "options": [
+      "l2/2",
+      "l3",
+      "l3/3",
+      "l3/4"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_166_10",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 166,
+    "questionText": "One radian equal to ………….",
+    "options": [
+      "180/π",
+      "π/180",
+      "π/360",
+      "360/π"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_167_10",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 167,
+    "questionText": "The angle 450 is equal to ………….. dadians",
+    "options": [
+      "π/3",
+      "π/4",
+      "π/2",
+      "3π/4"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_168_10",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 168,
+    "questionText": "A line is given of equation 3 x + 5y=15 then slope of line is",
+    "options": [
+      "3/5",
+      "-3/5",
+      "5/3",
+      "-5/3"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_169_10",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 169,
+    "questionText": "A line given by equation 2 x + 3y= 10, then line intercepts to X axis at a  point",
+    "options": [
+      "(5,0)",
+      "(2,0)",
+      "(3,2)",
+      "(2.3)"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_170_10",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 170,
+    "questionText": "A bar is put under tension & deformed length is l & original length L then  strain is given by",
+    "options": [
+      "L/I",
+      "I/L",
+      "2L/I",
+      "2I/L"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_171_10",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 171,
+    "questionText": "For finding value of sin15 which option is correct",
+    "options": [
+      "sin(45-30)",
+      "cos(60-45)",
+      "tan(45-30)",
+      "cot(45-30)"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_172_10",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 172,
+    "questionText": "Which is more stable in cube, cylinder & parallelopiped",
+    "options": [
+      "parallelopipe",
+      "cube",
+      "cylinder",
+      "none"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_173_10",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 173,
+    "questionText": "The parallelopipe has sides 1 mx 2 x 3 m then it will more stable in",
+    "options": [
+      "1m x 3 m",
+      "1 m x 2 m",
+      "2 m x 3 m",
+      "none"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_174_10",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 174,
+    "questionText": "Simple pendulum having length l & energy E amplitube A what will be the  energy if length of pendulum is doubled.",
+    "options": [
+      "E/3",
+      "E/2",
+      "2E",
+      "3E"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_175_10",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 175,
+    "questionText": "Dimensions of volume given by",
+    "options": [
+      "MLT",
+      "M0L3T0",
+      "ML2T",
+      "MLT2"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_176_10",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 176,
+    "questionText": "One jule is equivaleat to ……………",
+    "options": [
+      "1 Newton- meter",
+      "9.81  Newton- meter",
+      "1 dyne- meter",
+      "1 kg wt- meter"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_177_10",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 177,
+    "questionText": "Rate of change of angular momentum is equal to",
+    "options": [
+      "force",
+      "torque",
+      "impulse",
+      "linear- momentur"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_178_10",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 178,
+    "questionText": "The angles between two forces to make resultant max & minimum  respective are",
+    "options": [
+      "0o&90o",
+      "180o&90o",
+      "0o&180o",
+      "90o&270o"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_179_10",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 179,
+    "questionText": "If the resultant of two forces has same maqnitude as either forces, the  angle between the forces is",
+    "options": [
+      "30o",
+      "120o",
+      "60o",
+      "45o"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_180_10",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 180,
+    "questionText": "The distance travelled by particle is given by x = 3t2-2t what is magnitude  of accerelation @ point of time t = 2 sec",
+    "options": [
+      "10",
+      "12",
+      "5",
+      "3"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_181_11",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 181,
+    "questionText": "The shape suspended cable @ two ends is ………",
+    "options": [
+      "cubical",
+      "elliptical",
+      "hyperbolic",
+      "none"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_182_11",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 182,
+    "questionText": "FBD long form is",
+    "options": [
+      "free body  diagram",
+      "force-body  diagram",
+      "flip body  diagram",
+      "none"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_183_11",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 183,
+    "questionText": "Williot -mohr-diagram is used to defermine deflection in",
+    "options": [
+      "beam only",
+      "trusses only",
+      "any type  structure",
+      "rigid frames"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_184_11",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 184,
+    "questionText": "Joule is unit of",
+    "options": [
+      "power",
+      "impulse",
+      "momentum",
+      "work"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_185_11",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 185,
+    "questionText": "Coefficient of friction depend on",
+    "options": [
+      "area of  contact",
+      "nature of  surface",
+      "strength of  surface",
+      "all of these"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_186_11",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 186,
+    "questionText": "Which is not a scalar quantity",
+    "options": [
+      "mass",
+      "volume",
+      "acceleration",
+      "time"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_187_11",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 187,
+    "questionText": "(3xy2)3",
+    "options": [
+      "27x3y6",
+      "9x2y4",
+      "27xy3",
+      "9x3y2"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_188_11",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 188,
+    "questionText": "A polygon which has 6 sides is called as",
+    "options": [
+      "quadrilateral",
+      "hexagon",
+      "triangle",
+      "pentagon"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_189_11",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 189,
+    "questionText": "Trapesium is ………… type of poliygon",
+    "options": [
+      "triangle",
+      "hexagon",
+      "pentagon",
+      "quadrilateral"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_190_11",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 190,
+    "questionText": "One half of the whole circle is called",
+    "options": [
+      "tragent",
+      "sector",
+      "semicircle",
+      "quadrant"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_191_11",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 191,
+    "questionText": "The point having x & y values as minus values then it lies in ……….  quadrant",
+    "options": [
+      "first",
+      "second",
+      "fourth",
+      "third"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_192_11",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 192,
+    "questionText": "Area = 1/3 (width of interval) x [(1st + last + 4 sum of even ordinates + 2  sum of odd ordinates)] is called as",
+    "options": [
+      "trapezoidal  rule",
+      "mid-ordinate  rule",
+      "simpson's  rule",
+      "none"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_193_11",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 193,
+    "questionText": "Instrument used to measure area of irregular shape is ……….",
+    "options": [
+      "clinometer",
+      "level",
+      "planimeter",
+      "theodolite"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_194_11",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 194,
+    "questionText": "In cartesian form point P is denoted by p(X, Y) then its polar form is (r,Q)  where  Ø is equal to ……….",
+    "options": [
+      "sin-1y/x",
+      "tan-1 y/x",
+      "cot-1 y/x",
+      "cosec-1y/x"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_195_11",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 195,
+    "questionText": "Area of triagle having sides x, y z is given by √(s(s-x) (s-y) (s-z)) where  value of S is…………..",
+    "options": [
+      "x+y+z",
+      "x+y",
+      "x+z",
+      "(x+y+z)/2"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_196_11",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 196,
+    "questionText": "Area c/s of river is calculated by having irregular bank it has different  areas @ different height the formula used is …………..",
+    "options": [
+      "Simpson's rule",
+      "trapector",
+      "mid-ordinate",
+      "none"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_197_11",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 197,
+    "questionText": "Two lines y=3x-5,y=2x-3 meets at point",
+    "options": [
+      "( 2,1 )",
+      "(1,2)",
+      "(3.2)",
+      "(2,3)"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_198_11",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 198,
+    "questionText": "The x2 + y2 = r2 represents",
+    "options": [
+      "ellipse",
+      "prisom",
+      "circle",
+      "triangle"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_199_11",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 199,
+    "questionText": "A line intersects circle in …….. points",
+    "options": [
+      "one",
+      "two",
+      "three",
+      "none"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Maths&APM_200_11",
+    "subject": "Mathematics & Applied Mechanics",
+    "originalQuestionNumber": 200,
+    "questionText": "A boat man saw the top of tree with height h with angle of elevation equal  0 to 30  how far he will be away form a tree in terms of height of a tree",
+    "options": [
+      "√3h",
+      "√3/4 h",
+      "4 /√3 h",
+      "2/3 h"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Maths & APM.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Maths_&_APM_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  }
+]

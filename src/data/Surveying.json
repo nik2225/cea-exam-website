@@ -1,0 +1,3802 @@
+[
+  {
+    "id": "Surveying_1_1",
+    "subject": "Surveying",
+    "originalQuestionNumber": 1,
+    "questionText": "In Triangulation, the best shape of triangle is ….. Triangle with base angle equal to …...",
+    "options": [
+      "Obtus Triangle, 120  degree",
+      "Isosceles, 50 degree  14 minute",
+      "Isosceles, 56 degree  14 minute",
+      "Equilateral, 56  degree 14 minute"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 1,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p1.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_2_1",
+    "subject": "Surveying",
+    "originalQuestionNumber": 2,
+    "questionText": "If the scale is taken as 1 cm = 50 m, then what is the reduction factor?",
+    "options": [
+      "0.0002",
+      "0.2",
+      "0.02",
+      "0.22"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 1,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p1.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_3_1",
+    "subject": "Surveying",
+    "originalQuestionNumber": 3,
+    "questionText": "The surveying in which shape of earth is taken into account is called as ….",
+    "options": [
+      "Plane Table Surveying",
+      "Geodetic Surveying",
+      "Topographical  Surveying",
+      "Plane Surveying"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 1,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p1.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_4_1",
+    "subject": "Surveying",
+    "originalQuestionNumber": 4,
+    "questionText": "The length and number of links in a Surveyor's chain is equal to :",
+    "options": [
+      "50 ft, 50 links",
+      "100 ft, 100 links",
+      "33 ft, 16 links",
+      "66 ft, 100 links"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 1,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p1.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_5_1",
+    "subject": "Surveying",
+    "originalQuestionNumber": 5,
+    "questionText": "Least count of Metric Chain is…",
+    "options": [
+      "20 cm",
+      "30 cm",
+      "15 cm",
+      "All of These"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 1,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p1.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_6_1",
+    "subject": "Surveying",
+    "originalQuestionNumber": 6,
+    "questionText": "What is the length of Engineer's chain?",
+    "options": [
+      "66 feet",
+      "100 feet",
+      "50 feet",
+      "150 feet"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 1,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p1.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_7_1",
+    "subject": "Surveying",
+    "originalQuestionNumber": 7,
+    "questionText": "Choose the correct length of Metric chain from the following.",
+    "options": [
+      "10 m",
+      "100 m",
+      "20 m",
+      "16.66 m"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 1,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p1.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_8_1",
+    "subject": "Surveying",
+    "originalQuestionNumber": 8,
+    "questionText": "Choose the correct length of Metric chain from the following.",
+    "options": [
+      "10 m",
+      "100 m",
+      "16.66 m",
+      "30 m"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 1,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p1.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_9_1",
+    "subject": "Surveying",
+    "originalQuestionNumber": 9,
+    "questionText": "What is the count for links in 20 m Metric Chain?",
+    "options": [
+      "50",
+      "100",
+      "33",
+      "66"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 1,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p1.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_10_1",
+    "subject": "Surveying",
+    "originalQuestionNumber": 10,
+    "questionText": "What is the count for links in 30 m Metric Chain?",
+    "options": [
+      "50",
+      "100",
+      "150",
+      "66"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 1,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p1.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_11_1",
+    "subject": "Surveying",
+    "originalQuestionNumber": 11,
+    "questionText": "What is the length of Guntur's chain?",
+    "options": [
+      "66 ft",
+      "100 feet",
+      "50 feet",
+      "150 feet"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 1,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p1.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_12_1",
+    "subject": "Surveying",
+    "originalQuestionNumber": 12,
+    "questionText": "What is the count for links of Guntur's chain?",
+    "options": [
+      "50",
+      "100",
+      "33",
+      "66"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 1,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p1.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_13_1",
+    "subject": "Surveying",
+    "originalQuestionNumber": 13,
+    "questionText": "What is the chainage of Point B, if a chainage of point A is 2093.335 m and the horizontal distance  between A and B is 237 m.",
+    "options": [
+      "2320.335",
+      "320.355",
+      "237",
+      "2330.335"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 1,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p1.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_14_1",
+    "subject": "Surveying",
+    "originalQuestionNumber": 14,
+    "questionText": "What is the chainage of Point B, if a chainage of point A is 2500 m and the horizontal distance between A  and B is 349.565 m.",
+    "options": [
+      "2849.565",
+      "349.565",
+      "2151.435",
+      "2800.355"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 1,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p1.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_15_1",
+    "subject": "Surveying",
+    "originalQuestionNumber": 15,
+    "questionText": "You measure 20.355 m distance with metric chain.",
+    "options": [
+      "FALSE",
+      "TRUE",
+      "-",
+      "--"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 1,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p1.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_16_1",
+    "subject": "Surveying",
+    "originalQuestionNumber": 16,
+    "questionText": "You measure 15.40 m distance with metric chain.",
+    "options": [
+      "FALSE",
+      "TRUE",
+      "-",
+      "--"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 1,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p1.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_17_1",
+    "subject": "Surveying",
+    "originalQuestionNumber": 17,
+    "questionText": "You measure 25.50 m distance with metric chain.",
+    "options": [
+      "FALSE",
+      "TRUE",
+      "-",
+      "--"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 1,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p1.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_18_1",
+    "subject": "Surveying",
+    "originalQuestionNumber": 18,
+    "questionText": "",
+    "options": [
+      "Falling Method",
+      "Rise and Fall Method",
+      "Stepping Method",
+      "None of These"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 1,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p1.png",
+    "diagramPath": "/pdf_pages/Surveying_18_p1.png",
+    "validationStatus": "verified",
+    "hasDiagram": true
+  },
+  {
+    "id": "Surveying_19_1",
+    "subject": "Surveying",
+    "originalQuestionNumber": 19,
+    "questionText": "This method of chain surveying is called as… In Metric Chain, 1 m distance is demoted by…",
+    "options": [
+      "Single Pointed Tally  mark",
+      "Brass Ring",
+      "Two Pointed Tally  mark",
+      "All of These"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 1,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p1.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_20_1",
+    "subject": "Surveying",
+    "originalQuestionNumber": 20,
+    "questionText": "In Metric Chain, 5 m distance is demoted by…",
+    "options": [
+      "Single Pointed Tally  mark",
+      "Brass Ring",
+      "Two Pointed Tally  mark",
+      "All of These"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 1,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p1.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_21_1",
+    "subject": "Surveying",
+    "originalQuestionNumber": 21,
+    "questionText": "In Metric Chain, 10 m distance is demoted by…",
+    "options": [
+      "Single Pointed Tally  mark",
+      "Brass Ring",
+      "Two Pointed Tally  mark",
+      "All of These"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 1,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p1.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_22_2",
+    "subject": "Surveying",
+    "originalQuestionNumber": 22,
+    "questionText": "How many tally marks are there in 20 m chain",
+    "options": [
+      "1",
+      "2",
+      "4",
+      "3"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 2,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p2.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_23_2",
+    "subject": "Surveying",
+    "originalQuestionNumber": 23,
+    "questionText": "How many Two pointed tally marks are there in 20 m chain",
+    "options": [
+      "1",
+      "2",
+      "4",
+      "3"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 2,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p2.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_24_2",
+    "subject": "Surveying",
+    "originalQuestionNumber": 24,
+    "questionText": "Identify the survey instrument",
+    "options": [
+      "Ranging Rod",
+      "Peg",
+      "Chain",
+      "None of These"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 2,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p2.png",
+    "diagramPath": "/pdf_pages/Surveying_24_p2.png",
+    "validationStatus": "needs_review",
+    "hasDiagram": true
+  },
+  {
+    "id": "Surveying_25_2",
+    "subject": "Surveying",
+    "originalQuestionNumber": 25,
+    "questionText": "",
+    "options": [
+      "Indirtect Ranging",
+      "Direct Ranging",
+      "Hill Ranging",
+      "Inclined Ranging"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 2,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p2.png",
+    "diagramPath": "/pdf_pages/Surveying_25_p2.png",
+    "validationStatus": "needs_review",
+    "hasDiagram": true
+  },
+  {
+    "id": "Surveying_26_2",
+    "subject": "Surveying",
+    "originalQuestionNumber": 26,
+    "questionText": "Identify the Ranginf Process…. Find the RL of Point A",
+    "options": [
+      "99.255",
+      "100.255",
+      "98.255",
+      "101.255"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 2,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p2.png",
+    "diagramPath": "/pdf_pages/Surveying_26_p2.png",
+    "validationStatus": "needs_review",
+    "hasDiagram": true
+  },
+  {
+    "id": "Surveying_27_3",
+    "subject": "Surveying",
+    "originalQuestionNumber": 27,
+    "questionText": "Find the RL of Point B",
+    "options": [
+      "99.09",
+      "99.99",
+      "100.99",
+      "99.000"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 3,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p3.png",
+    "diagramPath": "/pdf_pages/Surveying_27_p3.png",
+    "validationStatus": "needs_review",
+    "hasDiagram": true
+  },
+  {
+    "id": "Surveying_28_3",
+    "subject": "Surveying",
+    "originalQuestionNumber": 28,
+    "questionText": "Find the RL of Point C",
+    "options": [
+      "101.34",
+      "101.33",
+      "101.465",
+      "100.465"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 3,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p3.png",
+    "diagramPath": "/pdf_pages/Surveying_28_p3.png",
+    "validationStatus": "needs_review",
+    "hasDiagram": true
+  },
+  {
+    "id": "Surveying_29_3",
+    "subject": "Surveying",
+    "originalQuestionNumber": 29,
+    "questionText": "Find the RL of point A",
+    "options": [
+      "100.11",
+      "101.11",
+      "101.101",
+      "100.001"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 3,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p3.png",
+    "diagramPath": "/pdf_pages/Surveying_29_p3.png",
+    "validationStatus": "needs_review",
+    "hasDiagram": true
+  },
+  {
+    "id": "Surveying_30_3",
+    "subject": "Surveying",
+    "originalQuestionNumber": 30,
+    "questionText": "Find the RL of point B",
+    "options": [
+      "98.555",
+      "98.64",
+      "98.54",
+      "98.945"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 3,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p3.png",
+    "diagramPath": "/pdf_pages/Surveying_30_p3.png",
+    "validationStatus": "needs_review",
+    "hasDiagram": true
+  },
+  {
+    "id": "Surveying_31_3",
+    "subject": "Surveying",
+    "originalQuestionNumber": 31,
+    "questionText": "Find the RL of point C",
+    "options": [
+      "101.3",
+      "101.32",
+      "102.565",
+      "102.125"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 3,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p3.png",
+    "diagramPath": "/pdf_pages/Surveying_31_p3.png",
+    "validationStatus": "needs_review",
+    "hasDiagram": true
+  },
+  {
+    "id": "Surveying_32_4",
+    "subject": "Surveying",
+    "originalQuestionNumber": 32,
+    "questionText": "Find the RL of point A",
+    "options": [
+      "49.155",
+      "40.13",
+      "49.13",
+      "50.43"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 4,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p4.png",
+    "diagramPath": "/pdf_pages/Surveying_32_p4.png",
+    "validationStatus": "needs_review",
+    "hasDiagram": true
+  },
+  {
+    "id": "Surveying_33_4",
+    "subject": "Surveying",
+    "originalQuestionNumber": 33,
+    "questionText": "Find the RL of point B",
+    "options": [
+      "45.455",
+      "46.49",
+      "47.97",
+      "47.795"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 4,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p4.png",
+    "diagramPath": "/pdf_pages/Surveying_33_p4.png",
+    "validationStatus": "needs_review",
+    "hasDiagram": true
+  },
+  {
+    "id": "Surveying_34_4",
+    "subject": "Surveying",
+    "originalQuestionNumber": 34,
+    "questionText": "",
+    "options": [
+      "50.675",
+      "51.445",
+      "50.33",
+      "50.325"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 4,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p4.png",
+    "diagramPath": "/pdf_pages/Surveying_34_p4.png",
+    "validationStatus": "needs_review",
+    "hasDiagram": true
+  },
+  {
+    "id": "Surveying_35_4",
+    "subject": "Surveying",
+    "originalQuestionNumber": 35,
+    "questionText": "Find the RL of point C An imaginery line joining points of same reduce level is called as…",
+    "options": [
+      "Contour",
+      "Vertual Line",
+      "Cliff",
+      "Vally"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 4,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p4.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_36_4",
+    "subject": "Surveying",
+    "originalQuestionNumber": 36,
+    "questionText": "Closed lines with contour values increasing inside represents….",
+    "options": [
+      "Contour",
+      "Hill",
+      "Cliff",
+      "Vally"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 4,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p4.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_37_4",
+    "subject": "Surveying",
+    "originalQuestionNumber": 37,
+    "questionText": "Closed lines with contour values decreasing inside represents….",
+    "options": [
+      "Contour",
+      "Hill",
+      "Cliff",
+      "Vally"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 4,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p4.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_38_4",
+    "subject": "Surveying",
+    "originalQuestionNumber": 38,
+    "questionText": "The length of survey line measured with 30 m chain was found to be 650 m. Calculate the true length of  line if the chain was 15 cm longer.",
+    "options": [
+      "650",
+      "650.75",
+      "653.25",
+      "648.9"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 4,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p4.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_39_4",
+    "subject": "Surveying",
+    "originalQuestionNumber": 39,
+    "questionText": "Which type of chain is 100 ft long?",
+    "options": [
+      "Gunter's chain",
+      "Engineer's chain",
+      "Metric chain",
+      "All of These"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 4,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p4.png",
+    "diagramPath": "/pdf_pages/Surveying_39_p4.png",
+    "validationStatus": "verified",
+    "hasDiagram": true
+  },
+  {
+    "id": "Surveying_40_4",
+    "subject": "Surveying",
+    "originalQuestionNumber": 40,
+    "questionText": "",
+    "options": [
+      "Open Cross Staff",
+      "Square",
+      "Open Square",
+      "None of These"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 4,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p4.png",
+    "diagramPath": "/pdf_pages/Surveying_40_p4.png",
+    "validationStatus": "needs_review",
+    "hasDiagram": true
+  },
+  {
+    "id": "Surveying_41_4",
+    "subject": "Surveying",
+    "originalQuestionNumber": 41,
+    "questionText": " If the length measured with 20m chain is found as 435m, and later the chain found 10cm short. What will  be the correct length?",
+    "options": [
+      "437.125",
+      "432.825",
+      "435",
+      "438.5"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 4,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p4.png",
+    "diagramPath": "/pdf_pages/Surveying_41_p4.png",
+    "validationStatus": "verified",
+    "hasDiagram": true
+  },
+  {
+    "id": "Surveying_42_4",
+    "subject": "Surveying",
+    "originalQuestionNumber": 42,
+    "questionText": "If the length measured with 20m chain is found as 1445.5 m, and later the chain found 12 cm short. What  will be the correct length?",
+    "options": [
+      "143.055",
+      "19.88",
+      "1436.827",
+      "None of These"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 4,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p4.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_43_4",
+    "subject": "Surveying",
+    "originalQuestionNumber": 43,
+    "questionText": "The length of survey line measured with 30 m chain was found to be 267 m. Calculate the true length of  line if the chain was 7.5 cm longer.",
+    "options": [
+      "266.33",
+      "265.67",
+      "267.33",
+      "267.67"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 4,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p4.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_44_5",
+    "subject": "Surveying",
+    "originalQuestionNumber": 44,
+    "questionText": "The length of a line measured by means of a 20 m chain was found to be 610.2 m known to be 612.0 m.  What was the actual length of chain?",
+    "options": [
+      "20",
+      "21.8",
+      "20.066",
+      "18.8"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 5,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p5.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_45_5",
+    "subject": "Surveying",
+    "originalQuestionNumber": 45,
+    "questionText": "The longest line dividing total area in two parts, is known as …",
+    "options": [
+      "Base line",
+      "Main Survey Line",
+      "Check line",
+      "All of These"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 5,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p5.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_46_5",
+    "subject": "Surveying",
+    "originalQuestionNumber": 46,
+    "questionText": "Which instrument is used in chain surveying?",
+    "options": [
+      "Chain",
+      "Ranging Rods",
+      "Pegs",
+      "All of These"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 5,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p5.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_47_5",
+    "subject": "Surveying",
+    "originalQuestionNumber": 47,
+    "questionText": "The line joining the main survey stations is known as …",
+    "options": [
+      "Base line",
+      "Main Survey Line",
+      "Check line",
+      "All of These"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 5,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p5.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_48_5",
+    "subject": "Surveying",
+    "originalQuestionNumber": 48,
+    "questionText": "1 nautical mile is equal to …. M",
+    "options": [
+      "1954",
+      "1000",
+      "60",
+      "1852"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 5,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p5.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_49_5",
+    "subject": "Surveying",
+    "originalQuestionNumber": 49,
+    "questionText": "The lines which are run in the field to check the accuracy of the work is called as..",
+    "options": [
+      "Base Line",
+      "Tie Line",
+      "Proof Lines",
+      "None of These"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 5,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p5.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_50_5",
+    "subject": "Surveying",
+    "originalQuestionNumber": 50,
+    "questionText": "Error due to change in temperature in chaining is ….",
+    "options": [
+      "Cummulative +ve",
+      "Cummulative -ve",
+      "Cummulative +ve or - ve",
+      "None of These"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 5,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p5.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_51_5",
+    "subject": "Surveying",
+    "originalQuestionNumber": 51,
+    "questionText": "\"Georeferencing\" in surveying involves:",
+    "options": [
+      "Assigning  geographic  coordinates to a map  or survey data",
+      "Measuring distances  between known  points",
+      "Calculating the  elevation of a site",
+      "Adjusting survey  data for errors"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 5,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p5.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_52_5",
+    "subject": "Surveying",
+    "originalQuestionNumber": 52,
+    "questionText": "A “contour map” is used to:",
+    "options": [
+      "Show the elevation  changes across a  landscape",
+      "Represent building  layouts",
+      "Display road  networks",
+      "Illustrate land  ownership  boundaries"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 5,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p5.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_53_5",
+    "subject": "Surveying",
+    "originalQuestionNumber": 53,
+    "questionText": "A “survey benchmark” is:",
+    "options": [
+      "A point of known  elevation used as a  reference for leveling",
+      "A measurement  taken with a leveling  instrument",
+      "A survey tool used  to measure distances",
+      "A type of survey map"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 5,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p5.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_54_5",
+    "subject": "Surveying",
+    "originalQuestionNumber": 54,
+    "questionText": "A “topographic survey” is performed to:",
+    "options": [
+      "Map the surface  features and  contours of the land",
+      "Measure the interior  dimensions of a  building",
+      "Determine the  strength of materials",
+      "Calculate the  distances between  buildings"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 5,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p5.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_55_5",
+    "subject": "Surveying",
+    "originalQuestionNumber": 55,
+    "questionText": "In a \"chain survey,\" the chain used is typically:",
+    "options": [
+      "20 meters long  The process of",
+      "30 meters long",
+      "50 meters long",
+      "100 meters long"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 5,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p5.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_56_5",
+    "subject": "Surveying",
+    "originalQuestionNumber": 56,
+    "questionText": "In a \"traverse survey,\" \"closure\" refers to:",
+    "options": [
+      "ensuring that the  survey returns to the  starting point",
+      "The distance  measured between  two points",
+      "The angle measured  between survey lines",
+      "The adjustment of  survey data for  accuracy"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 5,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p5.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_57_5",
+    "subject": "Surveying",
+    "originalQuestionNumber": 57,
+    "questionText": "In a “survey report,” the “data sheets” contain:",
+    "options": [
+      "The recorded  measurements and  observations from  the field",
+      "The final survey map",
+      "The calculation of  distances and  elevations",
+      "The list of survey  equipment used"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 5,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p5.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_58_5",
+    "subject": "Surveying",
+    "originalQuestionNumber": 58,
+    "questionText": "In a survey drawing, the \"legend\" is used to:",
+    "options": [
+      "Explain the symbols  and abbreviations  used",
+      "Show the drawing’s  scale",
+      "Indicate the  orientation of the  drawing",
+      "Provide the names  of the survey team"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 5,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p5.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_59_5",
+    "subject": "Surveying",
+    "originalQuestionNumber": 59,
+    "questionText": "In a topographic survey, contour lines represent:",
+    "options": [
+      "The outline of  buildings",
+      "The elevation of the  terrain",
+      "The layout of roads",
+      "Property boundaries"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 5,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p5.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_60_5",
+    "subject": "Surveying",
+    "originalQuestionNumber": 60,
+    "questionText": "In civil engineering drawings, a “detail view” is used to:",
+    "options": [
+      "Show a specific part  of the structure at a  larger scale",
+      "Represent the entire  structure",
+      "Display the  building’s elevation",
+      "Illustrate the site  layout"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 5,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p5.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_61_6",
+    "subject": "Surveying",
+    "originalQuestionNumber": 61,
+    "questionText": "In surveying, \"error of closure\" is:",
+    "options": [
+      "The discrepancy  between the  measured and actual  values",
+      "The time taken to  complete a survey",
+      "The distance  between two  measurement points",
+      "The number of  observations made"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 6,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p6.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_62_6",
+    "subject": "Surveying",
+    "originalQuestionNumber": 62,
+    "questionText": "In surveying, “differential leveling” involves:",
+    "options": [
+      "Measuring the  difference in  elevation between  two points",
+      "Measuring  horizontal distances",
+      "Calculating the area  of a plot",
+      "Recording angles  between two points"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 6,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p6.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_63_6",
+    "subject": "Surveying",
+    "originalQuestionNumber": 63,
+    "questionText": "In surveying, “triangulation” is used to:",
+    "options": [
+      "Determine positions  based on known  angles from a base  line",
+      "Measure vertical  elevations",
+      "Record distances  between points",
+      "Plot the layout of  buildings"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 6,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p6.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_64_6",
+    "subject": "Surveying",
+    "originalQuestionNumber": 64,
+    "questionText": "In surveying, a \"traverse\" involves:",
+    "options": [
+      "A series of  connected lines  forming a closed  loop to determine  positional accuracy",
+      "Measuring angles  between two known  points",
+      "Recording the  height differences  between points",
+      "Plotting the contour  lines of a site"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 6,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p6.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_65_6",
+    "subject": "Surveying",
+    "originalQuestionNumber": 65,
+    "questionText": "In surveying, the term \"azimuth\" refers to:",
+    "options": [
+      "A horizontal angle  measured clockwise  from a reference  direction",
+      "A vertical angle  measured from the  horizon",
+      "The distance  between two points",
+      "The elevation of a  point"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 6,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p6.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_66_6",
+    "subject": "Surveying",
+    "originalQuestionNumber": 66,
+    "questionText": "In surveying, the term \"bearing\" refers to:",
+    "options": [
+      "The direction of a  line relative to a  reference direction",
+      "The length of a line",
+      "The vertical distance  between two points",
+      "The angle between  two lines"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 6,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p6.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_67_6",
+    "subject": "Surveying",
+    "originalQuestionNumber": 67,
+    "questionText": "In surveying, the term \"error\" refers to:",
+    "options": [
+      "Any deviation from  the true  measurement",
+      "The difference  between theoretical  and actual  measurements",
+      "Mistakes made  during data recording",
+      "All of the above"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 6,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p6.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_68_6",
+    "subject": "Surveying",
+    "originalQuestionNumber": 68,
+    "questionText": "In surveying, the term \"levelling staff\" refers to:",
+    "options": [
+      "The graduated rod  used to measure the  height of points",
+      "The instrument used  to measure angles",
+      "The tool used to  record distances",
+      "The device used to  align the survey  instrument"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 6,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p6.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_69_6",
+    "subject": "Surveying",
+    "originalQuestionNumber": 69,
+    "questionText": "In surveying, what does \"triangulation\" refer to?",
+    "options": [
+      "Measuring distances  directly",
+      "Determining  positions using  angles from known  points",
+      "Measuring vertical  elevations",
+      "Calculating the area  of a plot"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 6,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p6.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_70_6",
+    "subject": "Surveying",
+    "originalQuestionNumber": 70,
+    "questionText": "In surveying, what does “reducing” the survey data mean?",
+    "options": [
+      "Adjusting  measurements to  account for errors",
+      "Scaling down the  size of the drawing",
+      "Simplifying complex  data into readable  formats",
+      "Removing  redundant data  points"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 6,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p6.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_71_7",
+    "subject": "Surveying",
+    "originalQuestionNumber": 71,
+    "questionText": "In surveying, what is a \"control point\"?",
+    "options": [
+      "A fixed point used as  a reference for  measurements",
+      "A temporary mark  used during  surveying",
+      "A point where  survey data is  recorded",
+      "A location where  the instrument is set  up"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 7,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p7.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_72_7",
+    "subject": "Surveying",
+    "originalQuestionNumber": 72,
+    "questionText": "The \"angular measurement\" in surveying typically involves:",
+    "options": [
+      "Using a theodolite  to measure  horizontal and  vertical angles",
+      "Using a tape  measure to  determine distances",
+      "Using a level to  measure height  differences",
+      "Using a GPS to  locate positions"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 7,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p7.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_73_7",
+    "subject": "Surveying",
+    "originalQuestionNumber": 73,
+    "questionText": "The \"base line\" in triangulation should be:",
+    "options": [
+      "As short as possible",
+      "As long as possible",
+      "Equal to the height  of the triangle",
+      "Exactly half of the  total distance"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 7,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p7.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_74_7",
+    "subject": "Surveying",
+    "originalQuestionNumber": 74,
+    "questionText": "The \"bearing\" of a line is measured relative to:",
+    "options": [
+      "A reference  direction such as  north",
+      "The distance of the  line",
+      "The elevation of the  points",
+      "The angle between  two lines"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 7,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p7.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_75_7",
+    "subject": "Surveying",
+    "originalQuestionNumber": 75,
+    "questionText": "The \"benchmark elevation\" is used as a:",
+    "options": [
+      "Reference point to  determine the height  of other points",
+      "Measurement of  horizontal distance",
+      "Calculation of area",
+      "Record of angles in a  survey"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 7,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p7.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_76_7",
+    "subject": "Surveying",
+    "originalQuestionNumber": 76,
+    "questionText": "The \"contour interval\" in a contour map is:",
+    "options": [
+      "The vertical distance  between adjacent  contour lines",
+      "The horizontal  distance between  two points",
+      "The thickness of the  contour lines",
+      "The distance  between the highest  and lowest points"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 7,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p7.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_77_7",
+    "subject": "Surveying",
+    "originalQuestionNumber": 77,
+    "questionText": "The \"datum\" in surveying refers to:",
+    "options": [
+      "The reference point  for elevations",
+      "The instrument used  for measurements",
+      "The area being  surveyed",
+      "The software used  for analysis"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 7,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p7.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_78_7",
+    "subject": "Surveying",
+    "originalQuestionNumber": 78,
+    "questionText": "The \"distance measurement\" in surveying can be achieved using:",
+    "options": [
+      "Electronic Distance  Measuring (EDM",
+      "A tape measure or  chain",
+      "GPS devices",
+      "All of the above"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 7,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p7.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_79_7",
+    "subject": "Surveying",
+    "originalQuestionNumber": 79,
+    "questionText": "The \"field book\" in surveying is used to:",
+    "options": [
+      "Record observations  and measurements  taken during a survey",
+      "Sketch the layout of  a site",
+      "Plot the survey  results on a map",
+      "Calculate the area of  a plot"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 7,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p7.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_80_7",
+    "subject": "Surveying",
+    "originalQuestionNumber": 80,
+    "questionText": "The \"fieldwork\" in surveying includes:",
+    "options": [
+      "Taking  measurements and  observations at the  survey site",
+      "Analyzing survey  data",
+      "Creating survey  maps",
+      "Drafting survey  reports"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 7,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p7.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_81_7",
+    "subject": "Surveying",
+    "originalQuestionNumber": 81,
+    "questionText": "The \"geodetic\" method of surveying is concerned with:",
+    "options": [
+      "Measuring the  shape and size of the  Earth",
+      "Mapping building  interiors",
+      "Measuring distances  within a building",
+      "Determining the  angles between  structures"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 7,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p7.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_82_7",
+    "subject": "Surveying",
+    "originalQuestionNumber": 82,
+    "questionText": "The \"height of instrument\" in leveling refers to:",
+    "options": [
+      "The height at which  the leveling  instrument is set",
+      "The height of the  object being  measured",
+      "The vertical distance  between two points",
+      "The distance from  the instrument to  the staff"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 7,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p7.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_83_8",
+    "subject": "Surveying",
+    "originalQuestionNumber": 83,
+    "questionText": "The \"hydrographic survey\" is conducted to:",
+    "options": [
+      "Measure and map  bodies of water,  including depths and  features",
+      "Survey land surfaces  for construction",
+      "Determine the  internal  layout of a  building",
+      "Analyze soil  conditions"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 8,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p8.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_84_8",
+    "subject": "Surveying",
+    "originalQuestionNumber": 84,
+    "questionText": "The \"instrumental error\" in surveying refers to:",
+    "options": [
+      "Errors caused by the  surveying instrument  itself",
+      "Errors caused by  environmental  conditions",
+      "Errors in data  recording",
+      "Errors made by the  surveyor"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 8,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p8.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_85_8",
+    "subject": "Surveying",
+    "originalQuestionNumber": 85,
+    "questionText": "The \"method of coordinates\" in surveying involves:",
+    "options": [
+      "Using a coordinate  system to define  positions on a map",
+      "Measuring distances  using a tape measure",
+      "Calculating the  angle between two  points",
+      "Recording elevation  changes"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 8,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p8.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_86_8",
+    "subject": "Surveying",
+    "originalQuestionNumber": 86,
+    "questionText": "The \"odolite\" is used to:",
+    "options": [
+      "Measure angles in  both horizontal and  vertical planes",
+      "Measure distances  directly",
+      "Level the survey area",
+      "Record weather  conditions"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 8,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p8.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_87_8",
+    "subject": "Surveying",
+    "originalQuestionNumber": 87,
+    "questionText": "The \"optical leveling\" method uses:",
+    "options": [
+      "Light beams to  measure distances",
+      "A leveling  instrument to  measure height  differences",
+      "Electronic devices to  record angles",
+      "Cameras to capture  topographical  features"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 8,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p8.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_88_8",
+    "subject": "Surveying",
+    "originalQuestionNumber": 88,
+    "questionText": "The \"parallax error\" occurs when:",
+    "options": [
+      "The viewing angle of  the instrument  affects the  measurement",
+      "The instrument is  not properly  calibrated",
+      "The measurement is  taken under  different lighting  conditions",
+      "The instrument is  set up on an uneven  surface"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 8,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p8.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_89_8",
+    "subject": "Surveying",
+    "originalQuestionNumber": 89,
+    "questionText": "The \"plane table\" in surveying is used to:",
+    "options": [
+      "Plot survey data  directly onto a  drawing sheet",
+      "Measure distances  between points",
+      "Calculate angles  between survey lines",
+      "Record elevation  changes"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 8,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p8.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_90_8",
+    "subject": "Surveying",
+    "originalQuestionNumber": 90,
+    "questionText": "The \"reciprocal leveling\" method is most useful for:",
+    "options": [
+      "Measuring height  differences over long  distances",
+      "Measuring angles in  triangulation",
+      "Determining the  slope of a land  surface",
+      "Plotting the interior  of a building"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 8,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p8.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_91_8",
+    "subject": "Surveying",
+    "originalQuestionNumber": 91,
+    "questionText": "The \"reduced level\" in leveling is:",
+    "options": [
+      "The height of a point  relative to a  reference plane",
+      "The distance  between two levels",
+      "The difference  between the  instrument’s height  and the staff reading",
+      "The level of  accuracy achieved in  measurements"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 8,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p8.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_92_8",
+    "subject": "Surveying",
+    "originalQuestionNumber": 92,
+    "questionText": "The \"resection\" method in surveying involves:",
+    "options": [
+      "Determining the  location of an  unknown point by  observing angles",
+      "Calculating  distances between  known points",
+      "Measuring the  height of a point  above a reference  level",
+      "Plotting the layout  of a site"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 8,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p8.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_93_8",
+    "subject": "Surveying",
+    "originalQuestionNumber": 93,
+    "questionText": "The \"slope\" in surveying refers to:",
+    "options": [
+      "from known points  The angle of incline  or decline of the land",
+      "The horizontal  distance between  two points",
+      "The vertical distance  between two points",
+      "The curvature of the  earth’s surface"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 8,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p8.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_94_8",
+    "subject": "Surveying",
+    "originalQuestionNumber": 94,
+    "questionText": "The \"survey adjustment\" process is used to:",
+    "options": [
+      "Correct errors and  discrepancies in  survey  measurements",
+      "Scale down the size  of survey maps",
+      "Measure angles  between lines",
+      "Record elevation  changes"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 8,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p8.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_95_9",
+    "subject": "Surveying",
+    "originalQuestionNumber": 95,
+    "questionText": "The \"tape measure\" in surveying is used to:",
+    "options": [
+      "Measure linear  distances directly",
+      "Measure angles  between lines",
+      "Determine vertical  heights",
+      "Record survey data  electronically"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_96_9",
+    "subject": "Surveying",
+    "originalQuestionNumber": 96,
+    "questionText": "The \"topographic survey\" is used to:",
+    "options": [
+      "Map and analyze  the physical features  of the land",
+      "Measure distances  between buildings",
+      "Record the interior  dimensions of a  structure",
+      "Determine the  elevation of the land"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_97_9",
+    "subject": "Surveying",
+    "originalQuestionNumber": 97,
+    "questionText": "The \"total station\" combines which two types of surveying instruments?",
+    "options": [
+      "Theodolite and EDM  (Electronic Distance  Measuring",
+      "Level and Tape  Measure",
+      "Plane Table and  Alidade",
+      "GPS and Barometer"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_98_9",
+    "subject": "Surveying",
+    "originalQuestionNumber": 98,
+    "questionText": "The \"traverse closure\" is used to:",
+    "options": [
+      "Check the accuracy  of a closed traverse  survey",
+      "Determine the  height of a point",
+      "Measure the  horizontal distance  between points",
+      "Plot topographical  features"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_99_9",
+    "subject": "Surveying",
+    "originalQuestionNumber": 99,
+    "questionText": "The \"traverse error\" is the difference between:",
+    "options": [
+      "The calculated and  actual distances in a  closed traverse loop",
+      "Two measured  angles",
+      "The height of two  points",
+      "The distance and  area measurements"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_100_9",
+    "subject": "Surveying",
+    "originalQuestionNumber": 100,
+    "questionText": "The \"traverse survey\" ensures:",
+    "options": [
+      "Accurate positional  data by connecting  multiple points",
+      "The measurement  of height differences",
+      "The calculation of  area",
+      "The mapping of  topographical  features"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_101_9",
+    "subject": "Surveying",
+    "originalQuestionNumber": 101,
+    "questionText": "The “angle of inclination” in surveying is:",
+    "options": [
+      "The angle between  the horizontal plane  and a surveyed line",
+      "The angle between  two survey lines",
+      "The vertical distance  between points",
+      "The horizontal  distance between  points"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_102_9",
+    "subject": "Surveying",
+    "originalQuestionNumber": 102,
+    "questionText": "The “azimuth angle” is measured from:",
+    "options": [
+      "The north direction",
+      "The east direction",
+      "The south direction",
+      "The west direction"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_103_9",
+    "subject": "Surveying",
+    "originalQuestionNumber": 103,
+    "questionText": "The “azimuth” is:",
+    "options": [
+      "A compass direction  measured clockwise  from north",
+      "The vertical angle  between two points",
+      "The distance  between two points  on the earth",
+      "The height of a point  above sea level"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_104_9",
+    "subject": "Surveying",
+    "originalQuestionNumber": 104,
+    "questionText": "The “chain survey” method is suitable for:",
+    "options": [
+      "Small and relatively  flat areas",
+      "Large and  mountainous regions",
+      "Detailed building  layouts",
+      "Hydrographic  surveys"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_105_9",
+    "subject": "Surveying",
+    "originalQuestionNumber": 105,
+    "questionText": "The “contour interval” is important for:",
+    "options": [
+      "Understanding the  vertical spacing  between contour  lines",
+      "Measuring  horizontal distances",
+      "Determining the  scale of the map",
+      "Recording survey  measurements"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_106_10",
+    "subject": "Surveying",
+    "originalQuestionNumber": 106,
+    "questionText": "The “control network” in surveying refers to:",
+    "options": [
+      "A system of known  reference points  used to ensure  accurate",
+      "The layout of the  survey area",
+      "The measurement  of distances  between points",
+      "The plotting of  survey data on a map"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_107_10",
+    "subject": "Surveying",
+    "originalQuestionNumber": 107,
+    "questionText": "The “datum plane” in surveying is used to:",
+    "options": [
+      "measurements  Establish a  reference level for  measurements",
+      "Measure horizontal  angles",
+      "Record survey data",
+      "Plot topographical  features"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_108_10",
+    "subject": "Surveying",
+    "originalQuestionNumber": 108,
+    "questionText": "The “field survey” is conducted to:",
+    "options": [
+      "Collect data directly  from the survey site",
+      "Analyze survey data  in the office",
+      "Plot the final survey  maps",
+      "Record survey  measurements  electronically"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_109_10",
+    "subject": "Surveying",
+    "originalQuestionNumber": 109,
+    "questionText": "The “fieldwork” in surveying involves:",
+    "options": [
+      "Collecting  measurements and  data on-site",
+      "Analyzing survey  results",
+      "Drafting survey  reports",
+      "Creating survey  maps"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_110_10",
+    "subject": "Surveying",
+    "originalQuestionNumber": 110,
+    "questionText": "The “GPS” in surveying is used to:",
+    "options": [
+      "Determine precise  locations and  coordinates",
+      "Measure distances  with a tape",
+      "Record elevation  changes",
+      "Calculate angles  between points"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_111_10",
+    "subject": "Surveying",
+    "originalQuestionNumber": 111,
+    "questionText": "The “leveling instrument” is used to measure:",
+    "options": [
+      "Height differences  between points",
+      "Horizontal angles",
+      "Distances between  points",
+      "The direction of  survey lines"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_112_10",
+    "subject": "Surveying",
+    "originalQuestionNumber": 112,
+    "questionText": "The “leveling instrument” is used to measure:",
+    "options": [
+      "Height differences  between points",
+      "Horizontal angles",
+      "Distances between  points",
+      "The direction of  survey lines"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_113_10",
+    "subject": "Surveying",
+    "originalQuestionNumber": 113,
+    "questionText": "The “map scale” indicates:",
+    "options": [
+      "The ratio between  distances on the  map and actual  distances on the  ground",
+      "The size of the map  paper",
+      "The level of detail  shown on the map",
+      "The color scheme  used in the map"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_114_10",
+    "subject": "Surveying",
+    "originalQuestionNumber": 114,
+    "questionText": "The “mean sea level” is commonly used as:",
+    "options": [
+      "A reference point  for measuring  elevations",
+      "The baseline for  measuring horizontal  distances",
+      "The standard for  measuring angles",
+      "The reference for  surveying distances"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_115_10",
+    "subject": "Surveying",
+    "originalQuestionNumber": 115,
+    "questionText": "The “plumb bob” is used in surveying to:",
+    "options": [
+      "Determine vertical  alignment",
+      "Measure horizontal  angles",
+      "Calculate distances",
+      "Record weather  conditions"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_116_10",
+    "subject": "Surveying",
+    "originalQuestionNumber": 116,
+    "questionText": "The “precision” in surveying refers to:",
+    "options": [
+      "The degree of  accuracy in  measurements",
+      "The size of the  survey area",
+      "The type of survey  equipment used",
+      "The number of  survey points"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_117_10",
+    "subject": "Surveying",
+    "originalQuestionNumber": 117,
+    "questionText": "The “precision” of a survey instrument is:",
+    "options": [
+      "The level of detail it  can measure  accurately",
+      "The weight of the  instrument",
+      "The color of the  instrument",
+      "The size of the  instrument"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_118_10",
+    "subject": "Surveying",
+    "originalQuestionNumber": 118,
+    "questionText": "The “site plan” in a survey represents:",
+    "options": [
+      "The layout and  features of the  survey area",
+      "The elevation  changes of the site",
+      "The internal  arrangement of a  building",
+      "The contour lines of  the land"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_119_11",
+    "subject": "Surveying",
+    "originalQuestionNumber": 119,
+    "questionText": "The “survey data” collected includes:",
+    "options": [
+      "Measurements,  angles, and  observations from  the field",
+      "The final survey map",
+      "The area of the plot",
+      "The type of survey  equipment used"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_120_11",
+    "subject": "Surveying",
+    "originalQuestionNumber": 120,
+    "questionText": "The “survey grade” of a GPS device indicates:",
+    "options": [
+      "The accuracy and  precision of the  device",
+      "The length of the  device",
+      "The color of the  device",
+      "The weight of the  device"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_121_11",
+    "subject": "Surveying",
+    "originalQuestionNumber": 121,
+    "questionText": "The “survey line” is:",
+    "options": [
+      "A line used to  measure and record  distances",
+      "A reference line for  angles",
+      "A boundary line on a  survey map",
+      "A line representing a  level elevation"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_122_11",
+    "subject": "Surveying",
+    "originalQuestionNumber": 122,
+    "questionText": "The “survey line” method involves:",
+    "options": [
+      "Measuring distances  along a line to  determine positions",
+      "Recording angles  between lines",
+      "Plotting the  topography of the  land",
+      "Calculating  elevation changes"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_123_11",
+    "subject": "Surveying",
+    "originalQuestionNumber": 123,
+    "questionText": "The “survey plan” shows:",
+    "options": [
+      "The layout and  details of the survey  area",
+      "The internal  structure of a  building",
+      "The vertical section  of a plot",
+      "The distances  between two  buildings"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_124_11",
+    "subject": "Surveying",
+    "originalQuestionNumber": 124,
+    "questionText": "The “surveying map” shows:",
+    "options": [
+      "The layout and  features of the  surveyed area",
+      "The internal  structure of a  building",
+      "The distance  between buildings",
+      "The elevation of  individual points"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_125_11",
+    "subject": "Surveying",
+    "originalQuestionNumber": 125,
+    "questionText": "The “surveyor’s compass” measures:",
+    "options": [
+      "The direction and  angle of survey lines",
+      "The distance  between points",
+      "The elevation of a  point",
+      "The vertical angle  between two points"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_126_11",
+    "subject": "Surveying",
+    "originalQuestionNumber": 126,
+    "questionText": "The “total station” is particularly useful for:",
+    "options": [
+      "Combining the  functions of  measuring distances",
+      "Measuring only  horizontal distances",
+      "Calculating vertical  angles",
+      "Plotting  topographical  features"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_127_11",
+    "subject": "Surveying",
+    "originalQuestionNumber": 127,
+    "questionText": "The instrument used to measure angles and distances simultaneously is:",
+    "options": [
+      "and angles  Theodolite",
+      "Total Station",
+      "Level",
+      "Chain"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_128_11",
+    "subject": "Surveying",
+    "originalQuestionNumber": 128,
+    "questionText": "The method of leveling that involves taking readings on a staff at two different points to determine the difference ",
+    "options": [
+      "differential",
+      "Barometric leveling",
+      "Trigonometric  leveling",
+      "Reciprocal leveling"
+    ],
+    "correctAnswerIndex": -1,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_129_11",
+    "subject": "Surveying",
+    "originalQuestionNumber": 129,
+    "questionText": "The process of dividing a survey area into manageable sections using grid lines is known as:",
+    "options": [
+      "Grid surveying",
+      "Contour mapping",
+      "Traversing",
+      "Sectionalizing"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_130_11",
+    "subject": "Surveying",
+    "originalQuestionNumber": 130,
+    "questionText": "The purpose of “traverse surveying” is to:",
+    "options": [
+      "Establish control  points over a survey  area",
+      "Measure vertical  angles",
+      "Plot topographical  features",
+      "Determine the  elevation of a site"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_131_11",
+    "subject": "Surveying",
+    "originalQuestionNumber": 131,
+    "questionText": "The purpose of a \"site plan\" in surveying is to:",
+    "options": [
+      "Show the layout of  the site including  buildings and  features",
+      "Provide details of  the building’s  structural  components",
+      "Display the internal  arrangement of  rooms",
+      "Illustrate the  building’s facade"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_132_11",
+    "subject": "Surveying",
+    "originalQuestionNumber": 132,
+    "questionText": "The purpose of a benchmark (BM) in surveying is to:",
+    "options": [
+      "Provide a fixed  reference point with  a known elevation",
+      "Measure horizontal  angles",
+      "Calculate distances",
+      "Identify property  boundaries"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_133_12",
+    "subject": "Surveying",
+    "originalQuestionNumber": 133,
+    "questionText": "The term \"backsight\" in leveling refers to:",
+    "options": [
+      "The measurement  taken from the  instrument to a  known point",
+      "The measurement  taken from the  instrument to an  unknown point",
+      "The sighting of the  instrument towards  a new point",
+      "The reading taken at  the end of a survey"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 12,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p12.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_134_12",
+    "subject": "Surveying",
+    "originalQuestionNumber": 134,
+    "questionText": "The term \"base map\" refers to:",
+    "options": [
+      "A map that provides  the foundational  data for additional  mapping",
+      "A map used to  record survey  measurements",
+      "A map that shows  only topographical  features",
+      "A map that includes  detailed building  layouts"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 12,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p12.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_135_12",
+    "subject": "Surveying",
+    "originalQuestionNumber": 135,
+    "questionText": "The term \"geodetic survey\" refers to:",
+    "options": [
+      "Surveys conducted  on a global scale to  measure the shape  and size of the Earth",
+      "Surveys of small  land parcels",
+      "Surveys to measure  building interiors",
+      "Surveys to  determine property  boundaries"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 12,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p12.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_136_12",
+    "subject": "Surveying",
+    "originalQuestionNumber": 136,
+    "questionText": "The term \"leveling\" refers to:",
+    "options": [
+      "Determining the  height difference  between two points",
+      "Measuring  horizontal distances",
+      "Calculating vertical  angles",
+      "Plotting  topographical  features"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 12,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p12.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_137_12",
+    "subject": "Surveying",
+    "originalQuestionNumber": 137,
+    "questionText": "The term “datum line” is used to:",
+    "options": [
+      "Establish a  reference line for  measurements",
+      "Measure the vertical  distance between  points",
+      "Record the angles in  a survey",
+      "Plot the layout of a  building"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 12,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p12.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_138_12",
+    "subject": "Surveying",
+    "originalQuestionNumber": 138,
+    "questionText": "The term “slope correction” is used to:",
+    "options": [
+      "Adjust  measurements taken  on a slope to  account for the",
+      "Measure the angle  of the slope",
+      "Determine the  horizontal distance  between two points",
+      "Record the vertical  elevation changes"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 12,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p12.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_139_12",
+    "subject": "Surveying",
+    "originalQuestionNumber": 139,
+    "questionText": "What does \"sighting\" refer to in the use of a surveying instrument?",
+    "options": [
+      "incline  Aligning the  instrument with a  reference point",
+      "Measuring the  distance to a point",
+      "Recording the angle  between two lines",
+      "Setting up the  instrument on a  tripod"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 12,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p12.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_140_12",
+    "subject": "Surveying",
+    "originalQuestionNumber": 140,
+    "questionText": "What does \"total station\" measure?",
+    "options": [
+      "Distance, angles,  and coordinates",
+      "Only distances",
+      "Only angles",
+      "Only elevations"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 12,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p12.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_141_12",
+    "subject": "Surveying",
+    "originalQuestionNumber": 141,
+    "questionText": "What is \"baseline measurement\" in surveying?",
+    "options": [
+      "The initial  measurement taken  to establish a  reference for further  measurements",
+      "The measurement  of the longest  distance in a triangle",
+      "The distance  between two control  points",
+      "The measurement  of the base of a  structure"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 12,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p12.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_142_12",
+    "subject": "Surveying",
+    "originalQuestionNumber": 142,
+    "questionText": "What is a “traverse” in surveying?",
+    "options": [
+      "A series of  connected survey  lines used to  determine positions",
+      "A method of  measuring vertical  distances",
+      "A type of leveling  instrument",
+      "A process of  mapping  topographical  features"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 12,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p12.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_143_13",
+    "subject": "Surveying",
+    "originalQuestionNumber": 143,
+    "questionText": "What is the main purpose of a leveling instrument in surveying?",
+    "options": [
+      "Measure horizontal  angles",
+      "Determine elevation  differences",
+      "Calculate distances",
+      "Record weather  conditions"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 13,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p13.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_144_13",
+    "subject": "Surveying",
+    "originalQuestionNumber": 144,
+    "questionText": "What is the purpose of \"reciprocal leveling\"?",
+    "options": [
+      "To measure height  differences over long  distances",
+      "To determine angles  between distant  points",
+      "To calibrate leveling  instruments",
+      "To establish a base  line for triangulation"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 13,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p13.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_145_13",
+    "subject": "Surveying",
+    "originalQuestionNumber": 145,
+    "questionText": "Which instrument is primarily used to measure horizontal and vertical angles in surveying?",
+    "options": [
+      "Theodolite",
+      "Total Station",
+      "Level",
+      "Tape Measure"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 13,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p13.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_146_13",
+    "subject": "Surveying",
+    "originalQuestionNumber": 146,
+    "questionText": "Which of the following is used to measure horizontal angles in surveying?",
+    "options": [
+      "Theodolite",
+      "Level",
+      "Tape Measure",
+      "Total Station"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 13,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p13.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_147_13",
+    "subject": "Surveying",
+    "originalQuestionNumber": 147,
+    "questionText": "Which survey technique involves plotting a site by taking measurements from a plane table directly?",
+    "options": [
+      "Plane Table  Surveying",
+      "Chain Surveying",
+      "Total Station  Surveying",
+      "Theodolite Surveying"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 13,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p13.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_148_13",
+    "subject": "Surveying",
+    "originalQuestionNumber": 148,
+    "questionText": "Which surveying technique uses electromagnetic waves to determine distances?",
+    "options": [
+      "Triangulation",
+      "Total Station",
+      "Chain Surveying",
+      "Plane Table  Surveying"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 13,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p13.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_149_13",
+    "subject": "Surveying",
+    "originalQuestionNumber": 149,
+    "questionText": "Which tool is used to measure distances with a chain or tape?",
+    "options": [
+      "Chainage",
+      "Barometer",
+      "Vernier Caliper",
+      "Micrometer"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 13,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p13.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_150_13",
+    "subject": "Surveying",
+    "originalQuestionNumber": 150,
+    "questionText": "Which type of survey is conducted to measure the surface of bodies of water?",
+    "options": [
+      "Hydrographic  Surveying",
+      "Geodetic Surveying",
+      "Land Surveying",
+      "Engineering  Surveying"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 13,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p13.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_151_13",
+    "subject": "Surveying",
+    "originalQuestionNumber": 151,
+    "questionText": "A compass survey measures a line with a bearing of 85°. If the declination is 8° East, what is the true  bearing?",
+    "options": [
+      "77°",
+      "93°",
+      "85°",
+      "97°"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 13,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p13.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_152_13",
+    "subject": "Surveying",
+    "originalQuestionNumber": 152,
+    "questionText": "A compass survey shows a bearing of 10° for a line. What is the bearing if the declination is 12° West?",
+    "options": [
+      "22°",
+      "10°",
+      "12°",
+      "-2°"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 13,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p13.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_153_13",
+    "subject": "Surveying",
+    "originalQuestionNumber": 153,
+    "questionText": "A compass survey with a line bearing of 75° has an error of 2°. What is the corrected bearing?",
+    "options": [
+      "77°",
+      "73°",
+      "75°",
+      "72°"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 13,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p13.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_154_13",
+    "subject": "Surveying",
+    "originalQuestionNumber": 154,
+    "questionText": "How do you calculate the included angle between two lines with bearings of 120° and 210°?",
+    "options": [
+      "90°",
+      "180°",
+      "30°",
+      "60°"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 13,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p13.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_155_13",
+    "subject": "Surveying",
+    "originalQuestionNumber": 155,
+    "questionText": "How is the height of the instrument (HI) typically calculated in leveling?",
+    "options": [
+      "HI = RL + BS",
+      "HI = RL - FS",
+      "HI = RL + FS",
+      "HI = RL - BS"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 13,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p13.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_156_13",
+    "subject": "Surveying",
+    "originalQuestionNumber": 156,
+    "questionText": "If a backsight reading is 1.8 meters and a foresight reading is 3.2 meters, and the height of the instrument  is 98 meters, what is the reduced level (RL) of the point where the foresight was taken?",
+    "options": [
+      "97.8 meters",
+      "95.0 meters",
+      "97.2 meters",
+      "96.8 meters"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 13,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p13.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_157_13",
+    "subject": "Surveying",
+    "originalQuestionNumber": 157,
+    "questionText": "If a compass survey shows a back bearing of 90° for a line, what should the fore bearing be?",
+    "options": [
+      "270°",
+      "90°",
+      "180°",
+      "360°"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 13,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p13.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_158_13",
+    "subject": "Surveying",
+    "originalQuestionNumber": 158,
+    "questionText": "If a level is set up and the backsight (BS) is 1.5 meters and the foresight (FS) is 2.0 meters, what is the  height of the instrument if the benchmark is at 100 meters?",
+    "options": [
+      "101.5 meters",
+      "98.5 meters",
+      "99.5 meters",
+      "102.0 meters"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 13,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p13.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_159_13",
+    "subject": "Surveying",
+    "originalQuestionNumber": 159,
+    "questionText": "If a level reads a backsight of 2.0 meters and a foresight of 3.5 meters, what is the elevation of the point if  the instrument height is 101 meters?",
+    "options": [
+      "97.5 meters",
+      "98.5 meters",
+      "99.5 meters",
+      "100.5 meters"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 13,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p13.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_160_13",
+    "subject": "Surveying",
+    "originalQuestionNumber": 160,
+    "questionText": "If the backsight (BS) is 2.2 meters and the foresight (FS) is 1.4 meters, and the instrument is set at a height  of 95 meters, what is the reduced level (RL) of the point where the foresight was taken?",
+    "options": [
+      "97.8 meters",
+      "93.8 meters",
+      "94.6 meters",
+      "96.8 meters"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 13,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p13.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_161_13",
+    "subject": "Surveying",
+    "originalQuestionNumber": 161,
+    "questionText": "If the backsight (BS) reading is 2.5 meters and the foresight (FS) reading is 1.2 meters, what is the change  in elevation?",
+    "options": [
+      "+1.3 meters",
+      "-1.3 meters",
+      "+1.7 meters",
+      "-1.7 meters"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 13,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p13.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_162_13",
+    "subject": "Surveying",
+    "originalQuestionNumber": 162,
+    "questionText": "If the foresight (FS) reading is 1.5 meters and the reduced level (RL) is 2.0 meters, what is the height of the  instrument?",
+    "options": [
+      "3.5 meters",
+      "0.5 meters",
+      "1.5 meters",
+      "3.0 meters"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 13,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p13.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_163_13",
+    "subject": "Surveying",
+    "originalQuestionNumber": 163,
+    "questionText": "If the height of the instrument is 104 meters and the foresight reading is 1.8 meters, what is the reduced  level (RL) of the point?",
+    "options": [
+      "102.2 meters",
+      "102.8 meters",
+      "103.2 meters",
+      "103.8 meters"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 13,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p13.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_164_13",
+    "subject": "Surveying",
+    "originalQuestionNumber": 164,
+    "questionText": "If the magnetic bearing of a line is 45° and the magnetic declination is 10° West, what is the true bearing?",
+    "options": [
+      "55°",
+      "35°",
+      "45°",
+      "65°"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 13,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p13.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_165_13",
+    "subject": "Surveying",
+    "originalQuestionNumber": 165,
+    "questionText": "If the magnetic bearing of a line is 60° and the back bearing is 240°, what is the error in the survey?",
+    "options": [
+      "0°",
+      "10°",
+      "20°",
+      "30°"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 13,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p13.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_166_13",
+    "subject": "Surveying",
+    "originalQuestionNumber": 166,
+    "questionText": "If the magnetic declination is 7° East and the magnetic bearing of a line is 160°, what is the true bearing?",
+    "options": [
+      "153°",
+      "167°",
+      "160°",
+      "153°"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 13,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p13.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_167_14",
+    "subject": "Surveying",
+    "originalQuestionNumber": 167,
+    "questionText": "If the reduced level (RL) of a benchmark is 150 meters and the backsight (BS) reading is 2.5 meters, what is  the height of the instrument?",
+    "options": [
+      "152.5 meters",
+      "150.0 meters",
+      "147.5 meters",
+      "155.0 meters"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 14,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p14.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_168_14",
+    "subject": "Surveying",
+    "originalQuestionNumber": 168,
+    "questionText": "If the true bearing of a line is 280° and the magnetic declination is 4° East, what is the magnetic bearing?",
+    "options": [
+      "276°",
+      "284°",
+      "280°",
+      "284°"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 14,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p14.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_169_14",
+    "subject": "Surveying",
+    "originalQuestionNumber": 169,
+    "questionText": "In a leveling survey, if the foresight (FS) reading is 3.1 meters and the reduced level (RL) is 100 meters,  what is the height of the instrument?",
+    "options": [
+      "96.9 meters",
+      "103.1 meters",
+      "103.9 meters",
+      "96.1 meters"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 14,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p14.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_170_14",
+    "subject": "Surveying",
+    "originalQuestionNumber": 170,
+    "questionText": "In compass surveying, how do you convert a bearing to an azimuth?",
+    "options": [
+      "Subtract the bearing  from 360°",
+      "Add the bearing to  180°",
+      "Add the bearing to  90°",
+      "Subtract the bearing  from 90°"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 14,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p14.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_171_14",
+    "subject": "Surveying",
+    "originalQuestionNumber": 171,
+    "questionText": "In compass surveying, how would you determine the true bearing from a given magnetic bearing and  declination?",
+    "options": [
+      "Add declination if  East, subtract if West",
+      "Subtract declination  if East, add if West",
+      "Always add  declination",
+      "Always subtract  declination"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 14,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p14.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_172_14",
+    "subject": "Surveying",
+    "originalQuestionNumber": 172,
+    "questionText": "In compass surveying, what does the term 'azimuth' refer to?",
+    "options": [
+      "The angle between  two lines",
+      "The direction of a  line measured from  the North",
+      "The distance  between two points",
+      "The height of an  observation point"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 14,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p14.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_173_14",
+    "subject": "Surveying",
+    "originalQuestionNumber": 173,
+    "questionText": "In compass surveying, what is the 'bearing' of a line?",
+    "options": [
+      "The horizontal angle  measured clockwise  from a reference  direction",
+      "The vertical angle  measured from the  horizontal",
+      "The distance  between two points",
+      "The height of an  object"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 14,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p14.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_174_14",
+    "subject": "Surveying",
+    "originalQuestionNumber": 174,
+    "questionText": "In compass surveying, what is the 'fore bearing'?",
+    "options": [
+      "Bearing from the  initial point to the  observation point",
+      "Bearing from the  observation point to  the initial point",
+      "Bearing measured at  the end of a survey",
+      "Bearing measured at  the midpoint of a  survey"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 14,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p14.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_175_14",
+    "subject": "Surveying",
+    "originalQuestionNumber": 175,
+    "questionText": "In leveling surveying, what does 'back sight' (BS) measure?",
+    "options": [
+      "The height of the  instrument",
+      "The distance to the  benchmark",
+      "The elevation of the  benchmark above  the instrument",
+      "The height of the  target above the  instrument"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 14,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p14.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_176_14",
+    "subject": "Surveying",
+    "originalQuestionNumber": 176,
+    "questionText": "In leveling surveying, what is the purpose of 'reciprocal leveling'?",
+    "options": [
+      "To measure  elevation differences  over long distances",
+      "To correct errors by  taking readings from  two different points",
+      "To check the  accuracy of the  leveling instrument",
+      "To establish a  reference level"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 14,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p14.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_177_14",
+    "subject": "Surveying",
+    "originalQuestionNumber": 177,
+    "questionText": "In leveling, what does the term 'bench mark' refer to?",
+    "options": [
+      "A temporary marker  for measurement",
+      "A fixed reference  point with known  elevation",
+      "The height of the  instrument",
+      "The distance  between two points"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 14,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p14.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_178_14",
+    "subject": "Surveying",
+    "originalQuestionNumber": 178,
+    "questionText": "In leveling, what does the term 'instrument height' (HI) represent?",
+    "options": [
+      "The distance from  the instrument to  the ground",
+      "The distance from  the instrument to  the benchmark",
+      "The elevation of the  instrument above  the benchmark",
+      "The total height of  the leveling staff"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 14,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p14.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_179_14",
+    "subject": "Surveying",
+    "originalQuestionNumber": 179,
+    "questionText": "The angle between two lines is found to be 75° on the compass. If the magnetic declination is 5° East,  what is the true angle?",
+    "options": [
+      "70°",
+      "80°",
+      "75°",
+      "85°"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 14,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p14.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_180_14",
+    "subject": "Surveying",
+    "originalQuestionNumber": 180,
+    "questionText": "The compass survey line has a magnetic bearing of 120° and the declination is 3° West. What is the true  bearing?",
+    "options": [
+      "117°",
+      "123°",
+      "120°",
+      "126°"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 14,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p14.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_181_14",
+    "subject": "Surveying",
+    "originalQuestionNumber": 181,
+    "questionText": "The magnetic declination at a certain location is 5° East. What is the true bearing of a line with a magnetic  bearing of 70°?",
+    "options": [
+      "65°",
+      "75°",
+      "70°",
+      "80°"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 14,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p14.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_182_14",
+    "subject": "Surveying",
+    "originalQuestionNumber": 182,
+    "questionText": "What does a compass survey use to measure horizontal angles between lines?",
+    "options": [
+      "Vernier scale",
+      "Optical level",
+      "Protractor",
+      "Compass"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 14,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p14.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_183_15",
+    "subject": "Surveying",
+    "originalQuestionNumber": 183,
+    "questionText": "What does 'line of sight' refer to in leveling surveying?",
+    "options": [
+      "The distance  between the leveling  instrument and the",
+      "The straight line  along which the  leveling instrument",
+      "The line connecting  two benchmarks",
+      "The height of the  leveling instrument"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 15,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p15.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_184_15",
+    "subject": "Surveying",
+    "originalQuestionNumber": 184,
+    "questionText": "What is the azimuth of a line with a bearing of 45 degrees?",
+    "options": [
+      "target  135°",
+      "is aimed  45°",
+      "225°",
+      "315°"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 15,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p15.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_185_15",
+    "subject": "Surveying",
+    "originalQuestionNumber": 185,
+    "questionText": "What is the correct formula for calculating the reduced level (RL) of a point?",
+    "options": [
+      "RL = HI - FS",
+      "RL = HI + FS",
+      "RL = HI - BS",
+      "RL = BS - HI"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 15,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p15.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_186_15",
+    "subject": "Surveying",
+    "originalQuestionNumber": 186,
+    "questionText": "What is the formula for calculating the height of the instrument in leveling?",
+    "options": [
+      "HI = BS + FS",
+      "HI = BS - FS",
+      "HI = FS - BS",
+      "HI = BS + R"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 15,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p15.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_187_15",
+    "subject": "Surveying",
+    "originalQuestionNumber": 187,
+    "questionText": "What is the instrument commonly used in leveling surveying?",
+    "options": [
+      "Theodolite",
+      "Total Station",
+      "Level",
+      "Compass"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 15,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p15.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_188_15",
+    "subject": "Surveying",
+    "originalQuestionNumber": 188,
+    "questionText": "What is the key purpose of 'profile leveling'?",
+    "options": [
+      "To determine the  relative heights of  features along a line",
+      "To measure the  depth of a well",
+      "To check for errors  in leveling",
+      "To determine the  position of a  benchmark"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 15,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p15.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_189_15",
+    "subject": "Surveying",
+    "originalQuestionNumber": 189,
+    "questionText": "What is the maximum allowable error in a compass survey if the observed error is 15°?",
+    "options": [
+      "5°",
+      "10°",
+      "15°",
+      "20°"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 15,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p15.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_190_15",
+    "subject": "Surveying",
+    "originalQuestionNumber": 190,
+    "questionText": "What is the primary cause of error in compass surveying?",
+    "options": [
+      "Instrument  calibration",
+      "Magnetic declination",
+      "Surveyor's skill",
+      "Distance  measurement"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 15,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p15.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_191_15",
+    "subject": "Surveying",
+    "originalQuestionNumber": 191,
+    "questionText": "What is the primary instrument used in compass surveying?",
+    "options": [
+      "Theodolite",
+      "Level",
+      "Compass",
+      "Tape measure"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 15,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p15.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_192_15",
+    "subject": "Surveying",
+    "originalQuestionNumber": 192,
+    "questionText": "What is the primary purpose of a compass in surveying?",
+    "options": [
+      "Measure distances",
+      "Determine  horizontal angles",
+      "Measure vertical  angles",
+      "Calculate elevations"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 15,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p15.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_193_15",
+    "subject": "Surveying",
+    "originalQuestionNumber": 193,
+    "questionText": "What is the primary purpose of leveling in surveying?",
+    "options": [
+      "Measure angles",
+      "Determine distances",
+      "Establish elevations",
+      "Calculate areas"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 15,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p15.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_194_15",
+    "subject": "Surveying",
+    "originalQuestionNumber": 194,
+    "questionText": "What is the purpose of a 'leveling staff' in leveling surveying?",
+    "options": [
+      "To measure  distances",
+      "To measure angles",
+      "To provide a  reference for  readings",
+      "To correct  instrument errors"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 15,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p15.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_195_15",
+    "subject": "Surveying",
+    "originalQuestionNumber": 195,
+    "questionText": "What is the reduced level (RL) of a point if the height of the instrument is 95 meters and the foresight  reading is 2.3 meters?",
+    "options": [
+      "92.7 meters",
+      "97.3 meters",
+      "93.7 meters",
+      "97.7 meters"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 15,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p15.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_196_15",
+    "subject": "Surveying",
+    "originalQuestionNumber": 196,
+    "questionText": "What is the term for the difference between the fore bearing and back bearing of a line?",
+    "options": [
+      "Angle of deviation",
+      "Angle of intersection",
+      "Included angle",
+      "Angle of closure"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 15,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p15.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_197_15",
+    "subject": "Surveying",
+    "originalQuestionNumber": 197,
+    "questionText": "What type of leveling is used to measure differences in elevation over long distances?",
+    "options": [
+      "Differential leveling",
+      "Reciprocal leveling",
+      "Profile leveling",
+      "Engineering leveling"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 15,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p15.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_198_15",
+    "subject": "Surveying",
+    "originalQuestionNumber": 198,
+    "questionText": "When performing a leveling survey, what is the purpose of 'differential leveling'?",
+    "options": [
+      "To determine the  difference in  elevation between  two points",
+      "To measure the  distance between  two points",
+      "To establish the  elevation of a new  benchmark",
+      "To calculate the  average elevation of  a site"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 15,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p15.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_199_15",
+    "subject": "Surveying",
+    "originalQuestionNumber": 199,
+    "questionText": "Which correction is applied if the survey line's back bearing is not exactly 180° from the fore bearing?",
+    "options": [
+      "Declination  correction",
+      "Standard error  correction",
+      "Angle of deviation  correction",
+      "None"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 15,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p15.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Surveying_200_15",
+    "subject": "Surveying",
+    "originalQuestionNumber": 200,
+    "questionText": "Find the slope of land beteen between point A and B if the RL of point A is 201.135m & RL of Point B is  207.135m and Distance between A & B is 500 m",
+    "options": [
+      "1 : 166.66",
+      "1 : 83.33",
+      "1 : 41.66",
+      "1 : 500"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Surveying.PDF",
+    "sourcePage": 15,
+    "sourcePagePath": "/pdf_pages/Surveying_full_p15.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  }
+]

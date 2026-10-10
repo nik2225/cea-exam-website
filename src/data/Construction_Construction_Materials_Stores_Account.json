@@ -1,0 +1,5702 @@
+[
+  {
+    "id": "Construction_1_1",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 1,
+    "questionText": "53 Grade cement refers to",
+    "options": [
+      "weight of  cement per bag",
+      "strength of  cement",
+      "strength of  concrete",
+      "age of cement"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 1,
+    "sourcePagePath": "/pdf_pages/Construction_full_p1.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_2_1",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 2,
+    "questionText": "FM refers to  ----- material",
+    "options": [
+      "cement",
+      "sand",
+      "aggregates",
+      "lime"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 1,
+    "sourcePagePath": "/pdf_pages/Construction_full_p1.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_3_1",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 3,
+    "questionText": "A beam is defined as a structural member subjected to -----",
+    "options": [
+      "axial loading",
+      "transverse  loading",
+      "axial &  transverse  loading",
+      "none of these"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 1,
+    "sourcePagePath": "/pdf_pages/Construction_full_p1.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_4_1",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 4,
+    "questionText": "A bull nose brick is not used for",
+    "options": [
+      "Rounding off  sharp corners",
+      "Pillars",
+      "Decoration  purpose",
+      "Arches"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 1,
+    "sourcePagePath": "/pdf_pages/Construction_full_p1.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_5_1",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 5,
+    "questionText": "A covering of concrete placed on the exposed top of an external wall, is known as",
+    "options": [
+      "Cornice",
+      "Coping",
+      "Frieze",
+      "Lintel"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 1,
+    "sourcePagePath": "/pdf_pages/Construction_full_p1.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_6_1",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 6,
+    "questionText": "A cut in frame of a door to receive the shutter is called",
+    "options": [
+      "rebate",
+      "louver",
+      "stop",
+      "horn"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 1,
+    "sourcePagePath": "/pdf_pages/Construction_full_p1.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_7_1",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 7,
+    "questionText": "A foundation could fail due to",
+    "options": [
+      "unequal  settlement of  foundation",
+      "unequal  distribution of  load",
+      "horizontal  movement of  earth",
+      "any of these"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 1,
+    "sourcePagePath": "/pdf_pages/Construction_full_p1.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_8_1",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 8,
+    "questionText": "Area enclosed between styles and rails and made up of glass or timber is",
+    "options": [
+      "panel",
+      "louver",
+      "putty",
+      "architrave"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 1,
+    "sourcePagePath": "/pdf_pages/Construction_full_p1.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_9_1",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 9,
+    "questionText": "A floor constructed with the 4 to 6 mm marble chips, is known",
+    "options": [
+      "reinforced  marble",
+      "terrazzo floor",
+      "marble floor",
+      "chip floor"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 1,
+    "sourcePagePath": "/pdf_pages/Construction_full_p1.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_10_1",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 10,
+    "questionText": "A good building stone should not absorb water more than  ----  %",
+    "options": [
+      "5",
+      "10",
+      "15",
+      "20"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 1,
+    "sourcePagePath": "/pdf_pages/Construction_full_p1.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_11_1",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 11,
+    "questionText": "A horizontal member of stone, concrete or wood provided to give support for  the vertical· members' of a wooden window, is. called",
+    "options": [
+      "jamb",
+      "reveal",
+      "sill",
+      "quoin"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 1,
+    "sourcePagePath": "/pdf_pages/Construction_full_p1.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_12_1",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 12,
+    "questionText": "A hydraulic structure is designed to withstand",
+    "options": [
+      "seepage forces",
+      "hydraulic jump",
+      "hydraulic  pressure",
+      "all of these"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 1,
+    "sourcePagePath": "/pdf_pages/Construction_full_p1.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_13_2",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 13,
+    "questionText": "A low height wall constructed along the edge of the roof is called",
+    "options": [
+      "gable",
+      "plinth",
+      "parapet",
+      "string course"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 2,
+    "sourcePagePath": "/pdf_pages/Construction_full_p2.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_14_2",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 14,
+    "questionText": "A mortar joint in masonry which is normal to the face of wall is known as",
+    "options": [
+      "Bed joint",
+      "Wall joint",
+      "Cross joint",
+      "Bonded joint"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 2,
+    "sourcePagePath": "/pdf_pages/Construction_full_p2.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_15_2",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 15,
+    "questionText": "A pug mill is used for",
+    "options": [
+      "softening brick  earth",
+      "moulding  brick earth",
+      "tempering  brick earth",
+      "providing  brick earth"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 2,
+    "sourcePagePath": "/pdf_pages/Construction_full_p2.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_16_2",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 16,
+    "questionText": "A series of steps without any platform, break or landing in their direction, is  called",
+    "options": [
+      "riser",
+      "tread",
+      "flight",
+      "nosing"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 2,
+    "sourcePagePath": "/pdf_pages/Construction_full_p2.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_17_2",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 17,
+    "questionText": "A stair should not have pitch more than",
+    "options": [
+      "25",
+      "30",
+      "40",
+      "10"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 2,
+    "sourcePagePath": "/pdf_pages/Construction_full_p2.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_18_2",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 18,
+    "questionText": "A wooden block hinged on post outside a door, is known",
+    "options": [
+      "Cleat",
+      "Stop",
+      "Horn",
+      "None of these"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 2,
+    "sourcePagePath": "/pdf_pages/Construction_full_p2.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_19_2",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 19,
+    "questionText": "According to IS classification, the range of silt size particles is",
+    "options": [
+      "4.75 mm to  2.00 mm",
+      "2.00 mm to  0.425 mm",
+      "0.425 mm to  0.075 mm",
+      "0.075 mm to  0.002 mm"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 2,
+    "sourcePagePath": "/pdf_pages/Construction_full_p2.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_20_2",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 20,
+    "questionText": "After storage for long perid, the strength of cement -----",
+    "options": [
+      "Decreases",
+      "Increases",
+      "Remains  same",
+      "May increase  or decrease"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 2,
+    "sourcePagePath": "/pdf_pages/Construction_full_p2.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_21_2",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 21,
+    "questionText": "An arch constructed with finely dressed stones, is known",
+    "options": [
+      "Ashlar arch",
+      "Rubble arch",
+      "Gauged arch",
+      "Axed arch"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 2,
+    "sourcePagePath": "/pdf_pages/Construction_full_p2.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_22_2",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 22,
+    "questionText": "Anticorrosive paint is -------- in colour",
+    "options": [
+      "Blue",
+      "White",
+      "Black",
+      "Yellow"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 2,
+    "sourcePagePath": "/pdf_pages/Construction_full_p2.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_23_2",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 23,
+    "questionText": "Approximate density of concrete shall be ---- Kg/m^3",
+    "options": [
+      "1200",
+      "1800",
+      "2240",
+      "3000"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 2,
+    "sourcePagePath": "/pdf_pages/Construction_full_p2.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_24_2",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 24,
+    "questionText": "As compared to stretcher course, the thickness of joints in header course should  be",
+    "options": [
+      "less",
+      "more",
+      "equal",
+      "equal or more"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 2,
+    "sourcePagePath": "/pdf_pages/Construction_full_p2.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_25_2",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 25,
+    "questionText": "As per I.S. specifications temperature for curing is -----      0C",
+    "options": [
+      "10",
+      "27",
+      "17",
+      "42"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 2,
+    "sourcePagePath": "/pdf_pages/Construction_full_p2.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_26_2",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 26,
+    "questionText": "Auger is used for",
+    "options": [
+      "Painting",
+      "Deep boring",
+      "Brick masonry",
+      "None of these"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 2,
+    "sourcePagePath": "/pdf_pages/Construction_full_p2.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_27_2",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 27,
+    "questionText": "Best ballast contains stones varying in size from",
+    "options": [
+      "1.5 cm to 3 cm",
+      "2.0 cm to 4 cm",
+      "2.0 cm to 5  cm",
+      "2.5 cm to 6 cm"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 2,
+    "sourcePagePath": "/pdf_pages/Construction_full_p2.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_28_2",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 28,
+    "questionText": "Bitumen may be dissolved in",
+    "options": [
+      "Carbon dioxide",
+      "Water",
+      "Sodium  chloride",
+      "Carbon  disulphide"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 2,
+    "sourcePagePath": "/pdf_pages/Construction_full_p2.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_29_2",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 29,
+    "questionText": "Broader classification of parts of building indicates",
+    "options": [
+      "substructure",
+      "plinth",
+      "superstructur e",
+      "all of these"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 2,
+    "sourcePagePath": "/pdf_pages/Construction_full_p2.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_30_2",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 30,
+    "questionText": "Cast iron pipes are generally preferred  because",
+    "options": [
+      "of moderate  cost",
+      "of ease to join",
+      "of durability",
+      "all of these"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 2,
+    "sourcePagePath": "/pdf_pages/Construction_full_p2.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_31_3",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 31,
+    "questionText": "CBR is short form of ---",
+    "options": [
+      "California  Bearing Right",
+      "Colombia  Bearing Ratio",
+      "Cambodia  Base Ratio",
+      "California  Bearing Ratio"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 3,
+    "sourcePagePath": "/pdf_pages/Construction_full_p3.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_32_3",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 32,
+    "questionText": "Cement older than 3 months losses its strength by -----",
+    "options": [
+      "30 %",
+      "10 %",
+      "20 %",
+      "50 %"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 3,
+    "sourcePagePath": "/pdf_pages/Construction_full_p3.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_33_3",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 33,
+    "questionText": "Coarse grained soils are best compacted by a",
+    "options": [
+      "drum roller",
+      "rubber tyred  roller",
+      "sheep's foot  roller",
+      "vibratory roller"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 3,
+    "sourcePagePath": "/pdf_pages/Construction_full_p3.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_34_3",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 34,
+    "questionText": "Colour of granite is",
+    "options": [
+      "grey",
+      "green",
+      "brown",
+      "all of these"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 3,
+    "sourcePagePath": "/pdf_pages/Construction_full_p3.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_35_3",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 35,
+    "questionText": "Compression of soil occurs rapidly if voids are filled with",
+    "options": [
+      "air",
+      "water",
+      "partly with air  and partly  with water",
+      "none of these"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 3,
+    "sourcePagePath": "/pdf_pages/Construction_full_p3.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_36_3",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 36,
+    "questionText": "Construction joints are generally provided in concrete for--",
+    "options": [
+      "roads",
+      "retaining walls",
+      "lining of  canals",
+      "all of these"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 3,
+    "sourcePagePath": "/pdf_pages/Construction_full_p3.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_37_3",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 37,
+    "questionText": "COT means",
+    "options": [
+      "Cut Off Test",
+      "Cut Off Trench",
+      "Cum On Test",
+      "Cushion Of  Trench"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 3,
+    "sourcePagePath": "/pdf_pages/Construction_full_p3.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_38_3",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 38,
+    "questionText": "Crushing strength of a good building stone should be more than",
+    "options": [
+      "50 MPa",
+      "100 MPa",
+      "150 MPa",
+      "200 MPa"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 3,
+    "sourcePagePath": "/pdf_pages/Construction_full_p3.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_39_3",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 39,
+    "questionText": "Curing of concrete is done to have –",
+    "options": [
+      "Better  appearance",
+      "Become  Strong and  durable",
+      "Optimize use  of cement  content",
+      "None of these"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 3,
+    "sourcePagePath": "/pdf_pages/Construction_full_p3.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_40_3",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 40,
+    "questionText": "Curing of pavements, floors, roofs and slabs, is done by",
+    "options": [
+      "Membrane  method",
+      "Ponding  method",
+      "Covering  surface with  bags",
+      "Sprinkling  water method"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 3,
+    "sourcePagePath": "/pdf_pages/Construction_full_p3.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_41_3",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 41,
+    "questionText": "DSR means",
+    "options": [
+      "District Simple  Rates",
+      "Dams Simple  Rates",
+      "District  Schedule of  Rise",
+      "District  Schedule of  Rates"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 3,
+    "sourcePagePath": "/pdf_pages/Construction_full_p3.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_42_3",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 42,
+    "questionText": "Duco is one of the patent forms of",
+    "options": [
+      "emulsion paints",
+      "plastic paints",
+      "bituminous  paints",
+      "cellulose  paints"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 3,
+    "sourcePagePath": "/pdf_pages/Construction_full_p3.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_43_3",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 43,
+    "questionText": "Durability of building stone is affected by its",
+    "options": [
+      "Chemical  composition",
+      "Texture",
+      "Resistance to  atmosphere",
+      "All of these"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 3,
+    "sourcePagePath": "/pdf_pages/Construction_full_p3.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_44_3",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 44,
+    "questionText": "Effective length of beam is the ------------distance between two adjacent columns",
+    "options": [
+      "center to center",
+      "end to end",
+      "wall to wall",
+      "none of these"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 3,
+    "sourcePagePath": "/pdf_pages/Construction_full_p3.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_45_4",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 45,
+    "questionText": "Effective stress on soil",
+    "options": [
+      "increases voids  ratio and  decreases  permeability",
+      "increases both  voids ratio and  permeability",
+      "decreases  both voids  ratio and  permeability",
+      "decreases  voids ratio and  increases  permeability"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 4,
+    "sourcePagePath": "/pdf_pages/Construction_full_p4.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_46_4",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 46,
+    "questionText": "Every header is placed centrally over the stretcher below it in",
+    "options": [
+      "English bond",
+      "Flemish bond",
+      "Stretcher  bond",
+      "Header bond"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 4,
+    "sourcePagePath": "/pdf_pages/Construction_full_p4.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_47_4",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 47,
+    "questionText": "Excess of alumina in brick earth makes the brick",
+    "options": [
+      "impermeable",
+      "brittle and  weak",
+      "to lose  cohesion",
+      "to crack and  warp on drying"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 4,
+    "sourcePagePath": "/pdf_pages/Construction_full_p4.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_48_4",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 48,
+    "questionText": "Filling in cavities with cement slurry is known as",
+    "options": [
+      "coping",
+      "beam-filling",
+      "grouting",
+      "gunniting"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 4,
+    "sourcePagePath": "/pdf_pages/Construction_full_p4.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_49_4",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 49,
+    "questionText": "Fineness modulus of sand is obtained by --",
+    "options": [
+      "sand bathe",
+      "screening",
+      "sand bulking",
+      "sieve analysis"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 4,
+    "sourcePagePath": "/pdf_pages/Construction_full_p4.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_50_4",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 50,
+    "questionText": "First class timber has an average life of",
+    "options": [
+      "Less than one  year",
+      "1 to 5 years",
+      "5 to 10 years",
+      "More than 10  years"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 4,
+    "sourcePagePath": "/pdf_pages/Construction_full_p4.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_51_4",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 51,
+    "questionText": "Flooring measurements are taken on the basis of  –",
+    "options": [
+      "unit length",
+      "unit area",
+      "unit cubic  content",
+      "all of these"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 4,
+    "sourcePagePath": "/pdf_pages/Construction_full_p4.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_52_4",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 52,
+    "questionText": "For ensuring quality of concrete, use ----  aggregates",
+    "options": [
+      "single size",
+      "two sized",
+      "well graded",
+      "coarse"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 4,
+    "sourcePagePath": "/pdf_pages/Construction_full_p4.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_53_4",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 53,
+    "questionText": "For RCC construction the maximum size of coarse aggregate is limited to",
+    "options": [
+      "10 mm",
+      "15 mm",
+      "20 mm",
+      "25 mm"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 4,
+    "sourcePagePath": "/pdf_pages/Construction_full_p4.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_54_4",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 54,
+    "questionText": "For testing compressive and tensile strength of cement, the cement mortar is  made by mixing cement and standard sand in the proportions of",
+    "options": [
+      "1 : 2",
+      "1 : 3",
+      "1 : 4",
+      "1 : 6"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 4,
+    "sourcePagePath": "/pdf_pages/Construction_full_p4.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_55_4",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 55,
+    "questionText": "For testing compressive strength of cement, the size of cube used is",
+    "options": [
+      "50 mm",
+      "70.6 mm",
+      "100 mm",
+      "150 mm"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 4,
+    "sourcePagePath": "/pdf_pages/Construction_full_p4.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_56_4",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 56,
+    "questionText": "For walls, columns and vertical faces of all structural members, the form work is  generally removed after",
+    "options": [
+      "1 to 2 days",
+      "3 days",
+      "7 days",
+      "14 days"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 4,
+    "sourcePagePath": "/pdf_pages/Construction_full_p4.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_57_4",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 57,
+    "questionText": "Glazing of clay products, is done",
+    "options": [
+      "To improve their  appearance",
+      "To protect  them from  atmospheric  effect",
+      "To protect  them from  corrosive  action",
+      "All of these"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 4,
+    "sourcePagePath": "/pdf_pages/Construction_full_p4.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_58_5",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 58,
+    "questionText": "Gypsum is a    -----   type of rock",
+    "options": [
+      "mechanically  formed  sedimentary",
+      "igneous",
+      "chemically  precipitated  sedimentary",
+      "metamorphic"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 5,
+    "sourcePagePath": "/pdf_pages/Construction_full_p5.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_59_5",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 59,
+    "questionText": "If height of the first storey of a building is 3.2 m and riser is 13 cm, the number of  treads required, is",
+    "options": [
+      "12",
+      "18",
+      "24",
+      "25"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 5,
+    "sourcePagePath": "/pdf_pages/Construction_full_p5.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_60_5",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 60,
+    "questionText": "If the degree of saturation of a partially saturated soil is 0%, then air content of  the soil is",
+    "options": [
+      "0.4",
+      "0.6",
+      "0.8",
+      "1"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 5,
+    "sourcePagePath": "/pdf_pages/Construction_full_p5.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_61_5",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 61,
+    "questionText": "If the soil is water logged, its bearing capacity may be improved by",
+    "options": [
+      "grouting",
+      "drainage",
+      "compaction",
+      "chemical  treatment"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 5,
+    "sourcePagePath": "/pdf_pages/Construction_full_p5.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_62_5",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 62,
+    "questionText": "In a mortar, the binding material is",
+    "options": [
+      "Cement",
+      "Sand",
+      "Surkhi",
+      "Cinder"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 5,
+    "sourcePagePath": "/pdf_pages/Construction_full_p5.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_63_5",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 63,
+    "questionText": "In a public building, the stairs should be located near the  ---of building.",
+    "options": [
+      "entrance",
+      "centre,",
+      "end",
+      "toilet"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 5,
+    "sourcePagePath": "/pdf_pages/Construction_full_p5.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_64_5",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 64,
+    "questionText": "In M-20 concrete, M represents ----",
+    "options": [
+      "Material size",
+      "Mix",
+      "Mass  concrete",
+      "Maximum size"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 5,
+    "sourcePagePath": "/pdf_pages/Construction_full_p5.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_65_5",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 65,
+    "questionText": "In order to obtain the best workability of concrete, the preferred shape of  aggregate is",
+    "options": [
+      "rounded",
+      "elongated",
+      "angular",
+      "all of these"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 5,
+    "sourcePagePath": "/pdf_pages/Construction_full_p5.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_66_5",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 66,
+    "questionText": "In the soundness test, the whole assembly is immersed in water for",
+    "options": [
+      "30 minutes",
+      "1 hour",
+      "24 hours",
+      "48 hours"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 5,
+    "sourcePagePath": "/pdf_pages/Construction_full_p5.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_67_5",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 67,
+    "questionText": "In Vicat test, the final setting is assumed when the attachment of the needle fails  to make any impression on the mould but the needle",
+    "options": [
+      "Penetrates the  sample by 5 mm",
+      "makes just an  impression on  the sample",
+      "does not  penetrate the  sample",
+      "pierce the  sample by 10  mm"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 5,
+    "sourcePagePath": "/pdf_pages/Construction_full_p5.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_68_5",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 68,
+    "questionText": "IRC long form is",
+    "options": [
+      "Inter Road  committee",
+      "Indian Road  Committee",
+      "International  Road  Congress",
+      "Indian Road  Congress"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 5,
+    "sourcePagePath": "/pdf_pages/Construction_full_p5.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_69_5",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 69,
+    "questionText": "LDPE is short form of ---",
+    "options": [
+      "Least Density  Poly Ethylene",
+      "Low Density  Poly Ethylene",
+      "Low Density  Phase of  Ethylene",
+      "Low Density  Phase  Economy"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 5,
+    "sourcePagePath": "/pdf_pages/Construction_full_p5.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_70_5",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 70,
+    "questionText": "Le Chatelier's device is used for determining the",
+    "options": [
+      "setting time of  cement",
+      "soundness of  cement",
+      "tensile  strength of  cement",
+      "compressive  strength of  cement"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 5,
+    "sourcePagePath": "/pdf_pages/Construction_full_p5.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_71_6",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 71,
+    "questionText": "Lean to roof is used generally",
+    "options": [
+      "in verandahs",
+      "out houses",
+      "for small  sheds",
+      "any of these"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 6,
+    "sourcePagePath": "/pdf_pages/Construction_full_p6.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_72_6",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 72,
+    "questionText": "Linseed oil in paint is Used as a",
+    "options": [
+      "base",
+      "thinner",
+      "carrier",
+      "pigment"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 6,
+    "sourcePagePath": "/pdf_pages/Construction_full_p6.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_73_6",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 73,
+    "questionText": "M-10 grade of concrete means",
+    "options": [
+      "1 : 3 : 6 mix",
+      "1 : 1 : 2 mix",
+      "1 : 2 : 4 mix",
+      "1 : 1.5 : 3 mix"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 6,
+    "sourcePagePath": "/pdf_pages/Construction_full_p6.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_74_6",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 74,
+    "questionText": "Marble is an example of ----",
+    "options": [
+      "aqueous rock",
+      "metamorphic  rock",
+      "sedimentary  rock",
+      "igneous rock"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 6,
+    "sourcePagePath": "/pdf_pages/Construction_full_p6.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_75_6",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 75,
+    "questionText": "Mastic asphalt is normally used for",
+    "options": [
+      "sound insulation",
+      "water proofing",
+      "fire proofing",
+      "none of these"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 6,
+    "sourcePagePath": "/pdf_pages/Construction_full_p6.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_76_6",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 76,
+    "questionText": "Minimum cover in a slab should neither be less than the diameter of bar nor less  than",
+    "options": [
+      "10 mm",
+      "15 mm",
+      "25 mm",
+      "13 mm"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 6,
+    "sourcePagePath": "/pdf_pages/Construction_full_p6.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_77_6",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 77,
+    "questionText": "Minimum diameter of longitudinal bars in a column is",
+    "options": [
+      "6 mm",
+      "8 mm",
+      "12 mm",
+      "16 mm"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 6,
+    "sourcePagePath": "/pdf_pages/Construction_full_p6.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_78_6",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 78,
+    "questionText": "Minimum grade of concrete to be used in reinforced concrete as per IS:456-1978  is",
+    "options": [
+      "M15",
+      "M20",
+      "M 10",
+      "M25"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 6,
+    "sourcePagePath": "/pdf_pages/Construction_full_p6.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_79_6",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 79,
+    "questionText": "Minimum thickness of load bearing RCC wall should be",
+    "options": [
+      "50 mm",
+      "100 mm",
+      "150 mm",
+      "200 mm"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 6,
+    "sourcePagePath": "/pdf_pages/Construction_full_p6.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_80_6",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 80,
+    "questionText": "Minimum width of landing should be",
+    "options": [
+      "equal to width  of stairs",
+      "half the width  of stairs",
+      "twice the  width of stairs",
+      "one fourth the  width of stairs"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 6,
+    "sourcePagePath": "/pdf_pages/Construction_full_p6.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_81_6",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 81,
+    "questionText": "MSA stands for –",
+    "options": [
+      "Master Sieve  Analysis",
+      "Mild Steel  Angle",
+      "Minimum size  of Aggregate",
+      "Maximum size  of Aggregate"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 6,
+    "sourcePagePath": "/pdf_pages/Construction_full_p6.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_82_6",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 82,
+    "questionText": "NMC means",
+    "options": [
+      "Net Moisture  Content",
+      "Nominal Mix  Content",
+      "Nominal  Moisture",
+      "Net Mean  Competition"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 6,
+    "sourcePagePath": "/pdf_pages/Construction_full_p6.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_83_6",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 83,
+    "questionText": "No. of cement bags required for 2 cum of concrete 1:2:4 nearly are –",
+    "options": [
+      "6",
+      "9",
+      "Content 13",
+      "20"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 6,
+    "sourcePagePath": "/pdf_pages/Construction_full_p6.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_84_6",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 84,
+    "questionText": "Number of bricks required for one cubic meter of brick masonry is",
+    "options": [
+      "400",
+      "450",
+      "500",
+      "600"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 6,
+    "sourcePagePath": "/pdf_pages/Construction_full_p6.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_85_6",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 85,
+    "questionText": "ODD means",
+    "options": [
+      "Observed Dry  Density",
+      "Open Dry  Density",
+      "Optimum Dry  Density",
+      "Optimum Day  Density"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 6,
+    "sourcePagePath": "/pdf_pages/Construction_full_p6.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_86_6",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 86,
+    "questionText": "One cement bag is equal to      ----------       liter by volume",
+    "options": [
+      "10",
+      "15",
+      "25",
+      "35"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 6,
+    "sourcePagePath": "/pdf_pages/Construction_full_p6.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_87_6",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 87,
+    "questionText": "Paints with white lead base are suitable for painting of",
+    "options": [
+      "wood work",
+      "iron work",
+      "both wood  work and iron  work",
+      "none of these"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 6,
+    "sourcePagePath": "/pdf_pages/Construction_full_p6.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_88_7",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 88,
+    "questionText": "Particles of 0.002 mm size are that of",
+    "options": [
+      "Clay",
+      "Sand",
+      "Gravel",
+      "None of these"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 7,
+    "sourcePagePath": "/pdf_pages/Construction_full_p7.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_89_7",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 89,
+    "questionText": "Pick up the correct statement",
+    "options": [
+      "DPC should be  continuous",
+      "DPC should be  of good  impervious",
+      "DPC may be  horizontal or  vertical",
+      "All of these"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 7,
+    "sourcePagePath": "/pdf_pages/Construction_full_p7.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_90_7",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 90,
+    "questionText": "Pitched and sloping roofs are suitable for",
+    "options": [
+      "coastal regions",
+      "material plain regions",
+      "covering  large areas",
+      "all of these"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 7,
+    "sourcePagePath": "/pdf_pages/Construction_full_p7.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_91_7",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 91,
+    "questionText": "Plaster of Paris is obtained by calcining",
+    "options": [
+      "Bauxite",
+      "Gypsum",
+      "Lime stone",
+      "None of these"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 7,
+    "sourcePagePath": "/pdf_pages/Construction_full_p7.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_92_7",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 92,
+    "questionText": "Platform at the end of series of steps is known as ……",
+    "options": [
+      "Stop",
+      "Relaxing",
+      "Landing",
+      "railings"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 7,
+    "sourcePagePath": "/pdf_pages/Construction_full_p7.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_93_7",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 93,
+    "questionText": "Prestressed concrete highly loaded columns, are laid in proportion",
+    "options": [
+      "1 : 4 : 8",
+      "1 : 2 : 4",
+      "1 : 1.5: 3",
+      "1 : 3 : 6"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 7,
+    "sourcePagePath": "/pdf_pages/Construction_full_p7.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_94_7",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 94,
+    "questionText": "Residual soils are formed by",
+    "options": [
+      "glaciers",
+      "wind",
+      "water",
+      "none of these"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 7,
+    "sourcePagePath": "/pdf_pages/Construction_full_p7.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_95_7",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 95,
+    "questionText": "Rich cement mortars are more liable to cracking as compared to lean mortars  because rich mortars have",
+    "options": [
+      "high shrinkage",
+      "less strength",
+      "both of these",
+      "none of these"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 7,
+    "sourcePagePath": "/pdf_pages/Construction_full_p7.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_96_7",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 96,
+    "questionText": "RMC is short form of --",
+    "options": [
+      "Real Metal Chart",
+      "Ready Mix  Concrete",
+      "Real Moisture  Content",
+      "Rational Mix  Concrete"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 7,
+    "sourcePagePath": "/pdf_pages/Construction_full_p7.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_97_7",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 97,
+    "questionText": "Rocks formed due to alteration of original structure due to heat and excessive  pressure are called",
+    "options": [
+      "sedimentary  rock",
+      "igneous rock",
+      "metamorphic  rock",
+      "none of these"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 7,
+    "sourcePagePath": "/pdf_pages/Construction_full_p7.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_98_7",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 98,
+    "questionText": "SLTAC is abbreviated for",
+    "options": [
+      "State Level  Technical  Advisory Council",
+      "State Level  Technical  Advisory",
+      "State Level  Technical  Admission",
+      "State Level  Technical  Advertising"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 7,
+    "sourcePagePath": "/pdf_pages/Construction_full_p7.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_99_7",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 99,
+    "questionText": "Slump test is done for",
+    "options": [
+      "clay",
+      "Committee sand",
+      "Committee lime Compressive",
+      "Committee concrete"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 7,
+    "sourcePagePath": "/pdf_pages/Construction_full_p7.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_100_7",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 100,
+    "questionText": "Soundness of cement is tested by",
+    "options": [
+      "Vicat's  apparatus",
+      "Le-chatelier  apparatus",
+      "strength  testing  apparatus",
+      "None of these"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 7,
+    "sourcePagePath": "/pdf_pages/Construction_full_p7.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_101_7",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 101,
+    "questionText": "Soundness test of cement is done to determine its",
+    "options": [
+      "durability in sea  water",
+      "free lime  content",
+      "iron oxide  content",
+      "alumina  content (IES  1994)"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 7,
+    "sourcePagePath": "/pdf_pages/Construction_full_p7.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_102_8",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 102,
+    "questionText": "Spalling hammer is used for",
+    "options": [
+      "driving wooden  headed chisels",
+      "rough dressing  of stones",
+      "carving of  stones",
+      "breaking small  projection of  stones"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 8,
+    "sourcePagePath": "/pdf_pages/Construction_full_p8.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_103_8",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 103,
+    "questionText": "Specific gravity for most of the building stones lies between",
+    "options": [
+      "1.5 to 2.0",
+      "2.0 to 2.5",
+      "2.5 to 2.7",
+      "3.0 to 3.5"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 8,
+    "sourcePagePath": "/pdf_pages/Construction_full_p8.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_104_8",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 104,
+    "questionText": "Steel in RCC beam takes ……",
+    "options": [
+      "Dead load",
+      "live load",
+      "Tension",
+      "Compression"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 8,
+    "sourcePagePath": "/pdf_pages/Construction_full_p8.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_105_8",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 105,
+    "questionText": "Steel quantity is measured in",
+    "options": [
+      "m",
+      "tone",
+      "No.",
+      "2 m"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 8,
+    "sourcePagePath": "/pdf_pages/Construction_full_p8.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_106_8",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 106,
+    "questionText": "Stoke's law is valid only if the size of particle is",
+    "options": [
+      "less than  0.0002 mm",
+      "greater than  0.2 mm",
+      "between 0.2  mm and  0.0002 mm",
+      "all of these"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 8,
+    "sourcePagePath": "/pdf_pages/Construction_full_p8.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_107_8",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 107,
+    "questionText": "Stones used for rubble masonry must be",
+    "options": [
+      "soft",
+      "light",
+      "hard",
+      "heavy"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 8,
+    "sourcePagePath": "/pdf_pages/Construction_full_p8.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_108_8",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 108,
+    "questionText": "The 9 cm x 9 cm side of a brick as seen in the wall face, is generally known as",
+    "options": [
+      "face",
+      "header",
+      "front",
+      "stretcher"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 8,
+    "sourcePagePath": "/pdf_pages/Construction_full_p8.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_109_8",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 109,
+    "questionText": "The ability of a material to resist softening at high temperature is known as",
+    "options": [
+      "creep",
+      "hot tempering",
+      "hot hardness",
+      "fatigue"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 8,
+    "sourcePagePath": "/pdf_pages/Construction_full_p8.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_110_8",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 110,
+    "questionText": "The ability of cement to maintain a constant volume is called",
+    "options": [
+      "flashing",
+      "honeycombing",
+      "soundness",
+      "creep"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 8,
+    "sourcePagePath": "/pdf_pages/Construction_full_p8.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_111_8",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 111,
+    "questionText": "The age of a tree can be known by examining",
+    "options": [
+      "cambium layer",
+      "annular rings",
+      "medullary  rays",
+      "heart wood"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 8,
+    "sourcePagePath": "/pdf_pages/Construction_full_p8.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_112_8",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 112,
+    "questionText": "The angular steps used for changing direction of the stairs, are called",
+    "options": [
+      "Round steps",
+      "Angular steps",
+      "Winders",
+      "Radial steps"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 8,
+    "sourcePagePath": "/pdf_pages/Construction_full_p8.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_113_8",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 113,
+    "questionText": "The arrangement made to support an unsafe structure temporarily, is known as",
+    "options": [
+      "Shoring",
+      "Scaffolding",
+      "Underpinning",
+      "Jacking"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 8,
+    "sourcePagePath": "/pdf_pages/Construction_full_p8.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_114_8",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 114,
+    "questionText": "The arrangement of supporting an existing structure by providing supports  underneath is known as",
+    "options": [
+      "shoring",
+      "underpinning",
+      "jacking",
+      "piling"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 8,
+    "sourcePagePath": "/pdf_pages/Construction_full_p8.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_115_8",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 115,
+    "questionText": "The bearing capacity of a water logged soil can be improved by",
+    "options": [
+      "compacting the  soil",
+      "draining the  soil",
+      "increasing  the depth of  foundation",
+      "grouting"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 8,
+    "sourcePagePath": "/pdf_pages/Construction_full_p8.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_116_8",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 116,
+    "questionText": "The black cotton soil",
+    "options": [
+      "Undergoes  volumetric  changes",
+      "Swells  excessively  when wet",
+      "Shrinks  excessively  when dry",
+      "All of these"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 8,
+    "sourcePagePath": "/pdf_pages/Construction_full_p8.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_117_9",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 117,
+    "questionText": "The cavity wall is generally provided for",
+    "options": [
+      "preventing  dampness",
+      "heat insulation",
+      "sound  insulation",
+      "all of these"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/Construction_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_118_9",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 118,
+    "questionText": "The ceiling height of a building is",
+    "options": [
+      "Between ceiling  and ground level",
+      "Between  ceiling and",
+      "Upto roof  above ground",
+      "Upto ceiling  from the"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/Construction_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_119_9",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 119,
+    "questionText": "The cement becomes unsound by the presence of excess",
+    "options": [
+      "Sulphur",
+      "floor level Magnesia",
+      "level Lime",
+      "ground level All of these"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/Construction_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_120_9",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 120,
+    "questionText": "The covering of exposed top of wall is called",
+    "options": [
+      "cornice",
+      "coping",
+      "cramp",
+      "corbel"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/Construction_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_121_9",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 121,
+    "questionText": "The clay soil mainly consists of",
+    "options": [
+      "kaolinites",
+      "montomorilloni te",
+      "illites",
+      "all of these"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/Construction_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_122_9",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 122,
+    "questionText": "The compressive strength of felspar is  ------ quartz",
+    "options": [
+      "equal to",
+      "less than",
+      "more than",
+      "none of these"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/Construction_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_123_9",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 123,
+    "questionText": "The diameter of longitudinal bars of a column should never be less than",
+    "options": [
+      "6 mm",
+      "8 mm",
+      "10 mm",
+      "12 mm"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/Construction_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_124_9",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 124,
+    "questionText": "The dimensions of a half queen closer, are",
+    "options": [
+      "9 cm × 9 cm × 9  cm",
+      "9 cm × 9 cm ×  4.5 cm",
+      "9 cm × 4.5  cm × 9 cm",
+      "1.8 cm × 4.5  cm × 9 cm"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/Construction_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_125_9",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 125,
+    "questionText": "The disease of dry rot in timber is caused by",
+    "options": [
+      "lack of  ventilation",
+      "alternate wet  and dry  conditions",
+      "complete  submergence  in water",
+      "none of these"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/Construction_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_126_9",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 126,
+    "questionText": "The dressing of stone is done",
+    "options": [
+      "immediately  after quarrying",
+      "after seasoning",
+      "after three  months of  quarrying",
+      "just before  building"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/Construction_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_127_9",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 127,
+    "questionText": "The exposed vertical surface left on the sides of an opening after the door or  window frame has been fitted in position, is called",
+    "options": [
+      "jamb",
+      "reveal",
+      "sill",
+      "quoin"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/Construction_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_128_9",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 128,
+    "questionText": "The floor is rubbed with oxalic acid, for making its surface",
+    "options": [
+      "Free from voids",
+      "Glossy",
+      "Durable",
+      "Uniform"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/Construction_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_129_9",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 129,
+    "questionText": "The form work from the underside of slabs, can be removed only after",
+    "options": [
+      "1 day",
+      "4 days",
+      "7 days",
+      "14 days"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/Construction_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_130_9",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 130,
+    "questionText": "The foundation in which a cantilever beam is provided to join two footings is known  as",
+    "options": [
+      "strip footing",
+      "strap footing",
+      "combined  footing",
+      "raft footing"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/Construction_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_131_9",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 131,
+    "questionText": "The frog of the brick in a brick masonry is generally kept on",
+    "options": [
+      "bottom face",
+      "top face",
+      "shorter side",
+      "longer side"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/Construction_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_132_9",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 132,
+    "questionText": "The full form of SBC is",
+    "options": [
+      "Soft Bearing  Capacity",
+      "Safe Bearing  Capacity",
+      "Sand Bearing  Capacity",
+      "Sand Bearing  Content"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 9,
+    "sourcePagePath": "/pdf_pages/Construction_full_p9.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_133_10",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 133,
+    "questionText": "The functions of foundation are",
+    "options": [
+      "minimize  differential  settlement",
+      "to offer  stability  against uplift",
+      "carrying the  loads to firm  strata",
+      "all of these"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Construction_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_134_10",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 134,
+    "questionText": "The grade of concrete generally not used in the reinforced concrete is",
+    "options": [
+      "M-10",
+      "M-15",
+      "M-20",
+      "M-25"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Construction_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_135_10",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 135,
+    "questionText": "The inclined support at the ends & risers of a stair, is known as",
+    "options": [
+      "baluster",
+      "string",
+      "header",
+      "beam"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Construction_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_136_10",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 136,
+    "questionText": "The initial setting time for ordinary Portland cement as per IS specifications  should not be less than",
+    "options": [
+      "10 minutes",
+      "30 minutes",
+      "60 minutes",
+      "600 minutes"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Construction_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_137_10",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 137,
+    "questionText": "The least bearing capacity of soil is that of",
+    "options": [
+      "Hard rock",
+      "Moist clay",
+      "Soft rock",
+      "Coarse sandy  soil"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Construction_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_138_10",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 138,
+    "questionText": "The lime which contains mainly calcium oxide and slacks with water is",
+    "options": [
+      "fat lime",
+      "quick lime",
+      "poor lime",
+      "hydraulic lime"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Construction_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_139_10",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 139,
+    "questionText": "The liquid part of the paint is called",
+    "options": [
+      "pigment",
+      "vehicle",
+      "solvent",
+      "drier"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Construction_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_140_10",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 140,
+    "questionText": "The lower edge of the pitched roof, from where the rain water of the roof  surface drops down, is known as",
+    "options": [
+      "hip",
+      "gable",
+      "ridge",
+      "eaves"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Construction_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_141_10",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 141,
+    "questionText": "The lower half portion between crown and skew back of the arch, is called",
+    "options": [
+      "Spandrel",
+      "Haunch",
+      "Springing",
+      "Soffit"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Construction_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_142_10",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 142,
+    "questionText": "The lower surface of bricks or stone of each course is called as 3 face back bed  front",
+    "options": [
+      "face",
+      "back",
+      "bed",
+      "front"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Construction_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_143_10",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 143,
+    "questionText": "The main constituent of cement which is responsible for initial setting of cement  is",
+    "options": [
+      "dicalcium  silicate",
+      "tricalcium  silicate",
+      "tricalcium  aluminate",
+      "all of these"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Construction_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_144_10",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 144,
+    "questionText": "The main constituent of fly-ash is",
+    "options": [
+      "aluminium oxide",
+      "silica",
+      "ferrous oxide",
+      "all of these"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Construction_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_145_10",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 145,
+    "questionText": "The member which is placed horizontally to support common rafter of a sloping  roof, is",
+    "options": [
+      "Purlin",
+      "Cleat",
+      "Batten",
+      "Strut"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Construction_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_146_10",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 146,
+    "questionText": "The minimum number of main steel bars provided in R.C.C. is",
+    "options": [
+      "rectangular  column is 4",
+      "circular  column is 6",
+      "octagonal  column is 8",
+      "all of these"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Construction_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_147_10",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 147,
+    "questionText": "The mortar of the masonry joints to be covered by painting is raked out at list to  a depth of ….",
+    "options": [
+      "10 mm",
+      "20 mm",
+      "25 mm",
+      "30 mm"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Construction_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_148_10",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 148,
+    "questionText": "The most commonly used admixture which prolongs the setting and hardening  time is",
+    "options": [
+      "gypsum",
+      "calcium  chloride",
+      "sodium  silicate",
+      "all of these"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Construction_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_149_10",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 149,
+    "questionText": "The most commonly used material for damp proofing is",
+    "options": [
+      "bitumen",
+      "paraffin wax",
+      "cement  solution",
+      "cement  concrete"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 10,
+    "sourcePagePath": "/pdf_pages/Construction_full_p10.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_150_11",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 150,
+    "questionText": "The most economical section for a column is.",
+    "options": [
+      "rectangular",
+      "solid round",
+      "flat strip",
+      "tubular section"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Construction_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_151_11",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 151,
+    "questionText": "'E' tender  is used for ……………",
+    "options": [
+      "Carting",
+      "Item rate",
+      "Percentage  Rate",
+      "Store Receipt"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Construction_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_152_11",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 152,
+    "questionText": "A Govt. servant can accumulate  earned leave limited to ----   days",
+    "options": [
+      "100",
+      "120",
+      "300",
+      "200"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Construction_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_153_11",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 153,
+    "questionText": "A Govt. servant, avails …… days earned leave during calendar year",
+    "options": [
+      "10",
+      "12",
+      "8",
+      "15"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Construction_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_154_11",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 154,
+    "questionText": "A Govt. servant, Class  I, II, III, IV can avails …… days casual leave during calendar  year",
+    "options": [
+      "10",
+      "12",
+      "8",
+      "15"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Construction_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_155_11",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 155,
+    "questionText": "According to the definition of \"Week\" under the Act, it is a period of 7 days  beginning at midnight on  ------",
+    "options": [
+      "Sunday",
+      "Monday",
+      "Saturday",
+      "Friday"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Construction_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_156_11",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 156,
+    "questionText": "Accounts Returns of Sub - Divisional Officers  are incorporated in ------ of MPWA",
+    "options": [
+      "Chapter 21",
+      "Chapter 20",
+      "Chapter 12",
+      "Chapter 2"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Construction_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_157_11",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 157,
+    "questionText": "AEE means",
+    "options": [
+      "Add Extra Engine",
+      "Additional  Executive  Engineer",
+      "Assistant  Executive  Engineer",
+      "As Executive  Engineer"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Construction_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_158_11",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 158,
+    "questionText": "AG term is used for",
+    "options": [
+      "Audit General",
+      "Accountant  General",
+      "Audit &  Account",
+      "None of these"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Construction_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_159_11",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 159,
+    "questionText": "Any kind of cash book should be written ………..",
+    "options": [
+      "fortnightly",
+      "monthly",
+      "General weekly",
+      "day to day"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Construction_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_160_11",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 160,
+    "questionText": "Approximately tour advance is sanctioned up to ………..",
+    "options": [
+      "100 %",
+      "75 %",
+      "60 %",
+      "50 %"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Construction_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_161_11",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 161,
+    "questionText": "As per sixth pay commission, increment date of Government          servant / officer is  ………….",
+    "options": [
+      "1st  January",
+      "1st April",
+      "1st July",
+      "1st June"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Construction_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_162_11",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 162,
+    "questionText": "As per the Factories Act \"Adult \"means a person who has completed ...... year of  age. [Sec 2(a)]",
+    "options": [
+      "Fifteenth",
+      "Sixteenth",
+      "Seventeenth",
+      "Eighteenth"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Construction_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_163_11",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 163,
+    "questionText": "BDS abbreviated for",
+    "options": [
+      "Budget Destroy  System",
+      "Budget  Distribution  System",
+      "Beam  Distribution  System",
+      "Baggage  Distribution  System"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Construction_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_164_11",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 164,
+    "questionText": "BOT means",
+    "options": [
+      "Build Open  Transfer",
+      "Beam Operate  Transfer",
+      "Build Operate  Transmit",
+      "Build Operate  Transfer"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 11,
+    "sourcePagePath": "/pdf_pages/Construction_full_p11.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_165_12",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 165,
+    "questionText": "C M P system means ………",
+    "options": [
+      "cash  maintenance  programme",
+      "cash  management  programme",
+      "circle  management  programme",
+      "circle  maintenance  programme"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 12,
+    "sourcePagePath": "/pdf_pages/Construction_full_p12.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_166_12",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 166,
+    "questionText": "C' tender  is used for ……………",
+    "options": [
+      "Departmental  Works",
+      "Lump Sum  Work",
+      "Transportatio n",
+      "Store Receipt"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 12,
+    "sourcePagePath": "/pdf_pages/Construction_full_p12.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_167_12",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 167,
+    "questionText": "COP means –",
+    "options": [
+      "Cash Over Pay",
+      "Carry Over  Payment",
+      "Chest Of  Payment",
+      "Certificate Of  Payment"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 12,
+    "sourcePagePath": "/pdf_pages/Construction_full_p12.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_168_12",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 168,
+    "questionText": "CPM means",
+    "options": [
+      "Critical Path  Minute",
+      "Critical Path  Method",
+      "Central Path  Method",
+      "Cut Paste  Method"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 12,
+    "sourcePagePath": "/pdf_pages/Construction_full_p12.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_169_12",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 169,
+    "questionText": "CSPO used for",
+    "options": [
+      "Central System  of Purchase  Organization",
+      "Central Store  Procurement  Organization",
+      "Central Store  Purchase  Organization",
+      "Central Stem  Purple Organ"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 12,
+    "sourcePagePath": "/pdf_pages/Construction_full_p12.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_170_12",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 170,
+    "questionText": "CWC means",
+    "options": [
+      "Centric Water  Commission",
+      "Central Water  Commission",
+      "Central  Water",
+      "Centage Water  Commission"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 12,
+    "sourcePagePath": "/pdf_pages/Construction_full_p12.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_171_12",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 171,
+    "questionText": "Detailed Completion Report for the work is kept in ------",
+    "options": [
+      "Form No. 62",
+      "Form No. 63",
+      "Committee Form No. 67",
+      "Form No. 69"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 12,
+    "sourcePagePath": "/pdf_pages/Construction_full_p12.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_172_12",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 172,
+    "questionText": "DGS & D  used for",
+    "options": [
+      "Doctor General  of Supplies and  Disposals",
+      "Directorate  General of  System of  Disposals",
+      "Directorate  General of  Supplies and  Disposals",
+      "District  General of  Supplies and  Disposals"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 12,
+    "sourcePagePath": "/pdf_pages/Construction_full_p12.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_173_12",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 173,
+    "questionText": "DLR is short form of",
+    "options": [
+      "Days Labour  Report",
+      "Daily Labour  Right",
+      "Daily Labour  Report",
+      "Dam Labour  Report"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 12,
+    "sourcePagePath": "/pdf_pages/Construction_full_p12.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_174_13",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 174,
+    "questionText": "DPDC used for",
+    "options": [
+      "District Plan  and  Deployment  Committee",
+      "District  Planning and  Development  Council",
+      "District  Planning and  Development  Committee",
+      "Day Plan and  Development  Committee"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 13,
+    "sourcePagePath": "/pdf_pages/Construction_full_p13.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_175_13",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 175,
+    "questionText": "DSR publish every year in a month of",
+    "options": [
+      "June",
+      "July",
+      "March",
+      "January"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 13,
+    "sourcePagePath": "/pdf_pages/Construction_full_p13.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_176_13",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 176,
+    "questionText": "DTP means ……….. Departmental",
+    "options": [
+      "Departmental  Tender Papers",
+      "Draft Tender  Papers",
+      "Departmental   Tender Pros  and Cons",
+      "Draft Drawing  Pen"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 13,
+    "sourcePagePath": "/pdf_pages/Construction_full_p13.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_177_13",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 177,
+    "questionText": "Duplicate & triplicate receipt books are printed in …………",
+    "options": [
+      "Govt. Press",
+      "Private Press",
+      "Central Press",
+      "Local Press"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 13,
+    "sourcePagePath": "/pdf_pages/Construction_full_p13.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_178_13",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 178,
+    "questionText": "EFT means ………………",
+    "options": [
+      "Electrical Fund  Transfer",
+      "Emergency  Fund Transfer",
+      "Emergency  Food  Transplantati on",
+      "Electronic  Fund Transfer"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 13,
+    "sourcePagePath": "/pdf_pages/Construction_full_p13.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_179_13",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 179,
+    "questionText": "EGS Cheque Books should be obtained from ………",
+    "options": [
+      "Commissioner",
+      "Chief  Accounts  Officer",
+      "Collector",
+      "Forest Officer"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 13,
+    "sourcePagePath": "/pdf_pages/Construction_full_p13.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_180_13",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 180,
+    "questionText": "EIRL means  ……………",
+    "options": [
+      "Extra Item  Receipt List",
+      "Ex Item Rate  List",
+      "Extra Item  Rate List",
+      "Extra Ideal  Rate List"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 13,
+    "sourcePagePath": "/pdf_pages/Construction_full_p13.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_181_13",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 181,
+    "questionText": "EMD means",
+    "options": [
+      "Earnest Money  Deposit",
+      "Early Money  Deposit",
+      "Earnest  Monetary  Deposit",
+      "Earnest Money  Deposal"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 13,
+    "sourcePagePath": "/pdf_pages/Construction_full_p13.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_182_13",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 182,
+    "questionText": "Employees Provident Fund arid Miscellaneous Provisions Act. 1952 is applied to  establishments employing not less than",
+    "options": [
+      "10 employees",
+      "20  employees",
+      "50 employees ",
+      "100 employees"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 13,
+    "sourcePagePath": "/pdf_pages/Construction_full_p13.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_183_13",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 183,
+    "questionText": "E-tendering process is compulsory above Rs ………..",
+    "options": [
+      "Rs. 2 lakhs",
+      "Rs. 3 lakhs",
+      "Rs. 11 lakhs",
+      "Rs. 5 lakhs"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 13,
+    "sourcePagePath": "/pdf_pages/Construction_full_p13.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_184_13",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 184,
+    "questionText": "FD means",
+    "options": [
+      "Fixed Dates",
+      "Fixed Deposit",
+      "First Deposit",
+      "Fixed Delay"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 13,
+    "sourcePagePath": "/pdf_pages/Construction_full_p13.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_185_13",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 185,
+    "questionText": "FMC means ………..",
+    "options": [
+      "Force Majoure  Clause",
+      "Free Majoure  Clause",
+      "Free Major  Claims",
+      "None of these"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 13,
+    "sourcePagePath": "/pdf_pages/Construction_full_p13.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_186_14",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 186,
+    "questionText": "For N.M.R. form No. ………… is used",
+    "options": [
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 14,
+    "sourcePagePath": "/pdf_pages/Construction_full_p14.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_187_14",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 187,
+    "questionText": "For Natural calamities head of A/c is …………..",
+    "options": [
+      "2210",
+      "2244",
+      "2245",
+      "2215"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 14,
+    "sourcePagePath": "/pdf_pages/Construction_full_p14.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_188_14",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 188,
+    "questionText": "For pay and allowances which cash book is used,",
+    "options": [
+      "Petty cash book",
+      "Main cash book",
+      "Imprest Cash  Book",
+      "EGS cash book"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 14,
+    "sourcePagePath": "/pdf_pages/Construction_full_p14.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_189_14",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 189,
+    "questionText": "For state Govt. female  servant, maternity leave is granted up to -- days",
+    "options": [
+      "200",
+      "240",
+      "180",
+      "300"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 14,
+    "sourcePagePath": "/pdf_pages/Construction_full_p14.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_190_14",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 190,
+    "questionText": "Form No. - 26 is used for",
+    "options": [
+      "Bin Card",
+      "Post Card",
+      "Petro Card",
+      "Hand Receipt"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 14,
+    "sourcePagePath": "/pdf_pages/Construction_full_p14.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_191_14",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 191,
+    "questionText": "Form No. – 40 used for",
+    "options": [
+      "Nominal Muster  Roll",
+      "Daily Labour  Report",
+      "Un Stamped  Receipt",
+      "Transfer Entry  Order"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 14,
+    "sourcePagePath": "/pdf_pages/Construction_full_p14.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_192_14",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 192,
+    "questionText": "Form No. – 45 used for",
+    "options": [
+      "Measurement  Book",
+      "Cash Book",
+      "Field Book",
+      "Hand Book"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 14,
+    "sourcePagePath": "/pdf_pages/Construction_full_p14.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_193_14",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 193,
+    "questionText": "Form No. – 53 purpose is",
+    "options": [
+      "Un Stamped  Receipt",
+      "Up Sand  Receipt",
+      "Upper Stand  Rest",
+      "Un Stamped  Rest"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 14,
+    "sourcePagePath": "/pdf_pages/Construction_full_p14.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_194_14",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 194,
+    "questionText": "Form No. – 56 used for",
+    "options": [
+      "Work Abstract A",
+      "Work Abstract  B",
+      "Work  Abstract C",
+      "Work Abstract  D"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 14,
+    "sourcePagePath": "/pdf_pages/Construction_full_p14.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_195_14",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 195,
+    "questionText": "Form No.– 10 use",
+    "options": [
+      "Field Book",
+      "Cash Book",
+      "Measurement   Book",
+      "Hand Book"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 14,
+    "sourcePagePath": "/pdf_pages/Construction_full_p14.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_196_14",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 196,
+    "questionText": "Form No.- 24 is used for",
+    "options": [
+      "Indent for T & P",
+      "Indent for  special T & P",
+      "Indent for  stores",
+      "Indent for  Samples"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 14,
+    "sourcePagePath": "/pdf_pages/Construction_full_p14.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_197_14",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 197,
+    "questionText": "Form No.– 28 use",
+    "options": [
+      "Receipt Account",
+      "Credit Account",
+      "Both 1 & 2",
+      "Sale Account"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 14,
+    "sourcePagePath": "/pdf_pages/Construction_full_p14.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_198_14",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 198,
+    "questionText": "Form No.– 33 purpose is",
+    "options": [
+      "Statement of T  & P Issue",
+      "Statement of T  & P Receipt",
+      "Statement of  T & P Credit",
+      "Special T & P  credit"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 14,
+    "sourcePagePath": "/pdf_pages/Construction_full_p14.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_199_14",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 199,
+    "questionText": "Form No. 37 stands for …………",
+    "options": [
+      "Dead stock  Register",
+      "Ledger of Tools  & plants",
+      "Ledger of  tolls & points",
+      "Hand Receipt"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 14,
+    "sourcePagePath": "/pdf_pages/Construction_full_p14.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_200_14",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 200,
+    "questionText": "Form No. -42 use",
+    "options": [
+      "Days Labour  Report",
+      "Daily Labour  Right",
+      "Daily Labour  Report",
+      "Dam Labour  Report"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 14,
+    "sourcePagePath": "/pdf_pages/Construction_full_p14.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_201_14",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 201,
+    "questionText": "GIS means …………",
+    "options": [
+      "Geological  information  System",
+      "Government   institutional  system",
+      "Global  Insurance  System",
+      "Group  Insurance  Scheme"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 14,
+    "sourcePagePath": "/pdf_pages/Construction_full_p14.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_202_15",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 202,
+    "questionText": "Govt. money should be remitted in treasury by ……….. challan",
+    "options": [
+      "MTR-8",
+      "MTR-6",
+      "MTR-5",
+      "MTR-10"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 15,
+    "sourcePagePath": "/pdf_pages/Construction_full_p15.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_203_15",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 203,
+    "questionText": "Head for cost of electric consumed in divisional officer of PWD",
+    "options": [
+      "0701 R&R",
+      "2059 PWD &A  office exp.",
+      "0059 PW",
+      "1054 R&B"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 15,
+    "sourcePagePath": "/pdf_pages/Construction_full_p15.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_204_15",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 204,
+    "questionText": "Head of controlling the functions of CADA authorities is called as ---",
+    "options": [
+      "EE",
+      "DE",
+      "Administrator",
+      "CE"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 15,
+    "sourcePagePath": "/pdf_pages/Construction_full_p15.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_205_15",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 205,
+    "questionText": "Headquarter of CDO  is at  ………..",
+    "options": [
+      "Mumbai",
+      "Pune",
+      "Nashik",
+      "Nagpur"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 15,
+    "sourcePagePath": "/pdf_pages/Construction_full_p15.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_206_15",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 206,
+    "questionText": "Headquarter of CWP& RS  is at  ………..",
+    "options": [
+      "Mumbai",
+      "Pune",
+      "Nashik",
+      "Nagpur"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 15,
+    "sourcePagePath": "/pdf_pages/Construction_full_p15.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_207_15",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 207,
+    "questionText": "How many classes are there for the store materials ?",
+    "options": [
+      "1",
+      "3",
+      "2",
+      "4"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 15,
+    "sourcePagePath": "/pdf_pages/Construction_full_p15.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_208_15",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 208,
+    "questionText": "How much earnest money to be recovered from the contractor for civil work  amounting to Rs. Above 2 crore",
+    "options": [
+      "1 %",
+      "0.5 %",
+      "0.75 %",
+      "2 %"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 15,
+    "sourcePagePath": "/pdf_pages/Construction_full_p15.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_209_15",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 209,
+    "questionText": "How much IDC's are created in the state under WRD.",
+    "options": [
+      "7",
+      "5",
+      "8",
+      "4"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 15,
+    "sourcePagePath": "/pdf_pages/Construction_full_p15.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_210_15",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 210,
+    "questionText": "How much labours are reqired to start the new EGS work",
+    "options": [
+      "30",
+      "20",
+      "50",
+      "40"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 15,
+    "sourcePagePath": "/pdf_pages/Construction_full_p15.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_211_15",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 211,
+    "questionText": "How much percentage is required to be exercised by the executive engineer for civil  work",
+    "options": [
+      "100%",
+      "25%",
+      "10%",
+      "5%"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 15,
+    "sourcePagePath": "/pdf_pages/Construction_full_p15.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_212_15",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 212,
+    "questionText": "How much imprest can sanctioned by the EE to the JE",
+    "options": [
+      "Rs. 2000",
+      "Rs. 500",
+      "Rs. 1000",
+      "Rs. 5000"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 15,
+    "sourcePagePath": "/pdf_pages/Construction_full_p15.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_213_15",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 213,
+    "questionText": "How much supervision charges are levied when the material are sold the local  bodies",
+    "options": [
+      "15 %",
+      "2 %",
+      "10 %",
+      "5 %"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 15,
+    "sourcePagePath": "/pdf_pages/Construction_full_p15.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_214_15",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 214,
+    "questionText": "Imprest advance is ………….",
+    "options": [
+      "Transferable",
+      "Recoupable",
+      "Accountable",
+      "Reimbursable"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 15,
+    "sourcePagePath": "/pdf_pages/Construction_full_p15.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_215_15",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 215,
+    "questionText": "In B-1 tender, for extension of time limit, clause is ………",
+    "options": [
+      "6",
+      "8",
+      "5",
+      "3"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 15,
+    "sourcePagePath": "/pdf_pages/Construction_full_p15.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_216_15",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 216,
+    "questionText": "In B-1 tender, for security deposit, clause is ………..",
+    "options": [
+      "2",
+      "3",
+      "1",
+      "4"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 15,
+    "sourcePagePath": "/pdf_pages/Construction_full_p15.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_217_15",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 217,
+    "questionText": "In denture bond is required to be obtained from the contractor for which payment",
+    "options": [
+      "advance  payment",
+      "secured  advance",
+      "running  payment",
+      "F & F payment"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 15,
+    "sourcePagePath": "/pdf_pages/Construction_full_p15.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_218_15",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 218,
+    "questionText": "Income tax recovery from the contractors bill at the rate of 2 % , the concerned  head is ---",
+    "options": [
+      "0021 Taxes on  Income",
+      "071 M&R",
+      "1054 R&B",
+      "0059 PW"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 15,
+    "sourcePagePath": "/pdf_pages/Construction_full_p15.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_219_15",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 219,
+    "questionText": "In electrical concept O.H. means ………..",
+    "options": [
+      "Over head  system",
+      "Optional head  system",
+      "Optional  holiday",
+      "None of these"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 15,
+    "sourcePagePath": "/pdf_pages/Construction_full_p15.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_220_15",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 220,
+    "questionText": "In Kalelkar settlement 1967 ……… demands were approved",
+    "options": [
+      "20",
+      "25",
+      "system 30",
+      "35"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 15,
+    "sourcePagePath": "/pdf_pages/Construction_full_p15.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_221_15",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 221,
+    "questionText": "Inspecting officer for the boiler?",
+    "options": [
+      "EE",
+      "SE",
+      "Boiler  inspector",
+      "Electrical  inspector"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 15,
+    "sourcePagePath": "/pdf_pages/Construction_full_p15.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_222_15",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 222,
+    "questionText": "IR means …………",
+    "options": [
+      "Irrigation  Reports",
+      "Inspection  Report",
+      "Irrigation  Review",
+      "Irrigation  Revenue"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 15,
+    "sourcePagePath": "/pdf_pages/Construction_full_p15.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_223_16",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 223,
+    "questionText": "Joining time on public transfer is allowed up to ……… days",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 16,
+    "sourcePagePath": "/pdf_pages/Construction_full_p16.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_224_16",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 224,
+    "questionText": "Imprest cash account is kept in Form -No.   --",
+    "options": [
+      "12",
+      "18",
+      "24",
+      "35"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 16,
+    "sourcePagePath": "/pdf_pages/Construction_full_p16.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_225_16",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 225,
+    "questionText": "LBT means ………",
+    "options": [
+      "Local Body  Tender",
+      "Large Bid  Tenders",
+      "Local Body  Tax",
+      "None of these"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 16,
+    "sourcePagePath": "/pdf_pages/Construction_full_p16.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_226_16",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 226,
+    "questionText": "Loans to Govt. Servant is granted under head of account is ……….",
+    "options": [
+      "7609",
+      "7610",
+      "7615",
+      "7620"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 16,
+    "sourcePagePath": "/pdf_pages/Construction_full_p16.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_227_16",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 227,
+    "questionText": "LOC means",
+    "options": [
+      "Letter Of Credit",
+      "Letter Of  Comments",
+      "Letter Of  Cards",
+      "Letter Of  Camps"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 16,
+    "sourcePagePath": "/pdf_pages/Construction_full_p16.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_228_16",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 228,
+    "questionText": "Major head of Expenditure of E.G.S. is …",
+    "options": [
+      "2505",
+      "2701",
+      "2059",
+      "4705"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 16,
+    "sourcePagePath": "/pdf_pages/Construction_full_p16.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_229_16",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 229,
+    "questionText": "Material from departmental stock is issued to the contractor on…",
+    "options": [
+      "USR",
+      "DSR",
+      "DLR",
+      "NMR"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 16,
+    "sourcePagePath": "/pdf_pages/Construction_full_p16.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_230_16",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 230,
+    "questionText": "Measurements are recorded on ………..",
+    "options": [
+      "after 3 days",
+      "after fortnight",
+      "after one  month",
+      "spot"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 16,
+    "sourcePagePath": "/pdf_pages/Construction_full_p16.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_231_16",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 231,
+    "questionText": "Mention one of the function of Divisional Account.",
+    "options": [
+      "Financial  Assistance",
+      "Administrative  Control",
+      "Site  inspection",
+      "Store  Verification"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 16,
+    "sourcePagePath": "/pdf_pages/Construction_full_p16.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_232_16",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 232,
+    "questionText": "MOU means",
+    "options": [
+      "Member Of  Understanding",
+      "Memo Of  Unwilling",
+      "Memo Of  Undercut",
+      "Memo Of  Understanding"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 16,
+    "sourcePagePath": "/pdf_pages/Construction_full_p16.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_233_16",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 233,
+    "questionText": "MPWM used for",
+    "options": [
+      "Maharashtra  Public Works  Mains",
+      "Maharashtra  People Works  Manual",
+      "Maharashtra  Public Works  Manual",
+      "MP Public  Works Manual"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 16,
+    "sourcePagePath": "/pdf_pages/Construction_full_p16.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_234_16",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 234,
+    "questionText": "MSA Long form is                                                                                                                                                              4",
+    "options": [
+      "Master Site  Account",
+      "Mineral Site  Account",
+      "Material  Site  Assets",
+      "Material  Site  Account"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 16,
+    "sourcePagePath": "/pdf_pages/Construction_full_p16.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_235_16",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 235,
+    "questionText": "MWSIP is abbreviation of",
+    "options": [
+      "Maharashtra  Water Sector  Improvement  Programme",
+      "Maharashtra  Water Sector  Improvement  Project",
+      "Maharashtra  Water Sector  Impeachment   Project",
+      "Maharashtra  Waste System  Improvement  Project"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 16,
+    "sourcePagePath": "/pdf_pages/Construction_full_p16.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_236_16",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 236,
+    "questionText": "NMR means",
+    "options": [
+      "Net Muster Roll",
+      "Not My Roll",
+      "National  Muster Roll",
+      "Nominal  Muster Roll"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 16,
+    "sourcePagePath": "/pdf_pages/Construction_full_p16.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_237_16",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 237,
+    "questionText": "Nominal muster roll contains…………..parts",
+    "options": [
+      "5",
+      "4",
+      "3",
+      "2"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 16,
+    "sourcePagePath": "/pdf_pages/Construction_full_p16.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_238_16",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 238,
+    "questionText": "NPS means …………..",
+    "options": [
+      "Nominal  Pension Scheme",
+      "National  Private Scheme",
+      "Nominal  Private  System",
+      "National  Pension  Scheme"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 16,
+    "sourcePagePath": "/pdf_pages/Construction_full_p16.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_239_17",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 239,
+    "questionText": "On what basis temporary advance is paid to the Sub Divisional Officer",
+    "options": [
+      "for petty  expenses",
+      "for purchase of  POL",
+      "for purchase  of stationery",
+      "passed  vouchers"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 17,
+    "sourcePagePath": "/pdf_pages/Construction_full_p17.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_240_17",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 240,
+    "questionText": "Preservation period of note books",
+    "options": [
+      "5 years",
+      "after  completion 10",
+      "20 years",
+      "15 years"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 17,
+    "sourcePagePath": "/pdf_pages/Construction_full_p17.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_241_17",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 241,
+    "questionText": "Pay & allowance bill of staff is submitted to try in ……….. bill form",
+    "options": [
+      "MTR-19",
+      "years MTR-19-A",
+      "MTR-19-B",
+      "MTR-18"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 17,
+    "sourcePagePath": "/pdf_pages/Construction_full_p17.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_242_17",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 242,
+    "questionText": "PAY BILL OF WORK-CHARGED ESTABLISHMENT is submitted in -----",
+    "options": [
+      "Form No. 48 Programme",
+      "Form No. 59 Project",
+      "Form No. 80 Project",
+      "Form No. 51"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 17,
+    "sourcePagePath": "/pdf_pages/Construction_full_p17.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_243_17",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 243,
+    "questionText": "PERT stand for",
+    "options": [
+      "Programe Evaluation  Research Technique",
+      "Project Evaluation  Research Terms ",
+      "Project Evaluation  Research Technique",
+      "Project Early  Research  Technique"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 17,
+    "sourcePagePath": "/pdf_pages/Construction_full_p17.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_244_17",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 244,
+    "questionText": "POA means",
+    "options": [
+      "Technique Power Of  Attorney",
+      "Terms Power Of  Authority",
+      "Technique Power Of  Account",
+      "Payment Of  Authority"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 17,
+    "sourcePagePath": "/pdf_pages/Construction_full_p17.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_245_17",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 245,
+    "questionText": "POL used for",
+    "options": [
+      "Petrol Oil  Linseed",
+      "Petrol Oil  Lubricants",
+      "Pay Oil  Lubricants",
+      "Pay On  Lubricants"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 17,
+    "sourcePagePath": "/pdf_pages/Construction_full_p17.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_246_17",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 246,
+    "questionText": "Powers to accord technical sanction to original works (Civil) to SE is Rs. ………..",
+    "options": [
+      "350 lakhs",
+      "5 crores",
+      "4 lakhs",
+      "250 lakhs"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 17,
+    "sourcePagePath": "/pdf_pages/Construction_full_p17.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_247_17",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 247,
+    "questionText": "PPO means ………",
+    "options": [
+      "Pension  Payment Order",
+      "Payment of  Personal Order",
+      "Payment of  Pension  Organisation",
+      "Personal  Pension Order"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 17,
+    "sourcePagePath": "/pdf_pages/Construction_full_p17.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_248_17",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 248,
+    "questionText": "Rate of annual increment is ………%",
+    "options": [
+      "4",
+      "5",
+      "10",
+      "3"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 17,
+    "sourcePagePath": "/pdf_pages/Construction_full_p17.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_249_17",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 249,
+    "questionText": "Receipts from lift Irrigation Schemes",
+    "options": [
+      "0216 housing",
+      "0059 PW",
+      "1054 R&B",
+      "0702 MI  Receipt"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 17,
+    "sourcePagePath": "/pdf_pages/Construction_full_p17.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_250_17",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 250,
+    "questionText": "Register of dismental material form no. is",
+    "options": [
+      "40",
+      "46",
+      "62",
+      "66"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 17,
+    "sourcePagePath": "/pdf_pages/Construction_full_p17.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_251_17",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 251,
+    "questionText": "Report of annual verification of measurement book submitted to Division by  subdivision is upto",
+    "options": [
+      "1 ST  July",
+      "1 st  September",
+      "31 st March",
+      "31 st April"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 17,
+    "sourcePagePath": "/pdf_pages/Construction_full_p17.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_252_17",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 252,
+    "questionText": "Revenue Receipt Head of Account in PWD is ……",
+    "options": [
+      "Form No. 40",
+      "Form No. 49",
+      "Form No. 56",
+      "Form No. 48"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 17,
+    "sourcePagePath": "/pdf_pages/Construction_full_p17.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_253_17",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 253,
+    "questionText": "Revised power as per GR dt. 16.12.15 to accept tenders to Ex. Engr. Rs. ……… per",
+    "options": [
+      "60 lakhs",
+      "30 lakhs",
+      "20 lakhs",
+      "50 lakhs"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 17,
+    "sourcePagePath": "/pdf_pages/Construction_full_p17.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_254_18",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 254,
+    "questionText": "RSL means",
+    "options": [
+      "Reserved Stock  Limit",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 18,
+    "sourcePagePath": "/pdf_pages/Construction_full_p18.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_255_18",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 255,
+    "questionText": "Running account bill divided in to ……… parts",
+    "options": [
+      "4",
+      "2",
+      "5",
+      "3"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 18,
+    "sourcePagePath": "/pdf_pages/Construction_full_p18.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_256_18",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 256,
+    "questionText": "Secured advance is granted on which material",
+    "options": [
+      "brought to site",
+      "purchasable  material",
+      "material in  the factory",
+      "none of these"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 18,
+    "sourcePagePath": "/pdf_pages/Construction_full_p18.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_257_18",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 257,
+    "questionText": "ST & P abbreviated for",
+    "options": [
+      "Special Tools  and Plants",
+      "Special Tips  and Plans",
+      "Simple Tools  and Plants",
+      "System of  Tools and"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 18,
+    "sourcePagePath": "/pdf_pages/Construction_full_p18.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_258_18",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 258,
+    "questionText": "State the affective date of kalelkar settlement",
+    "options": [
+      "1.10.66",
+      "1.10.67",
+      "1.4.68",
+      "Plants 31.3.67"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 18,
+    "sourcePagePath": "/pdf_pages/Construction_full_p18.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_259_18",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 259,
+    "questionText": "State the defect liability period of New bridge constructed on contractors design",
+    "options": [
+      "1 year",
+      "4 years",
+      "3 years",
+      "5 years"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 18,
+    "sourcePagePath": "/pdf_pages/Construction_full_p18.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_260_18",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 260,
+    "questionText": "Stock ledger is maintained in which form",
+    "options": [
+      "22",
+      "31",
+      "24",
+      "29"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 18,
+    "sourcePagePath": "/pdf_pages/Construction_full_p18.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_261_18",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 261,
+    "questionText": "TEO   means",
+    "options": [
+      "Transfer Entity  Order",
+      "Transmit Entry  Order",
+      "Transfer Entry  Order",
+      "Transfer Entry  OKorder"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 18,
+    "sourcePagePath": "/pdf_pages/Construction_full_p18.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_262_18",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 262,
+    "questionText": "The ----   wing  will under take the maintenance and repairs of heavy earth moving  machinery",
+    "options": [
+      "civil",
+      "mechanical",
+      "electrical",
+      "hydro"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 18,
+    "sourcePagePath": "/pdf_pages/Construction_full_p18.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_263_18",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 263,
+    "questionText": "The cash and stock accounts of the division office for a month are closed on the----- - day of the calendar month.",
+    "options": [
+      "first working",
+      "last working",
+      "fifteenth  working",
+      "2 0 th working"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 18,
+    "sourcePagePath": "/pdf_pages/Construction_full_p18.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_264_18",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 264,
+    "questionText": "The competent authority for fixing of head quarter of sub divisions is",
+    "options": [
+      "Secretary",
+      "CE",
+      "EE",
+      "SE"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 18,
+    "sourcePagePath": "/pdf_pages/Construction_full_p18.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_265_18",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 265,
+    "questionText": "The Factories Act imposes the following obligations upon the employer in regard  to his workers. [Sec 7 A]",
+    "options": [
+      "Health",
+      "Safety",
+      "Welfare",
+      "All of these"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 18,
+    "sourcePagePath": "/pdf_pages/Construction_full_p18.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_266_18",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 266,
+    "questionText": "The field levels are taken in which books",
+    "options": [
+      "Field book",
+      "m' ment book",
+      "note book",
+      "copied from  pits"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 18,
+    "sourcePagePath": "/pdf_pages/Construction_full_p18.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_267_18",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 267,
+    "questionText": "The maximum area of irrigation project done by zilla parishad is …………",
+    "options": [
+      "<100 Ha",
+      ">100 Ha",
+      "100 to 250 Ha",
+      ">250 Ha"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 18,
+    "sourcePagePath": "/pdf_pages/Construction_full_p18.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_268_18",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 268,
+    "questionText": "The nominal muster roll, the measurement book, he work-charged establishment  bills are ------   records for works account",
+    "options": [
+      "Initial",
+      "Final",
+      "Intermediate",
+      "None of these"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 18,
+    "sourcePagePath": "/pdf_pages/Construction_full_p18.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_269_18",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 269,
+    "questionText": "The officer performing  the duties as a adviser to the Govt in legal matters  is ----",
+    "options": [
+      "Secretary",
+      "Remen Brancer",
+      "Advocate  General",
+      "Private pleader"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 18,
+    "sourcePagePath": "/pdf_pages/Construction_full_p18.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_270_18",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 270,
+    "questionText": "The register of Tools & plant is to be maintained in which form",
+    "options": [
+      "24",
+      "30",
+      "34",
+      "35"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 18,
+    "sourcePagePath": "/pdf_pages/Construction_full_p18.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_271_18",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 271,
+    "questionText": "USR means",
+    "options": [
+      "Un Stamped  Receipt",
+      "Up Sand  Receipt",
+      "Upper Stand  Rest",
+      "Un Stamped  Rest"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 18,
+    "sourcePagePath": "/pdf_pages/Construction_full_p18.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_272_19",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 272,
+    "questionText": "Water supplied to the irrigation crops (Receipts)",
+    "options": [
+      "0702 minor R&R",
+      "0059 PW R&R",
+      "0701 M&M,  R&R",
+      "1054 R&B"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 19,
+    "sourcePagePath": "/pdf_pages/Construction_full_p19.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_273_19",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 273,
+    "questionText": "What are the sources from which the monthly A/c of division is compiled.                                (Write any one)",
+    "options": [
+      "cash book",
+      "M.B.",
+      "F.B.",
+      "deposit  register"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 19,
+    "sourcePagePath": "/pdf_pages/Construction_full_p19.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_274_19",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 274,
+    "questionText": "What form for Department execution of work is to be used",
+    "options": [
+      "B1",
+      "A1",
+      "C Planning",
+      "D"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 19,
+    "sourcePagePath": "/pdf_pages/Construction_full_p19.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_275_19",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 275,
+    "questionText": "What is full form of PAC ?",
+    "options": [
+      "Public Accounts  Committee",
+      "Purchase  Account  Committee",
+      "Accounting  Commissioni",
+      "All of these"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 19,
+    "sourcePagePath": "/pdf_pages/Construction_full_p19.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_276_19",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 276,
+    "questionText": "What is the initial record upon which the account of works are based",
+    "options": [
+      "Store A/c",
+      "MB",
+      "ng Work abstract",
+      "work slip"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 19,
+    "sourcePagePath": "/pdf_pages/Construction_full_p19.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_277_19",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 277,
+    "questionText": "What is the limit for sanctioning the imprest to the JE by the EE",
+    "options": [
+      "5000",
+      "1000",
+      "10000",
+      "2000"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 19,
+    "sourcePagePath": "/pdf_pages/Construction_full_p19.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_278_19",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 278,
+    "questionText": "What is the measuring unit of dewatering",
+    "options": [
+      "Rft",
+      "Cft",
+      "BHP",
+      "Rmt"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 19,
+    "sourcePagePath": "/pdf_pages/Construction_full_p19.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_279_19",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 279,
+    "questionText": "What is the period of currency of cheque   -----  after issue date",
+    "options": [
+      "3 month",
+      "4 months",
+      "6 months",
+      "1 month"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 19,
+    "sourcePagePath": "/pdf_pages/Construction_full_p19.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_280_19",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 280,
+    "questionText": "What is the preservation period for  measurement Book -----  after completion of  work",
+    "options": [
+      "10 years",
+      "5 years",
+      "15 years",
+      "25 years"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 19,
+    "sourcePagePath": "/pdf_pages/Construction_full_p19.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_281_19",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 281,
+    "questionText": "What is the preservation period of account of material at site",
+    "options": [
+      "10 years",
+      "3 years",
+      "5 years",
+      "15 years"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 19,
+    "sourcePagePath": "/pdf_pages/Construction_full_p19.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_282_19",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 282,
+    "questionText": "What is the preservation period of arrears of wages",
+    "options": [
+      "5 years",
+      "10 years",
+      "20 years",
+      "3 years"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 19,
+    "sourcePagePath": "/pdf_pages/Construction_full_p19.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_283_19",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 283,
+    "questionText": "What is the preservation period of canal return.",
+    "options": [
+      "20 years",
+      "25 years",
+      "50 years",
+      "30 years"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 19,
+    "sourcePagePath": "/pdf_pages/Construction_full_p19.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_284_19",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 284,
+    "questionText": "What is the preservation period of divisional cash book",
+    "options": [
+      "20 year",
+      "30 year",
+      "10 year",
+      "permanent"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 19,
+    "sourcePagePath": "/pdf_pages/Construction_full_p19.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_285_19",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 285,
+    "questionText": "What is the rate of depreciation of oil Engine.",
+    "options": [
+      "0.05",
+      "0.1",
+      "0.15",
+      "0.2"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 19,
+    "sourcePagePath": "/pdf_pages/Construction_full_p19.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_286_19",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 286,
+    "questionText": "What is the rate of depreciation of lamp equipments",
+    "options": [
+      "10 %",
+      "5 %",
+      "15 %",
+      "20 %"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 19,
+    "sourcePagePath": "/pdf_pages/Construction_full_p19.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_287_19",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 287,
+    "questionText": "What is the utility in maintaining the log book of inspection vehicle",
+    "options": [
+      "Run of the  vehicle",
+      "Recording the  repairs",
+      "Fuel  consumption",
+      "All of these"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 19,
+    "sourcePagePath": "/pdf_pages/Construction_full_p19.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_288_19",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 288,
+    "questionText": "What is the financial eligibility of class 8 contractor for tendering the civil works",
+    "options": [
+      "10 lakhs",
+      "2 lakhs",
+      "3 lakhs",
+      "5 lakhs"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 19,
+    "sourcePagePath": "/pdf_pages/Construction_full_p19.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_289_19",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 289,
+    "questionText": "What is the full form of IMF…………..?",
+    "options": [
+      "Internal  Monetary Fund",
+      "International  Monetary Fund",
+      "Indian  Monetary  Fund",
+      "International  Monetary  Function"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 19,
+    "sourcePagePath": "/pdf_pages/Construction_full_p19.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_290_19",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 290,
+    "questionText": "What is the validity period of M & R estimates of work",
+    "options": [
+      "April to March",
+      "Oct. to Sept.",
+      "Jan to Dec.",
+      "none of these"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 19,
+    "sourcePagePath": "/pdf_pages/Construction_full_p19.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_291_19",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 291,
+    "questionText": "What power are delegated to accept the tender of civil work to the Chief Engineer",
+    "options": [
+      "15 crores",
+      "5 crore",
+      "3 crore",
+      "full powers"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 19,
+    "sourcePagePath": "/pdf_pages/Construction_full_p19.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_292_20",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 292,
+    "questionText": "What power are delegated to sanction the extra item to the executive engineer",
+    "options": [
+      "10000",
+      "25000",
+      "50000",
+      "1 lakhs"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 20,
+    "sourcePagePath": "/pdf_pages/Construction_full_p20.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_293_20",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 293,
+    "questionText": "What powers are delegated to the Executive Engineer to carry out the work  departmentally",
+    "options": [
+      "5 lakhs",
+      "10 lakhs",
+      "2.5 lakhs",
+      "3 lakhs"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 20,
+    "sourcePagePath": "/pdf_pages/Construction_full_p20.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_294_20",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 294,
+    "questionText": "What powers are delegated to the S.E. to accept the tender of civil works",
+    "options": [
+      "250 lakhs",
+      "50 lakhs",
+      "100 lakhs",
+      "25 lakhs"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 20,
+    "sourcePagePath": "/pdf_pages/Construction_full_p20.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_295_20",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 295,
+    "questionText": "When the sanction of ordinary repairs estimate lapses",
+    "options": [
+      "last day of year",
+      "5 year",
+      "3 year",
+      "2 year"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 20,
+    "sourcePagePath": "/pdf_pages/Construction_full_p20.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_296_20",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 296,
+    "questionText": "What type of work is recorded in the standard measurement book",
+    "options": [
+      "aqueduct",
+      "canal",
+      "building",
+      "dam"
+    ],
+    "correctAnswerIndex": 2,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 20,
+    "sourcePagePath": "/pdf_pages/Construction_full_p20.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_297_20",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 297,
+    "questionText": "When the Divisional cash book is to be closed.",
+    "options": [
+      "20th",
+      "31st or 30th",
+      "1st",
+      "Non of this"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 20,
+    "sourcePagePath": "/pdf_pages/Construction_full_p20.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_298_20",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 298,
+    "questionText": "When the Maharashtra management of irrigation system by farmers Act. is  introduced",
+    "options": [
+      "2008",
+      "2001",
+      "2009",
+      "2005"
+    ],
+    "correctAnswerIndex": 3,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 20,
+    "sourcePagePath": "/pdf_pages/Construction_full_p20.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_299_20",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 299,
+    "questionText": "When the minimum wages act is passed and applicable to the workers of WRD &  PWD",
+    "options": [
+      "1st April 1950",
+      "15-Mar-48",
+      "31st March  1952",
+      "1st Oct 1960"
+    ],
+    "correctAnswerIndex": 1,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 20,
+    "sourcePagePath": "/pdf_pages/Construction_full_p20.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  },
+  {
+    "id": "Construction_300_20",
+    "subject": "Construction, Construction Materials, Stores Account",
+    "originalQuestionNumber": 300,
+    "questionText": "When the revised administrative approval is required to be obtained for excess  more than ---",
+    "options": [
+      "10%",
+      "15 %",
+      "20 %",
+      "30 %"
+    ],
+    "correctAnswerIndex": 0,
+    "sourcePdf": "Sample Questions CEA - Construction Const  material Stores Account.PDF",
+    "sourcePage": 20,
+    "sourcePagePath": "/pdf_pages/Construction_full_p20.png",
+    "diagramPath": "",
+    "validationStatus": "verified",
+    "hasDiagram": false
+  }
+]
